@@ -1,0 +1,1949 @@
+ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCEPTICON	COGNACY	COGID	SEGMENTS	ALIGNMENT
+1	1sg	1SG	duhumbi	duhumbi		ga	g a				101	g a	g a -
+101	1sg	1SG	khispi	khispi		ga	g a				101	g a	g a -
+201	1sg	1SG	rupa	rupa		gu	g u				101	g u	g u -
+301	1sg	1SG	shergaon	shergaon		gu	g u				101	g u	g u -
+400	1sg	1SG	rahung	rahung		gu	g u				101	g u	g u -
+504	1sg	1SG	khoitam	khoitam		gu	g u				101	g u	g u -
+606	1sg	1SG	jerigaon	jerigaon		gu	g u				101	g u	g u -
+706	1sg	1SG	khoina	khoina		gu	g u				101	g u	g u -
+805	1sg	1SG	dikhyang	dikhyang		koː	k oː				101	k oː	k oː -
+905	1sg	1SG	singchung	singchung		go	g o				101	g o	g o -
+994	1sg	1SG	wangho	wangho		ko	k o				101	k o	k o -
+1083	1sg	1SG	bichom	bichom		go ~ gu	g o				101	go ~ gu	go ~ gu
+1084	1sg	1SG	bichom	bichom		go ~ gu	g u				101	go ~ gu	go ~ gu
+1174	1sg	1SG	kaspi	kaspi		gu	g u				101	g u	g u -
+1263	1sg	1SG	namphri	namphri		go	g o				101	g o	g o -
+1352	1sg	1SG	bulu	bulu		guː	g uː				101	g uː	g uː -
+1452	1sg	1SG	kojorojo	kojorojo		go	g o				101	g o	g o -
+1552	1sg	1SG	rawa	rawa		go	g o				101	g o	g o -
+1649	1sg	1SG	saria	saria		go	g o				101	g o	g o -
+1749	1sg	1SG	chayangtajo	chayangtajo		go	g o				101	g o	g o -
+1849	1sg	1SG	lasumpatte	lasumpatte		go	g o				101	g o	g o -
+2	2sg	2SG	duhumbi	duhumbi		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+102	2sg	2SG	khispi	khispi		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+202	2sg	2SG	rupa	rupa		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+302	2sg	2SG	shergaon	shergaon		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+401	2sg	2SG	rahung	rahung		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+505	2sg	2SG	khoitam	khoitam		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+607	2sg	2SG	jerigaon	jerigaon		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+707	2sg	2SG	khoina	khoina		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+806	2sg	2SG	dikhyang	dikhyang		nɔ̃	n ɔ̃				301	n ɔ̃	n ɔ̃ -
+906	2sg	2SG	singchung	singchung		no	n o				301	n o	n o -
+995	2sg	2SG	wangho	wangho		no	n o				301	n o	n o -
+1085	2sg	2SG	bichom	bichom		no	n o				301	n o	n o -
+1175	2sg	2SG	kaspi	kaspi		no	n o				301	n o	n o -
+1264	2sg	2SG	namphri	namphri		no	n o				301	n o	n o -
+1353	2sg	2SG	bulu	bulu		naː	n aː				301	n aː	n aː -
+1453	2sg	2SG	kojorojo	kojorojo		naŋ	n a ŋ				301	n a ŋ	n a ŋ
+1553	2sg	2SG	rawa	rawa		na	n a				301	n a	n a -
+1650	2sg	2SG	saria	saria		na	n a				301	n a	n a -
+1750	2sg	2SG	chayangtajo	chayangtajo		na	n a				301	n a	n a -
+1850	2sg	2SG	lasumpatte	lasumpatte		na	n a				301	n a	n a -
+3	3sg	3SG	duhumbi	duhumbi		wɔj	w ɔ j				501	w ɔ j	- - - w ɔ j - -
+103	3sg	3SG	khispi	khispi		wuj	w u j				501	w u j	- - - w u j - -
+203	3sg	3SG	rupa	rupa		wa	w a				501	w a	- - - w a - - -
+303	3sg	3SG	shergaon	shergaon		wa	w a				501	w a	- - - w a - - -
+402	3sg	3SG	rahung	rahung		hɛ ~ ʔɛ	h ɛ				501	hɛ ~ ʔɛ	- - - - - hɛ ~ ʔɛ
+403	3sg	3SG	rahung	rahung		hɛ ~ ʔɛ	ʔ ɛ				501	hɛ ~ ʔɛ	- - - - - hɛ ~ ʔɛ
+506	3sg	3SG	khoitam	khoitam		wa-ʥi	w a + dʑ i				501	w a ʥ i	- - - w a ʥ i -
+608	3sg	3SG	jerigaon	jerigaon		wa	w a				501	w a	- - - w a - - -
+708	3sg	3SG	khoina	khoina		laŋ-wa	l a ŋ + w a				501	l a ŋ w a	l a ŋ w a - - -
+807	3sg	3SG	dikhyang	dikhyang		oɛ	o ɛ				501	oɛ	- - - - oɛ - - -
+907	3sg	3SG	singchung	singchung		oe	oe				501	oe	- - - - oe - - -
+996	3sg	3SG	wangho	wangho		we	w e				501	w e	- - - w e - - -
+1086	3sg	3SG	bichom	bichom		uwe	u w e				501	u w e	- u - w e - - -
+1176	3sg	3SG	kaspi	kaspi		tʰe	tʰ e				502	tʰ e	tʰ e
+1265	3sg	3SG	namphri	namphri		oe	oe				501	oe	- - - - oe - - -
+1354	3sg	3SG	bulu	bulu		vɛː	v ɛː				501	v ɛː	- - - v ɛː - - -
+1454	3sg	3SG	kojorojo	kojorojo		wai	w ai				501	w ai	- - - w ai - - -
+1554	3sg	3SG	rawa	rawa		hoː	h oː				503	h oː	h oː
+1651	3sg	3SG	saria	saria		waː	w aː				501	w aː	- - - w aː - - -
+1751	3sg	3SG	chayangtajo	chayangtajo		wɛː	w ɛː				501	w ɛː	- - - w ɛː - - -
+1851	3sg	3SG	lasumpatte	lasumpatte		wɛː	w ɛː				501	w ɛː	- - - w ɛː - - -
+4	ant	ant	duhumbi	duhumbi		kʰin-ʨʰɔk	kʰ i n + tɕʰ ɔ k				701	kʰ i n ʨʰ ɔ k	kʰ - i n - ʨʰ - ɔ k
+104	ant	ant	khispi	khispi		kʰe-ʨʰɔk	kʰ e + tɕʰ ɔ k				701	kʰ e ʨʰ ɔ k	kʰ - e - - ʨʰ - ɔ k
+204	ant	ant	rupa	rupa		san-ʥɔk	s a n + dʑ ɔ k				701	s a n ʥ ɔ k	s - a n - ʥ - ɔ k
+304	ant	ant	shergaon	shergaon		san-ʥɔk	s a n + dʑ ɔ k				701	s a n ʥ ɔ k	s - a n - ʥ - ɔ k
+404	ant	ant	rahung	rahung		saŋ-ʥɔk	s a ŋ + dʑ ɔ k				701	s a ŋ ʥ ɔ k	s - a ŋ - ʥ - ɔ k
+507	ant	ant	khoitam	khoitam		saŋ-ʥɔk	s a ŋ + dʑ ɔ k				701	s a ŋ ʥ ɔ k	s - a ŋ - ʥ - ɔ k
+609	ant	ant	jerigaon	jerigaon		san-ʥɔk	s a n + dʑ ɔ k				701	s a n ʥ ɔ k	s - a n - ʥ - ɔ k
+709	ant	ant	khoina	khoina		ʂan-ʥɔk	ʂ a n + dʑ ɔ k				701	ʂ a n ʥ ɔ k	ʂ - a n - ʥ - ɔ k
+808	ant	ant	dikhyang	dikhyang		ɕi-ɲiŋ	ɕ i + ɲ i ŋ				702	ɕ i ɲ i ŋ	ɕ i ɲ i ŋ
+908	ant	ant	singchung	singchung		ʃiŋiŋ	ʃ i ŋ i ŋ				702	ʃ i ŋ i ŋ	ʃ i ŋ i ŋ
+997	ant	ant	wangho	wangho		ʃiŋiŋ	ʃ i ŋ i ŋ				702	ʃ i ŋ i ŋ	ʃ i ŋ i ŋ
+1087	ant	ant	bichom	bichom		siiŋ	s iː ŋ				702	s ii ŋ	s ii - - ŋ
+1177	ant	ant	kaspi	kaspi		ʃiŋiŋ	ʃ i ŋ i ŋ				702	ʃ i ŋ i ŋ	ʃ i ŋ i ŋ
+1266	ant	ant	namphri	namphri		ʃiŋiŋ	ʃ i ŋ i ŋ				702	ʃ i ŋ i ŋ	ʃ i ŋ i ŋ
+1355	ant	ant	bulu	bulu		ʤam-ʤuʔ	dʒ a m + dʒ u ʔ				701	ʤ a m ʤ u ʔ	ʤ - a m - ʤ - u ʔ
+1455	ant	ant	kojorojo	kojorojo		gam-gɹu	g a m + g ɹ u				701	g a m g ɹ u	g - a m - g ɹ u -
+1555	ant	ant	rawa	rawa		ga-mə-gɹoː	g a + m ə + g ɹ oː				701	g a m ə g ɹ oː	g - a m ə g ɹ oː -
+1652	ant	ant	saria	saria		gɹɛŋ-gɹo	g ɹ ɛ ŋ + g ɹ o				701	g ɹ ɛ ŋ g ɹ o	g ɹ ɛ ŋ - g ɹ o -
+1752	ant	ant	chayangtajo	chayangtajo		gɹɛŋ-gɹo	g ɹ ɛ ŋ + g ɹ o				701	g ɹ ɛ ŋ g ɹ o	g ɹ ɛ ŋ - g ɹ o -
+1852	ant	ant	lasumpatte	lasumpatte		gɹɛŋ-gɹo	g ɹ ɛ ŋ + g ɹ o				701	g ɹ ɛ ŋ g ɹ o	g ɹ ɛ ŋ - g ɹ o -
+5	armhand	arm/hand	duhumbi	duhumbi		hut	h u t				901	h u t	h u t
+105	armhand	arm/hand	khispi	khispi		hut	h u t				901	h u t	h u t
+205	armhand	arm/hand	rupa	rupa		ik	i k				902	i k	i k
+305	armhand	arm/hand	shergaon	shergaon		ik	i k				902	i k	i k
+405	armhand	arm/hand	rahung	rahung		ik	i k				902	i k	i k
+508	armhand	arm/hand	khoitam	khoitam		ik	i k				902	i k	i k
+610	armhand	arm/hand	jerigaon	jerigaon		ik	i k				902	i k	i k
+710	armhand	arm/hand	khoina	khoina		ik	i k				902	i k	i k
+809	armhand	arm/hand	dikhyang	dikhyang		wat	w a t				903	w a t	w a t
+909	armhand	arm/hand	singchung	singchung		wat	w a t				903	w a t	w a t
+998	armhand	arm/hand	wangho	wangho		wat	w a t				903	w a t	w a t
+1088	armhand	arm/hand	bichom	bichom		wat	w a t				903	w a t	w a t
+1178	armhand	arm/hand	kaspi	kaspi		wat	w a t				903	w a t	w a t
+1267	armhand	arm/hand	namphri	namphri		wat	w a t				903	w a t	w a t
+1356	armhand	arm/hand	bulu	bulu		geʔ	g e ʔ				904	g e ʔ	g e ʔ
+1456	armhand	arm/hand	kojorojo	kojorojo		geiʔ	g ei ʔ				904	g ei ʔ	g ei ʔ
+1556	armhand	arm/hand	rawa	rawa		get	g e t				904	g e t	g e t
+1653	armhand	arm/hand	saria	saria		geiʔ	g ei ʔ				904	g ei ʔ	g ei ʔ
+1753	armhand	arm/hand	chayangtajo	chayangtajo		geiʔ	g ei ʔ				904	g ei ʔ	g ei ʔ
+1853	armhand	arm/hand	lasumpatte	lasumpatte		geiʔ	g ei ʔ				904	g ei ʔ	g ei ʔ
+6	ash	ash	duhumbi	duhumbi		ʨʰu-pʰak	tɕʰ u + pʰ a k				1101	ʨʰ u pʰ a k	ʨʰ u pʰ - a k
+106	ash	ash	khispi	khispi		ʨʰu-pʰa	tɕʰ u + pʰ a				1101	ʨʰ u pʰ a	ʨʰ u pʰ - a -
+206	ash	ash	rupa	rupa		ʨʰa-pʰluː	tɕʰ a + pʰ l uː				1101	ʨʰ a pʰ l uː	ʨʰ a pʰ l uː -
+306	ash	ash	shergaon	shergaon		ʨʰa-pʰuː	tɕʰ a + pʰ uː				1101	ʨʰ a pʰ uː	ʨʰ a pʰ - uː -
+406	ash	ash	rahung	rahung		ʨʰa-pʰluː	tɕʰ a + pʰ l uː				1101	ʨʰ a pʰ l uː	ʨʰ a pʰ l uː -
+509	ash	ash	khoitam	khoitam		ʨʰa-pʰluː	tɕʰ a + pʰ l uː				1101	ʨʰ a pʰ l uː	ʨʰ a pʰ l uː -
+611	ash	ash	jerigaon	jerigaon		ʨʰa-pʰluː	tɕʰ a + pʰ l uː				1101	ʨʰ a pʰ l uː	ʨʰ a pʰ l uː -
+711	ash	ash	khoina	khoina		ʥɐ-pʰluː	dʑ ɐ + pʰ l uː				1101	ʥ ɐ pʰ l uː	ʥ ɐ pʰ l uː -
+810	ash	ash	dikhyang	dikhyang		sə-pʰiə	s ə + pʰ iə				1102	s ə pʰ iə	s ə pʰ iə - -
+910	ash	ash	singchung	singchung		s-pije	s + p i j e				1102	s p i j e	s - p i j e
+999	ash	ash	wangho	wangho		s-pije	s + p i j e				1102	s p i j e	s - p i j e
+1089	ash	ash	bichom	bichom		s-pije	s + p i j e				1102	s p i j e	s - p i j e
+1179	ash	ash	kaspi	kaspi		s-pije	s + p i j e				1102	s p i j e	s - p i j e
+1268	ash	ash	namphri	namphri		s-pije	s + p i j e				1102	s p i j e	s - p i j e
+1357	ash	ash	bulu	bulu		pʰa-rəp	pʰ a + r ə p				1103	pʰ a r ə p	pʰ a r ə p
+1457	ash	ash	kojorojo	kojorojo		bə-rəm	b ə + r ə m				1103	b ə r ə m	b ə r ə m
+1557	ash	ash	rawa	rawa		bai-rəp	b ai + r ə p				1103	b ai r ə p	b ai r ə p
+1654	ash	ash	saria	saria		bai-rəʔ	b ai + r ə ʔ				1103	b ai r ə ʔ	b ai r ə ʔ
+1754	ash	ash	chayangtajo	chayangtajo		bɛɛ-rak	b ɛː + r a k				1103	b ɛɛ r a k	b ɛɛ r a k
+1854	ash	ash	lasumpatte	lasumpatte		bɛɛ-rak	b ɛː + r a k				1103	b ɛɛ r a k	b ɛɛ r a k
+7	big	big	duhumbi	duhumbi		ɔ-dɔk	ɔ + d ɔ k				1301	ɔ d ɔ k	ɔ d ɔ k
+107	big	big	khispi	khispi		ɔ-dɔk	ɔ + d ɔ k				1301	ɔ d ɔ k	ɔ d ɔ k
+207	big	big	rupa	rupa		a-dɔk	a + d ɔ k				1301	a d ɔ k	a d ɔ k
+307	big	big	shergaon	shergaon		a-dɔk	a + d ɔ k				1301	a d ɔ k	a d ɔ k
+407	big	big	rahung	rahung		a-dɔk	a + d ɔ k				1301	a d ɔ k	a d ɔ k
+510	big	big	khoitam	khoitam		a-dɔk	a + d ɔ k				1301	a d ɔ k	a d ɔ k
+612	big	big	jerigaon	jerigaon		a-dɔk	a + d ɔ k				1301	a d ɔ k	a d ɔ k
+712	big	big	khoina	khoina		a-dɔk	a + d ɔ k				1301	a d ɔ k	a d ɔ k
+811	big	big	dikhyang	dikhyang		ə-põː	ə + p õː				1302	ə p õː	ə p õː
+911	big	big	singchung	singchung		e-boᵘ	e + b oᵘ/o				1302	e b oᵘ	e b oᵘ
+1000	big	big	wangho	wangho		e-boᵘ	e + b oᵘ/o				1302	e b oᵘ	e b oᵘ
+1090	big	big	bichom	bichom		boᵘ	b oᵘ/o				1302	b oᵘ	- b oᵘ
+1180	big	big	kaspi	kaspi		boᵘ	b oᵘ/o				1302	b oᵘ	- b oᵘ
+1269	big	big	namphri	namphri		boᵘ	b oᵘ/o				1302	b oᵘ	- b oᵘ
+1358	big	big	bulu	bulu		a-raː	a + r aː				1303	a r aː	a r aː
+1458	big	big	kojorojo	kojorojo		a-rai	a + r ai				1303	a r ai	a r ai
+1558	big	big	rawa	rawa		a-rai	a + r ai				1303	a r ai	a r ai
+1655	big	big	saria	saria		toʔ	t o ʔ				1301	t o ʔ	- t o ʔ
+1755	big	big	chayangtajo	chayangtajo		kəlaː	k ə l aː				1304	k ə l aː	k ə l aː
+1855	big	big	lasumpatte	lasumpatte		kəlaː	k ə l aː				1304	k ə l aː	k ə l aː
+8	bird	bird	duhumbi	duhumbi		hwa	w̥ a				1501	h w a	h w a
+108	bird	bird	khispi	khispi		hwa	w̥ a				1501	h w a	h w a
+208	bird	bird	rupa	rupa		hu	h u				1501	h u	h - u
+308	bird	bird	shergaon	shergaon		hu	h u				1501	h u	h - u
+408	bird	bird	rahung	rahung		hu	h u				1501	h u	h - u
+511	bird	bird	khoitam	khoitam		hu	h u				1501	h u	h - u
+613	bird	bird	jerigaon	jerigaon		hu	h u				1501	h u	h - u
+713	bird	bird	khoina	khoina		fu	f u				1501	f u	- f u
+812	bird	bird	dikhyang	dikhyang		fuə	f uə				1501	f uə	- f uə
+912	bird	bird	singchung	singchung		fua	f ua				1501	f ua	- f ua
+1001	bird	bird	wangho	wangho		fua	f ua				1501	f ua	- f ua
+1091	bird	bird	bichom	bichom		fua	f ua				1501	f ua	- f ua
+1181	bird	bird	kaspi	kaspi		fo	f o				1501	f o	- f o
+1270	bird	bird	namphri	namphri		fua	f ua				1501	f ua	- f ua
+1359	bird	bird	bulu	bulu		pə-duː	p ə + d uː				1502	p ə d uː	p ə d uː
+1459	bird	bird	kojorojo	kojorojo		pə-doː	p ə + d oː				1502	p ə d oː	p ə d oː
+1559	bird	bird	rawa	rawa		pə-doː	p ə + d oː				1502	p ə d oː	p ə d oː
+1656	bird	bird	saria	saria		pə-doː	p ə + d oː				1502	p ə d oː	p ə d oː
+1756	bird	bird	chayangtajo	chayangtajo		pə-dou	p ə + d ou				1502	p ə d ou	p ə d ou
+1856	bird	bird	lasumpatte	lasumpatte		pə-dou	p ə + d ou				1502	p ə d ou	p ə d ou
+9	bite	bite	duhumbi	duhumbi		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+109	bite	bite	khispi	khispi		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+209	bite	bite	rupa	rupa		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+309	bite	bite	shergaon	shergaon		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+409	bite	bite	rahung	rahung		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+512	bite	bite	khoitam	khoitam		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+614	bite	bite	jerigaon	jerigaon		zɛk	z ɛ k				1701	z ɛ k	z ɛ k
+813	bite	bite	dikhyang	dikhyang		kʰrik	kʰ r i k				1702	kʰ r i k	kʰ r i k
+913	bite	bite	singchung	singchung		tʰok-mage	tʰ o k + m a g e				1703	tʰ o k m a g e	tʰ o k m a g e
+1002	bite	bite	wangho	wangho		kʰrik	kʰ r i k				1702	kʰ r i k	kʰ r i k
+1092	bite	bite	bichom	bichom		tʰok-pʰa	tʰ o k + pʰ a				1703	tʰ o k pʰ a	tʰ o k pʰ a - -
+1182	bite	bite	kaspi	kaspi		ʧi-pʰa	tʃ i + pʰ a				1704	ʧ i pʰ a	ʧ i pʰ a
+1271	bite	bite	namphri	namphri		tʰok-pʰa	tʰ o k + pʰ a				1703	tʰ o k pʰ a	tʰ o k pʰ a - -
+1360	bite	bite	bulu	bulu		tɔʔ	t ɔ ʔ				1703	t ɔ ʔ	t ɔ ʔ - - - -
+1460	bite	bite	kojorojo	kojorojo		tua	t ua				1703	t ua	t ua - - - - -
+1560	bite	bite	rawa	rawa		tua	t ua				1703	t ua	t ua - - - - -
+1657	bite	bite	saria	saria		tua	t ua				1703	t ua	t ua - - - - -
+1757	bite	bite	chayangtajo	chayangtajo		tua	t ua				1703	t ua	t ua - - - - -
+1857	bite	bite	lasumpatte	lasumpatte		tua	t ua				1703	t ua	t ua - - - - -
+10	bitter	bitter	duhumbi	duhumbi		ʨʰak-ba	tɕʰ a k + b a				1901	ʨʰ a k b a	- ʨʰ - a k b a
+110	bitter	bitter	khispi	khispi		ʨʰak-ba	tɕʰ a k + b a				1901	ʨʰ a k b a	- ʨʰ - a k b a
+210	bitter	bitter	rupa	rupa		ʨʰɐk	tɕʰ ɐ k				1901	ʨʰ ɐ k	- ʨʰ - ɐ k - -
+310	bitter	bitter	shergaon	shergaon		a-ʨʰak	a + tɕʰ a k				1901	a ʨʰ a k	a ʨʰ - a k - -
+410	bitter	bitter	rahung	rahung		ʨʰak	tɕʰ a k				1901	ʨʰ a k	- ʨʰ - a k - -
+513	bitter	bitter	khoitam	khoitam		ʨʰak	tɕʰ a k				1901	ʨʰ a k	- ʨʰ - a k - -
+615	bitter	bitter	jerigaon	jerigaon		ʨʰak	tɕʰ a k				1901	ʨʰ a k	- ʨʰ - a k - -
+714	bitter	bitter	khoina	khoina		a-ʨʰak	a + tɕʰ a k				1901	a ʨʰ a k	a ʨʰ - a k - -
+814	bitter	bitter	dikhyang	dikhyang		ə-kʰoː	ə + kʰ oː				1902	ə kʰ oː	ə kʰ oː
+914	bitter	bitter	singchung	singchung		kʰoᵘ	kʰ oᵘ/o				1902	kʰ oᵘ	- kʰ oᵘ
+1003	bitter	bitter	wangho	wangho		ekʰoᵘ	e kʰ oᵘ/o				1902	e kʰ oᵘ	e kʰ oᵘ
+1093	bitter	bitter	bichom	bichom		kʰoᵘ	kʰ oᵘ/o				1902	kʰ oᵘ	- kʰ oᵘ
+1183	bitter	bitter	kaspi	kaspi		kʰoᵘ	kʰ oᵘ/o				1902	kʰ oᵘ	- kʰ oᵘ
+1272	bitter	bitter	namphri	namphri		e-kʰoᵘ	e + kʰ oᵘ/o				1902	e kʰ oᵘ	e kʰ oᵘ
+1361	bitter	bitter	bulu	bulu		a-ʧaʔ	a + tʃ a ʔ				1901	a ʧ a ʔ	a ʧ - a ʔ - -
+1461	bitter	bitter	kojorojo	kojorojo		a-ʧuaʔ	a + tʃ ua ʔ				1901	a ʧ ua ʔ	a ʧ - ua ʔ - -
+1561	bitter	bitter	rawa	rawa		a-ʧaː	a + tʃ aː				1901	a ʧ aː	a ʧ - aː - - -
+1658	bitter	bitter	saria	saria		a-kjaː	a + k j aː				1901	a k j aː	- - - a k j aː
+1758	bitter	bitter	chayangtajo	chayangtajo		a-ʧaː	a + tʃ aː				1901	a ʧ aː	a ʧ - aː - - -
+1858	bitter	bitter	lasumpatte	lasumpatte		a-ʧjaː	a + tʃ j aː				1901	a ʧ j aː	a ʧ j aː - - -
+11	black	black	duhumbi	duhumbi		u-ʨʰam	u + tɕʰ a m				2101	u ʨʰ a m	u ʨʰ - a m
+111	black	black	khispi	khispi		u-ʨʰam	u + tɕʰ a m				2101	u ʨʰ a m	u ʨʰ - a m
+211	black	black	rupa	rupa		a-ʨʰũː	a + tɕʰ ũː				2101	a ʨʰ ũː	a ʨʰ - ũː -
+311	black	black	shergaon	shergaon		a-ʨʰɔ̃ː	a + tɕʰ ɔ̃ː				2101	a ʨʰ ɔ̃ː	a ʨʰ - ɔ̃ː -
+411	black	black	rahung	rahung		a-ʨʰũː	a + tɕʰ ũː				2101	a ʨʰ ũː	a ʨʰ - ũː -
+514	black	black	khoitam	khoitam		a-ʨʰũː	a + tɕʰ ũː				2101	a ʨʰ ũː	a ʨʰ - ũː -
+616	black	black	jerigaon	jerigaon		a-ʨʰũː	a + tɕʰ ũː				2101	a ʨʰ ũː	a ʨʰ - ũː -
+715	black	black	khoina	khoina		a-tʂʰũː	a + ʈʂʰ ũː				2101	a t ʂʰ ũː	a t ʂʰ ũː -
+815	black	black	dikhyang	dikhyang		ə-sai	ə + s ai				2102	ə s ai	ə s ai - - -
+915	black	black	singchung	singchung		e-saⁱ	e + s aⁱ/ai				2102	e s aⁱ	e s aⁱ - - -
+1004	black	black	wangho	wangho		e-saⁱ	e + s aⁱ/ai				2102	e s aⁱ	e s aⁱ - - -
+1094	black	black	bichom	bichom		e-saⁱ/soⁱ	e + s aⁱ/ai				2102	e s aⁱ / s oⁱ	e s aⁱ / s oⁱ
+1095	black	black	bichom	bichom		e-saⁱ/soⁱ	s oⁱ/o				2102	e s aⁱ / s oⁱ	e s aⁱ / s oⁱ
+1184	black	black	kaspi	kaspi		soⁱ	s oⁱ/o				2102	s oⁱ	- - - - s oⁱ
+1273	black	black	namphri	namphri		e-sui	e + s ui				2102	e s ui	e s ui - - -
+1362	black	black	bulu	bulu		a-hjɛN	a + h j ɛ N/ɴ				2103	a h j ɛ N	a h j ɛ N
+1462	black	black	kojorojo	kojorojo		a-hjeĩ	a + h j eĩ/ẽi				2103	a h j eĩ	a h j eĩ -
+1562	black	black	rawa	rawa		a-hjɛĩ	a + h j ɛĩ/ɛ̃i				2103	a h j ɛĩ	a h j ɛĩ -
+1659	black	black	saria	saria		a-hɛ̃	a + h ɛ̃				2103	a h ɛ̃	a h - ɛ̃ -
+1759	black	black	chayangtajo	chayangtajo		a-hjɛ̃	a + h j ɛ̃				2103	a h j ɛ̃	a h j ɛ̃ -
+1859	black	black	lasumpatte	lasumpatte		a-hjɛ̃	a + h j ɛ̃				2103	a h j ɛ̃	a h j ɛ̃ -
+12	blood	blood	duhumbi	duhumbi		hɔj	h ɔ j				2301	h ɔ j	- - h ɔ j
+112	blood	blood	khispi	khispi		hɔj	h ɔ j				2301	h ɔ j	- - h ɔ j
+212	blood	blood	rupa	rupa		haː	h aː				2301	h aː	- - h aː -
+312	blood	blood	shergaon	shergaon		haː	h aː				2301	h aː	- - h aː -
+412	blood	blood	rahung	rahung		hɛː	h ɛː				2301	h ɛː	- - h ɛː -
+515	blood	blood	khoitam	khoitam		hɛː	h ɛː				2301	h ɛː	- - h ɛː -
+617	blood	blood	jerigaon	jerigaon		hɛː	h ɛː				2301	h ɛː	- - h ɛː -
+716	blood	blood	khoina	khoina		xaː	x aː				2301	x aː	- - x aː -
+816	blood	blood	dikhyang	dikhyang		ə-fuɛ	ə + f uɛ				2301	ə f uɛ	- ə f uɛ -
+916	blood	blood	singchung	singchung		e-fua	e + f ua				2301	e f ua	- e f ua -
+1005	blood	blood	wangho	wangho		e-fua	e + f ua				2301	e f ua	- e f ua -
+1096	blood	blood	bichom	bichom		e-fua	e + f ua				2301	e f ua	- e f ua -
+1185	blood	blood	kaspi	kaspi		nə-faⁱ	n ə + f aⁱ/ai				2301	n ə f aⁱ	n ə f aⁱ -
+1274	blood	blood	namphri	namphri		mə-faⁱ	m ə + f aⁱ/ai				2301	m ə f aⁱ	m ə f aⁱ -
+1363	blood	blood	bulu	bulu		a-hui	a + h ui				2301	a h ui	- a h ui -
+1463	blood	blood	kojorojo	kojorojo		a-fui	a + f ui				2301	a f ui	- a f ui -
+1563	blood	blood	rawa	rawa		fui	f ui				2301	f ui	- - f ui -
+1660	blood	blood	saria	saria		hue	h ue				2301	h ue	- - h ue -
+1760	blood	blood	chayangtajo	chayangtajo		hue	h ue				2301	h ue	- - h ue -
+1860	blood	blood	lasumpatte	lasumpatte		hue	h ue				2301	h ue	- - h ue -
+13	bone	bone	duhumbi	duhumbi		ɕa-kʰus	ɕ a + kʰ u s				2501	ɕ a kʰ u s	- ɕ a kʰ u s
+113	bone	bone	khispi	khispi		ɕa-kʰus	ɕ a + kʰ u s				2501	ɕ a kʰ u s	- ɕ a kʰ u s
+213	bone	bone	rupa	rupa		s-kik	s + k i k				2501	s k i k	- s - k i k
+313	bone	bone	shergaon	shergaon		s-kit	s + k i t				2501	s k i t	- s - k i t
+413	bone	bone	rahung	rahung		s-kik	s + k i k				2501	s k i k	- s - k i k
+516	bone	bone	khoitam	khoitam		sə-kik ~ s-kik	s ə + k i k				2501	sə-kik ~ s-kik	- sə-kik ~ - - s-kik
+517	bone	bone	khoitam	khoitam		sə-kik ~ s-kik	s + k i k				2501	sə-kik ~ s-kik	- sə-kik ~ - - s-kik
+618	bone	bone	jerigaon	jerigaon		i-hik	i + h i k				2501	i h i k	i h - - i k
+717	bone	bone	khoina	khoina		a-xyk	a + x y k				2501	a x y k	a x - - y k
+817	bone	bone	dikhyang	dikhyang		ə-sɛŋ ~ ə-zɛŋ	ə + s ɛ ŋ				2502	ə-sɛŋ ~ ə-zɛŋ	- ə-sɛŋ ~ ə-zɛŋ -
+818	bone	bone	dikhyang	dikhyang		ə-sɛŋ ~ ə-zɛŋ	ə + z ɛ ŋ				2502	ə-sɛŋ ~ ə-zɛŋ	- ə-sɛŋ ~ ə-zɛŋ -
+917	bone	bone	singchung	singchung		e-zeŋ	e + z e ŋ				2502	e z e ŋ	- e z e ŋ
+1006	bone	bone	wangho	wangho		e-zak	e + z a k				2502	e z a k	- e z a k
+1097	bone	bone	bichom	bichom		e-zeŋ	e + z e ŋ				2502	e z e ŋ	- e z e ŋ
+1186	bone	bone	kaspi	kaspi		ni-zeŋ	n i + z e ŋ				2502	n i z e ŋ	n i z e ŋ
+1275	bone	bone	namphri	namphri		e-zeŋ	e + z e ŋ				2502	e z e ŋ	- e z e ŋ
+1364	bone	bone	bulu	bulu		a-zɛN	a + z ɛ N/ɴ				2502	a z ɛ N	- a z ɛ N
+1464	bone	bone	kojorojo	kojorojo		a-ʒan	a + ʒ a n				2502	a ʒ a n	- a ʒ a n
+1564	bone	bone	rawa	rawa		a-zaʔ	a + z a ʔ				2502	a z a ʔ	- a z a ʔ
+1661	bone	bone	saria	saria		a-zaiʔ	a + z ai ʔ				2502	a z ai ʔ	- a z ai ʔ
+1761	bone	bone	chayangtajo	chayangtajo		a-zaiʔ	a + z ai ʔ				2502	a z ai ʔ	- a z ai ʔ
+1861	bone	bone	lasumpatte	lasumpatte		a-ʤaiʔ	a + dʒ ai ʔ				2502	a ʤ ai ʔ	- a ʤ ai ʔ
+14	breast	breast	duhumbi	duhumbi		nu	n u				2701	n u	n u -
+114	breast	breast	khispi	khispi		ɲu	ɲ u				2701	ɲ u	ɲ u -
+214	breast	breast	rupa	rupa		ɲyŋ	ɲ y ŋ				2702	ɲ y ŋ	ɲ y ŋ
+314	breast	breast	shergaon	shergaon		ɲuŋ	ɲ u ŋ				2702	ɲ u ŋ	ɲ u ŋ
+414	breast	breast	rahung	rahung		nyŋ	n y ŋ				2702	n y ŋ	n y ŋ
+518	breast	breast	khoitam	khoitam		nyŋ	n y ŋ				2702	n y ŋ	n y ŋ
+619	breast	breast	jerigaon	jerigaon		nyŋ	n y ŋ				2702	n y ŋ	n y ŋ
+718	breast	breast	khoina	khoina		nyŋ	n y ŋ				2702	n y ŋ	n y ŋ
+819	breast	breast	dikhyang	dikhyang		ɲeoː	ɲ eoː				2701	ɲ eoː	ɲ eoː -
+918	breast	breast	singchung	singchung		ɲeoː	ɲ eoː				2701	ɲ eoː	ɲ eoː -
+1007	breast	breast	wangho	wangho		ɲeoː	ɲ eoː				2701	ɲ eoː	ɲ eoː -
+1098	breast	breast	bichom	bichom		niw	n i w				2701	n i w	n i w
+1187	breast	breast	kaspi	kaspi		dut	d u t				2705	d u t	d u t
+1276	breast	breast	namphri	namphri		niw	n i w				2701	n i w	n i w
+1365	breast	breast	bulu	bulu		a-njɛː	a + n j ɛː				2704	a n j ɛː	a n j ɛː
+1465	breast	breast	kojorojo	kojorojo		a-njei	a + n j ei				2704	a n j ei	a n j ei
+1565	breast	breast	rawa	rawa		njɛi	n j ɛi				2704	n j ɛi	- n j ɛi
+1662	breast	breast	saria	saria		ɲɛː	ɲ ɛː				2704	ɲ ɛː	- ɲ - ɛː
+1762	breast	breast	chayangtajo	chayangtajo		a-njɛː	a + n j ɛː				2704	a n j ɛː	a n j ɛː
+1862	breast	breast	lasumpatte	lasumpatte		a-njɛː	a + n j ɛː				2704	a n j ɛː	a n j ɛː
+17	cloud	cloud	duhumbi	duhumbi		mukpa	m u k p a				3301	m u k p a	m u k p a
+117	cloud	cloud	khispi	khispi		tɔŋ-ti	t ɔ ŋ + t i				3302	t ɔ ŋ t i	t ɔ ŋ t i - -
+217	cloud	cloud	rupa	rupa		s-ty	s + t y				3302	s t y	s - - t y - -
+317	cloud	cloud	shergaon	shergaon		sin-ty	s i n + t y				3302	s i n t y	s i n t y - -
+417	cloud	cloud	rahung	rahung		syn-ty	s y n + t y				3302	s y n t y	s y n t y - -
+521	cloud	cloud	khoitam	khoitam		syŋ-ty	s y ŋ + t y				3302	s y ŋ t y	s y ŋ t y - -
+622	cloud	cloud	jerigaon	jerigaon		s-ty	s + t y				3302	s t y	s - - t y - -
+721	cloud	cloud	khoina	khoina		ɕ-tỹ	ɕ + t ỹ				3302	ɕ t ỹ	ɕ - - t ỹ - -
+822	cloud	cloud	dikhyang	dikhyang		sə-kʰa-mau	s ə + kʰ a + m au				3303	s ə kʰ a m au	s ə kʰ a m au -
+920	cloud	cloud	singchung	singchung		s-kə-moᵘ	s + k ə + m oᵘ/o				3303	s k ə m oᵘ	s - k ə m oᵘ -
+1009	cloud	cloud	wangho	wangho		s-kə-moᵘ	s + k ə + m oᵘ/o				3303	s k ə m oᵘ	s - k ə m oᵘ -
+1100	cloud	cloud	bichom	bichom		ʧa-ka-maŋ	tʃ a + k a + m a ŋ				3303	ʧ a k a m a ŋ	ʧ a k a m a ŋ
+1189	cloud	cloud	kaspi	kaspi		ʧa-ka-maŋ	tʃ a + k a + m a ŋ				3303	ʧ a k a m a ŋ	ʧ a k a m a ŋ
+1278	cloud	cloud	namphri	namphri		ʧa-ka-maŋ	tʃ a + k a + m a ŋ				3303	ʧ a k a m a ŋ	ʧ a k a m a ŋ
+1368	cloud	cloud	bulu	bulu		sə-tɨː	s ə + t ɨː				3302	s ə t ɨː	s ə - t ɨː - -
+1468	cloud	cloud	kojorojo	kojorojo		ka-dəu-sə	k a + d əu + s ə				3302	k a d əu s ə	k a - d əu s ə
+1568	cloud	cloud	rawa	rawa		toŋ-səu	t o ŋ + s əu				3302	t o ŋ s əu	t o ŋ s əu - -
+1665	cloud	cloud	saria	saria		ka-tɨː-sɨː	k a + t ɨː + s ɨː				3302	k a t ɨː s ɨː	k a - t ɨː s ɨː
+1765	cloud	cloud	chayangtajo	chayangtajo		ka-təː	k a + t əː				3302	k a t əː	k a - t əː - -
+1865	cloud	cloud	lasumpatte	lasumpatte		ka-təː	k a + t əː				3302	k a t əː	k a - t əː - -
+21	dog	dog	duhumbi	duhumbi		wa-tʰi	w a + tʰ i				4101	w a tʰ i	w a tʰ i
+121	dog	dog	khispi	khispi		wa-tʰi	w a + tʰ i				4101	w a tʰ i	w a tʰ i
+221	dog	dog	rupa	rupa		bə-tʰaː	b ə + tʰ aː				4101	b ə tʰ aː	b ə tʰ aː
+321	dog	dog	shergaon	shergaon		pʰ-tʰaː	pʰ + tʰ aː				4101	pʰ tʰ aː	pʰ - tʰ aː
+422	dog	dog	rahung	rahung		pʰ-tʰɛː	pʰ + tʰ ɛː				4101	pʰ tʰ ɛː	pʰ - tʰ ɛː
+525	dog	dog	khoitam	khoitam		pʰ-tʰɛː	pʰ + tʰ ɛː				4101	pʰ tʰ ɛː	pʰ - tʰ ɛː
+626	dog	dog	jerigaon	jerigaon		pʰ-tʰɛː	pʰ + tʰ ɛː				4101	pʰ tʰ ɛː	pʰ - tʰ ɛː
+725	dog	dog	khoina	khoina		bə-tʰaː	b ə + tʰ aː				4101	b ə tʰ aː	b ə tʰ aː
+826	dog	dog	dikhyang	dikhyang		ʨɔi	tɕ ɔi				4106	ʨ ɔi	ʨ ɔi
+924	dog	dog	singchung	singchung		ʧi	tʃ i				4106	ʧ i	ʧ i
+1013	dog	dog	wangho	wangho		ʧaⁱ	tʃ aⁱ/ai				4106	ʧ aⁱ	ʧ aⁱ
+1104	dog	dog	bichom	bichom		ʧoⁱ	tʃ oⁱ/o				4106	ʧ oⁱ	ʧ oⁱ
+1193	dog	dog	kaspi	kaspi		ʧoⁱ	tʃ oⁱ/o				4106	ʧ oⁱ	ʧ oⁱ
+1282	dog	dog	namphri	namphri		ʧoⁱ	tʃ oⁱ/o				4106	ʧ oⁱ	ʧ oⁱ
+1372	dog	dog	bulu	bulu		buː	b uː				4102	b uː	b uː
+1472	dog	dog	kojorojo	kojorojo		buː	b uː				4102	b uː	b uː
+1572	dog	dog	rawa	rawa		boː	b oː				4102	b oː	b oː
+1669	dog	dog	saria	saria		boː	b oː				4102	b oː	b oː
+1769	dog	dog	chayangtajo	chayangtajo		kajoː	k a j oː				4103	k a j oː	k a j oː
+1869	dog	dog	lasumpatte	lasumpatte		kajoː	k a j oː				4103	k a j oː	k a j oː
+22	drink	drink	duhumbi	duhumbi		ɲiŋ	ɲ i ŋ				4301	ɲ i ŋ	ɲ i ŋ
+122	drink	drink	khispi	khispi		ɲiŋ	ɲ i ŋ				4301	ɲ i ŋ	ɲ i ŋ
+222	drink	drink	rupa	rupa		liŋ	l i ŋ				4302	l i ŋ	l i ŋ
+322	drink	drink	shergaon	shergaon		iŋ	i ŋ				4302	i ŋ	- i ŋ
+423	drink	drink	rahung	rahung		liŋ	l i ŋ				4302	l i ŋ	l i ŋ
+526	drink	drink	khoitam	khoitam		liŋ	l i ŋ				4302	l i ŋ	l i ŋ
+627	drink	drink	jerigaon	jerigaon		liŋ	l i ŋ				4302	l i ŋ	l i ŋ
+726	drink	drink	khoina	khoina		lyŋ	l y ŋ				4302	l y ŋ	l y ŋ
+827	drink	drink	dikhyang	dikhyang		naŋ	n a ŋ				4303	n a ŋ	- - n a ŋ - -
+925	drink	drink	singchung	singchung		kʰo-ŋaŋ	kʰ o + ŋ a ŋ				4303	kʰ o ŋ a ŋ	kʰ o ŋ a ŋ - -
+1014	drink	drink	wangho	wangho		naŋ	n a ŋ				4303	n a ŋ	- - n a ŋ - -
+1105	drink	drink	bichom	bichom		naŋ-pʰa	n a ŋ + pʰ a				4303	n a ŋ pʰ a	- - n a ŋ pʰ a
+1194	drink	drink	kaspi	kaspi		naŋ-pʰa	n a ŋ + pʰ a				4303	n a ŋ pʰ a	- - n a ŋ pʰ a
+1283	drink	drink	namphri	namphri		naŋ	n a ŋ				4303	n a ŋ	- - n a ŋ - -
+1373	drink	drink	bulu	bulu		in	i n				4302	i n	- i n
+1473	drink	drink	kojorojo	kojorojo		in	i n				4302	i n	- i n
+1573	drink	drink	rawa	rawa		in	i n				4302	i n	- i n
+1670	drink	drink	saria	saria		riŋ	r i ŋ				4302	r i ŋ	r i ŋ
+1770	drink	drink	chayangtajo	chayangtajo		riŋ	r i ŋ				4302	r i ŋ	r i ŋ
+1870	drink	drink	lasumpatte	lasumpatte		riŋ	r i ŋ				4302	r i ŋ	r i ŋ
+23	dry	dry	duhumbi	duhumbi		wa-ar	w a + a r				4501	w aa r	- w aa r
+123	dry	dry	khispi	khispi		ɔ-wal	ɔ + w a l				4501	ɔ w a l	ɔ w a l
+223	dry	dry	rupa	rupa		ɔ-ɔ̃ː	ɔ + ɔ̃ː				4501	ɔ ɔ̃ː	ɔ - ɔ̃ː -
+323	dry	dry	shergaon	shergaon		ɔ-ɔ̃ː	ɔ + ɔ̃ː				4501	ɔ ɔ̃ː	ɔ - ɔ̃ː -
+424	dry	dry	rahung	rahung		ɔ-ɔ̃ː	ɔ + ɔ̃ː				4501	ɔ ɔ̃ː	ɔ - ɔ̃ː -
+527	dry	dry	khoitam	khoitam		yk-ãː	y k + ãː				4501	y k ãː	y k ãː -
+628	dry	dry	jerigaon	jerigaon		yk-ãː	y k + ãː				4501	y k ãː	y k ãː -
+727	dry	dry	khoina	khoina		ɔ-ɔ̃ː	ɔ + ɔ̃ː				4501	ɔ ɔ̃ː	ɔ - ɔ̃ː -
+828	dry	dry	dikhyang	dikhyang		ə-kau	ə + k au				4502	ə k au	- ə k au
+926	dry	dry	singchung	singchung		e-gaᵘ	e + g aᵘ/a				4502	e g aᵘ	- e g aᵘ
+1015	dry	dry	wangho	wangho		e-kaᵘ	e + k aᵘ/a				4502	e k aᵘ	- e k aᵘ
+1106	dry	dry	bichom	bichom		e-gaᵘ	e + g aᵘ/a				4502	e g aᵘ	- e g aᵘ
+1195	dry	dry	kaspi	kaspi		goᵘ	g oᵘ/o				4502	g oᵘ	- - g oᵘ
+1284	dry	dry	namphri	namphri		nə-gou	n ə + g ou				4502	n ə g ou	n ə g ou
+1374	dry	dry	bulu	bulu		a-wɛN	a + w ɛ N/ɴ				4501	a w ɛ N	a w ɛ N
+1474	dry	dry	kojorojo	kojorojo		a-wan	a + w a n				4501	a w a n	a w a n
+1574	dry	dry	rawa	rawa		a-wan	a + w a n				4501	a w a n	a w a n
+1671	dry	dry	saria	saria		a-waiʔ	a + w ai ʔ				4501	a w ai ʔ	a w ai ʔ
+1771	dry	dry	chayangtajo	chayangtajo		a-waiʔ	a + w ai ʔ				4501	a w ai ʔ	a w ai ʔ
+1871	dry	dry	lasumpatte	lasumpatte		a-waiʔ	a + w ai ʔ				4501	a w ai ʔ	a w ai ʔ
+24	ear	ear	duhumbi	duhumbi		kʰu-tʰuŋ	kʰ u + tʰ u ŋ				4701	kʰ u tʰ u ŋ	kʰ u tʰ u ŋ - - -
+124	ear	ear	khispi	khispi		kʰu-tʰuŋ	kʰ u + tʰ u ŋ				4701	kʰ u tʰ u ŋ	kʰ u tʰ u ŋ - - -
+224	ear	ear	rupa	rupa		gə-tʰyŋ	g ə + tʰ y ŋ				4701	g ə tʰ y ŋ	g ə tʰ y ŋ - - -
+324	ear	ear	shergaon	shergaon		kʰə-tʰuŋ-lap	kʰ ə + tʰ u ŋ + l a p				4701	kʰ ə tʰ u ŋ l a p	kʰ ə tʰ u ŋ l a p
+425	ear	ear	rahung	rahung		kʰ-tʰyŋ	kʰ + tʰ y ŋ				4701	kʰ tʰ y ŋ	kʰ - tʰ y ŋ - - -
+528	ear	ear	khoitam	khoitam		kʰ-tʰyŋ	kʰ + tʰ y ŋ				4701	kʰ tʰ y ŋ	kʰ - tʰ y ŋ - - -
+629	ear	ear	jerigaon	jerigaon		kʰ-tʰyŋ-lɛ	kʰ + tʰ y ŋ + l ɛ				4701	kʰ tʰ y ŋ l ɛ	kʰ - tʰ y ŋ l ɛ -
+728	ear	ear	khoina	khoina		ga-tʰyŋ	g a + tʰ y ŋ				4701	g a tʰ y ŋ	g a tʰ y ŋ - - -
+829	ear	ear	dikhyang	dikhyang		kʰɔ̃	kʰ ɔ̃				4702	kʰ ɔ̃	- - - kʰ ɔ̃ -
+927	ear	ear	singchung	singchung		kʰõ	kʰ õ				4702	kʰ õ	- - - kʰ õ -
+1016	ear	ear	wangho	wangho		kʰõ	kʰ õ				4702	kʰ õ	- - - kʰ õ -
+1107	ear	ear	bichom	bichom		kʰõ	kʰ õ				4702	kʰ õ	- - - kʰ õ -
+1196	ear	ear	kaspi	kaspi		kʰõ	kʰ õ				4702	kʰ õ	- - - kʰ õ -
+1285	ear	ear	namphri	namphri		kʰõ	kʰ õ				4702	kʰ õ	- - - kʰ õ -
+1375	ear	ear	bulu	bulu		a-kuiN	a + k ui N/ɴ				4702	a k ui N	- a - k ui N
+1475	ear	ear	kojorojo	kojorojo		a-kun	a + k u n				4702	a k u n	- a - k u n
+1575	ear	ear	rawa	rawa		kot	k o t				4702	k o t	- - - k o t
+1672	ear	ear	saria	saria		kuiʔ	k ui ʔ				4702	k ui ʔ	- - - k ui ʔ
+1772	ear	ear	chayangtajo	chayangtajo		(a)-kuiʔ	k ui ʔ				4702	( a ) k ui ʔ	( a ) k ui ʔ
+1872	ear	ear	lasumpatte	lasumpatte		(a)-kuiʔ	k ui ʔ				4702	( a ) k ui ʔ	( a ) k ui ʔ
+25	eat	eat	duhumbi	duhumbi		ʨʰa	tɕʰ a				4901	ʨʰ a	ʨʰ a
+125	eat	eat	khispi	khispi		ʨʰa	tɕʰ a				4901	ʨʰ a	ʨʰ a
+225	eat	eat	rupa	rupa		ʦʰu	tsʰ u				4901	ʦʰ u	ʦʰ u
+325	eat	eat	shergaon	shergaon		ʨʰu	tɕʰ u				4901	ʨʰ u	ʨʰ u
+426	eat	eat	rahung	rahung		ʨʰu	tɕʰ u				4901	ʨʰ u	ʨʰ u
+529	eat	eat	khoitam	khoitam		ʨʰu	tɕʰ u				4901	ʨʰ u	ʨʰ u
+630	eat	eat	jerigaon	jerigaon		ʨʰu	tɕʰ u				4901	ʨʰ u	ʨʰ u
+729	eat	eat	khoina	khoina		ʦʰu	tsʰ u				4901	ʦʰ u	ʦʰ u
+830	eat	eat	dikhyang	dikhyang		ʦiə	ts iə				4902	ʦ iə	ʦ iə - - -
+928	eat	eat	singchung	singchung		ʧə-mut	tʃ ə + m u t				4902	ʧ ə m u t	ʧ ə m u t
+1017	eat	eat	wangho	wangho		ʧə-mut	tʃ ə + m u t				4902	ʧ ə m u t	ʧ ə m u t
+1108	eat	eat	bichom	bichom		ʧə-mut	tʃ ə + m u t				4902	ʧ ə m u t	ʧ ə m u t
+1197	eat	eat	kaspi	kaspi		ʧə-mut	tʃ ə + m u t				4902	ʧ ə m u t	ʧ ə m u t
+1286	eat	eat	namphri	namphri		ʧə-mut	tʃ ə + m u t				4902	ʧ ə m u t	ʧ ə m u t
+1376	eat	eat	bulu	bulu		ʧiː	tʃ iː				4902	ʧ iː	ʧ iː - - -
+1476	eat	eat	kojorojo	kojorojo		ʧiː	tʃ iː				4902	ʧ iː	ʧ iː - - -
+1576	eat	eat	rawa	rawa		ʧiː	tʃ iː				4902	ʧ iː	ʧ iː - - -
+1673	eat	eat	saria	saria		ʧiː	tʃ iː				4902	ʧ iː	ʧ iː - - -
+1773	eat	eat	chayangtajo	chayangtajo		ʧiː	tʃ iː				4902	ʧ iː	ʧ iː - - -
+1873	eat	eat	lasumpatte	lasumpatte		ʧiː	tʃ iː				4902	ʧ iː	ʧ iː - - -
+26	egg	egg	duhumbi	duhumbi		hɔj-ʥɔŋ	h ɔ j + dʑ ɔ ŋ				5101	h ɔ j ʥ ɔ ŋ	h ɔ j ʥ ɔ ŋ
+126	egg	egg	khispi	khispi		ɔ-gɔŋ	ɔ + g ɔ ŋ				5102	ɔ g ɔ ŋ	ɔ g ɔ ŋ
+226	egg	egg	rupa	rupa		a-juŋ	a + j u ŋ				5103	a j u ŋ	a j u ŋ
+326	egg	egg	shergaon	shergaon		kʰlɔm	kʰ l ɔ m				5104	kʰ l ɔ m	kʰ l ɔ m
+427	egg	egg	rahung	rahung		a-juŋ	a + j u ŋ				5103	a j u ŋ	a j u ŋ
+530	egg	egg	khoitam	khoitam		a-juŋ	a + j u ŋ				5103	a j u ŋ	a j u ŋ
+631	egg	egg	jerigaon	jerigaon		a-juŋ	a + j u ŋ				5103	a j u ŋ	a j u ŋ
+730	egg	egg	khoina	khoina		a-juŋ	a + j u ŋ				5103	a j u ŋ	a j u ŋ
+831	egg	egg	dikhyang	dikhyang		ə-riː	ə + r iː				5105	ə r iː	- - ə r iː
+929	egg	egg	singchung	singchung		kʰe-re	kʰ e + r e				5105	kʰ e r e	- kʰ e r e
+1018	egg	egg	wangho	wangho		kʰe-re	kʰ e + r e				5105	kʰ e r e	- kʰ e r e
+1109	egg	egg	bichom	bichom		e-ri	e + r i				5105	e r i	- - e r i
+1198	egg	egg	kaspi	kaspi		kʰe-re	kʰ e + r e				5105	kʰ e r e	- kʰ e r e
+1287	egg	egg	namphri	namphri		kʰe-re	kʰ e + r e				5105	kʰ e r e	- kʰ e r e
+1377	egg	egg	bulu	bulu		a-wuN	a + w u N/ɴ				5103	a w u N	a w u N
+1477	egg	egg	kojorojo	kojorojo		a-liː	a + l iː				5105	a l iː	- - a l iː
+1577	egg	egg	rawa	rawa		tju-li	t j u + l i				5105	t j u l i	t j u l i
+1674	egg	egg	saria	saria		mə-riː	m ə + r iː				5105	m ə r iː	- m ə r iː
+1774	egg	egg	chayangtajo	chayangtajo		mə-riː	m ə + r iː				5105	m ə r iː	- m ə r iː
+1874	egg	egg	lasumpatte	lasumpatte		mə-riː	m ə + r iː				5105	m ə r iː	- m ə r iː
+27	eye	eye	duhumbi	duhumbi		kʰu-m	kʰ u + m				5303	kʰ u m	kʰ u m -
+127	eye	eye	khispi	khispi		kʰu-mɔː	kʰ u + m ɔː				5303	kʰ u m ɔː	kʰ u m ɔː
+227	eye	eye	rupa	rupa		kʰa-by	kʰ a + b y				5301	kʰ a b y	kʰ a b y
+327	eye	eye	shergaon	shergaon		kʰi-biː	kʰ i + b iː				5301	kʰ i b iː	kʰ i b iː
+428	eye	eye	rahung	rahung		kʰa-by	kʰ a + b y				5301	kʰ a b y	kʰ a b y
+531	eye	eye	khoitam	khoitam		kʰa-by	kʰ a + b y				5301	kʰ a b y	kʰ a b y
+632	eye	eye	jerigaon	jerigaon		kʰa-by	kʰ a + b y				5301	kʰ a b y	kʰ a b y
+731	eye	eye	khoina	khoina		ga-by	g a + b y				5301	g a b y	g a b y
+832	eye	eye	dikhyang	dikhyang		miɛk ~ mjɛk	m iɛ k				5302	miɛk ~ mjɛk	miɛk ~ mjɛk - -
+833	eye	eye	dikhyang	dikhyang		miɛk ~ mjɛk	m j ɛ k				5302	miɛk ~ mjɛk	miɛk ~ mjɛk - -
+930	eye	eye	singchung	singchung		mi-jak	m i + j a k				5302	m i j a k	m i j a k
+1019	eye	eye	wangho	wangho		mi-jak	m i + j a k				5302	m i j a k	m i j a k
+1110	eye	eye	bichom	bichom		mi-jak	m i + j a k				5302	m i j a k	m i j a k
+1199	eye	eye	kaspi	kaspi		mi-je	m i + j e				5302	m i j e	m i j e -
+1288	eye	eye	namphri	namphri		mi-jak	m i + j a k				5302	m i j a k	m i j a k
+1378	eye	eye	bulu	bulu		a-kəm	a + k ə m				5304	a k ə m	- a - k ə m
+1478	eye	eye	kojorojo	kojorojo		a-kəm	a + k ə m				5304	a k ə m	- a - k ə m
+1578	eye	eye	rawa	rawa		kəp	k ə p				5304	k ə p	- - - k ə p
+1675	eye	eye	saria	saria		kəʔ	k ə ʔ				5304	k ə ʔ	- - - k ə ʔ
+1775	eye	eye	chayangtajo	chayangtajo		(a)-kək	k ə k				5304	( a ) k ə k	( a ) k ə k
+1875	eye	eye	lasumpatte	lasumpatte		(a)-kək	k ə k				5304	( a ) k ə k	( a ) k ə k
+28	far	far	duhumbi	duhumbi		tʰa-u-ɹiŋ	tʰ a + u + ɹ i ŋ				5501	tʰ a u ɹ i ŋ	tʰ a u ɹ i - - ŋ
+128	far	far	khispi	khispi		tʰa-u-liŋ	tʰ a + u + l i ŋ				5501	tʰ a u l i ŋ	tʰ a u l i - - ŋ
+228	far	far	rupa	rupa		a-ʨʰɔ̃ː	a + tɕʰ ɔ̃ː				5502	a ʨʰ ɔ̃ː	a ʨʰ - ɔ̃ː
+328	far	far	shergaon	shergaon		a-ʨʰɔ̃ː	a + tɕʰ ɔ̃ː				5502	a ʨʰ ɔ̃ː	a ʨʰ - ɔ̃ː
+429	far	far	rahung	rahung		a-ʨʰɔ̃ː	a + tɕʰ ɔ̃ː				5502	a ʨʰ ɔ̃ː	a ʨʰ - ɔ̃ː
+532	far	far	khoitam	khoitam		a-ʨʰɔ̃ː	a + tɕʰ ɔ̃ː				5502	a ʨʰ ɔ̃ː	a ʨʰ - ɔ̃ː
+633	far	far	jerigaon	jerigaon		a-ʨʰãː	a + tɕʰ ãː				5502	a ʨʰ ãː	a ʨʰ - ãː
+732	far	far	khoina	khoina		a-ʨʰɔ̃ː	a + tɕʰ ɔ̃ː				5502	a ʨʰ ɔ̃ː	a ʨʰ - ɔ̃ː
+834	far	far	dikhyang	dikhyang		rɛʔɛ ruaŋ	r ɛ ʔ ɛ + r ua ŋ				5501	rɛʔɛ ruaŋ	- - - rɛʔɛ - - - ruaŋ
+931	far	far	singchung	singchung		rᵘaŋ	r ᵘ/w a ŋ				5501	rᵘ a ŋ	- - - rᵘ a - - ŋ
+1020	far	far	wangho	wangho		ruwaŋ	r u w a ŋ				5501	r u w a ŋ	- - - r u w a ŋ
+1111	far	far	bichom	bichom		rᵘaŋ	r ᵘ/w a ŋ				5501	rᵘ a ŋ	- - - rᵘ a - - ŋ
+1200	far	far	kaspi	kaspi		rᵘaŋ	r ᵘ/w a ŋ				5501	rᵘ a ŋ	- - - rᵘ a - - ŋ
+1289	far	far	namphri	namphri		rᵘaŋ	r ᵘ/w a ŋ				5501	rᵘ a ŋ	- - - rᵘ a - - ŋ
+1379	far	far	bulu	bulu		a-ʧoi	a + tʃ oi				5502	a ʧ oi	a ʧ - oi
+1479	far	far	kojorojo	kojorojo		a-ʧai	a + tʃ ai				5502	a ʧ ai	a ʧ - ai
+1579	far	far	rawa	rawa		a-ʧai	a + tʃ ai				5502	a ʧ ai	a ʧ - ai
+1676	far	far	saria	saria		kjeː	k j eː				5502	k j eː	- k j eː
+1776	far	far	chayangtajo	chayangtajo		a-ʧjeː	a + tʃ j eː				5502	a ʧ j eː	a ʧ j eː
+1876	far	far	lasumpatte	lasumpatte		a-ʧjeː	a + tʃ j eː				5502	a ʧ j eː	a ʧ j eː
+29	fat	fat	duhumbi	duhumbi		ɔ-jɔw	ɔ + j ɔ w				5701	ɔ j ɔ w	ɔ - j ɔ w
+129	fat	fat	khispi	khispi		ɔ-ju	ɔ + j u				5701	ɔ j u	ɔ - j u -
+229	fat	fat	rupa	rupa		a-jɔː	a + j ɔː				5701	a j ɔː	a - j ɔː -
+329	fat	fat	shergaon	shergaon		a-jɔː	a + j ɔː				5701	a j ɔː	a - j ɔː -
+430	fat	fat	rahung	rahung		a-jɔw	a + j ɔ w				5701	a j ɔ w	a - j ɔ w
+533	fat	fat	khoitam	khoitam		a-jɔː	a + j ɔː				5701	a j ɔː	a - j ɔː -
+634	fat	fat	jerigaon	jerigaon		a-jɔː	a + j ɔː				5701	a j ɔː	a - j ɔː -
+733	fat	fat	khoina	khoina		a-jɔː	a + j ɔː				5701	a j ɔː	a - j ɔː -
+835	fat	fat	dikhyang	dikhyang		ə-jou	ə + j ou				5701	ə j ou	ə - j ou -
+932	fat	fat	singchung	singchung		e-ju	e + j u				5701	e j u	e - j u -
+1021	fat	fat	wangho	wangho		e-ju	e + j u				5701	e j u	e - j u -
+1112	fat	fat	bichom	bichom		e-ju	e + j u				5701	e j u	e - j u -
+1201	fat	fat	kaspi	kaspi		e-jo	e + j o				5701	e j o	e - j o -
+1290	fat	fat	namphri	namphri		e-jo	e + j o				5701	e j o	e - j o -
+1380	fat	fat	bulu	bulu		a-ʒɔː	a + ʒ ɔː				5701	a ʒ ɔː	a ʒ - ɔː -
+1480	fat	fat	kojorojo	kojorojo		a-zjaː	a + z j aː				5701	a z j aː	a z j aː -
+1580	fat	fat	rawa	rawa		a-zjaː	a + z j aː				5701	a z j aː	a z j aː -
+1677	fat	fat	saria	saria		a-zua	a + z ua				5701	a z ua	a z - ua -
+1777	fat	fat	chayangtajo	chayangtajo		a-zua	a + z ua				5701	a z ua	a z - ua -
+1877	fat	fat	lasumpatte	lasumpatte		a-ʤua	a + dʒ ua				5701	a ʤ ua	a ʤ - ua -
+30	fingernail	fingernail	duhumbi	duhumbi		hut-ʦun	h u t + ts u n				5901	h u t ʦ u n	h u t ʦ - - u n - -
+130	fingernail	fingernail	khispi	khispi		hut-ʦin	h u t + ts i n				5901	h u t ʦ i n	h u t ʦ - - i n - -
+230	fingernail	fingernail	rupa	rupa		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- i k ʦ - - i ŋ - -
+330	fingernail	fingernail	shergaon	shergaon		ik-ʨiŋ	i k + tɕ i ŋ				5901	i k ʨ i ŋ	- i k ʨ - - i ŋ - -
+431	fingernail	fingernail	rahung	rahung		ik-ʨiŋ	i k + tɕ i ŋ				5901	i k ʨ i ŋ	- i k ʨ - - i ŋ - -
+534	fingernail	fingernail	khoitam	khoitam		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- i k ʦ - - i ŋ - -
+635	fingernail	fingernail	jerigaon	jerigaon		ik-ʨʰiŋ	i k + tɕʰ i ŋ				5901	i k ʨʰ i ŋ	- i k ʨʰ - - i ŋ - -
+734	fingernail	fingernail	khoina	khoina		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- i k ʦ - - i ŋ - -
+836	fingernail	fingernail	dikhyang	dikhyang		bə-sɛn	b ə + s ɛ n				5901	b ə s ɛ n	b ə - s - - ɛ n - -
+933	fingernail	fingernail	singchung	singchung		bə-sen	b ə + s e n				5901	b ə s e n	b ə - s - - e n - -
+1022	fingernail	fingernail	wangho	wangho		pə-ʧi-jat	p ə + tʃ i + j a t				5901	p ə ʧ i j a t	p ə - ʧ - - i j a t
+1113	fingernail	fingernail	bichom	bichom		bə-sen	b ə + s e n				5901	b ə s e n	b ə - s - - e n - -
+1202	fingernail	fingernail	kaspi	kaspi		pə̌-sen	p ə̌/ə + s e n				5901	p ə̌ s e n	p ə̌ - s - - e n - -
+1291	fingernail	fingernail	namphri	namphri		pə-ʃen	p ə + ʃ e n				5901	p ə ʃ e n	p ə - ʃ - - e n - -
+1381	fingernail	fingernail	bulu	bulu		a-geʔ gə-sɨn	a + g e ʔ + g ə + s ɨ n				5901	a-geʔ gə-sɨn	- a-geʔ - gə-sɨn - - - - - -
+1481	fingernail	fingernail	kojorojo	kojorojo		gei-ʃin	g ei + ʃ i n				5901	g ei ʃ i n	g ei - ʃ - - i n - -
+1581	fingernail	fingernail	rawa	rawa		gə-sin	g ə + s i n				5901	g ə s i n	g ə - s - - i n - -
+1678	fingernail	fingernail	saria	saria		gei-siŋ	g ei + s i ŋ				5901	g ei s i ŋ	g ei - s - - i ŋ - -
+1778	fingernail	fingernail	chayangtajo	chayangtajo		gei-siʔ	g ei + s i ʔ				5901	g ei s i ʔ	- - - g ei s i ʔ - -
+1878	fingernail	fingernail	lasumpatte	lasumpatte		gei-siʔ	g ei + s i ʔ				5901	g ei s i ʔ	- - - g ei s i ʔ - -
+31	fire	fire	duhumbi	duhumbi		bɛj	b ɛ j				6101	b ɛ j	b ɛ j
+131	fire	fire	khispi	khispi		bej	b e j				6101	b e j	b e j
+231	fire	fire	rupa	rupa		ba	b a				6101	b a	b a -
+331	fire	fire	shergaon	shergaon		ba	b a				6101	b a	b a -
+432	fire	fire	rahung	rahung		bɛ	b ɛ				6101	b ɛ	b ɛ -
+535	fire	fire	khoitam	khoitam		bɛ	b ɛ				6101	b ɛ	b ɛ -
+636	fire	fire	jerigaon	jerigaon		bɛ	b ɛ				6101	b ɛ	b ɛ -
+735	fire	fire	khoina	khoina		ba	b a				6101	b a	b a -
+837	fire	fire	dikhyang	dikhyang		boːɛ	b oːɛ				6101	b oːɛ	b oːɛ -
+934	fire	fire	singchung	singchung		boᵉ	b oᵉ/o				6101	b oᵉ	b oᵉ -
+1023	fire	fire	wangho	wangho		boᵉ	b oᵉ/o				6101	b oᵉ	b oᵉ -
+1114	fire	fire	bichom	bichom		boᵉ	b oᵉ/o				6101	b oᵉ	b oᵉ -
+1203	fire	fire	kaspi	kaspi		baⁱ	b aⁱ/ai				6101	b aⁱ	b aⁱ -
+1292	fire	fire	namphri	namphri		boᵉ	b oᵉ/o				6101	b oᵉ	b oᵉ -
+1382	fire	fire	bulu	bulu		bɛː	b ɛː				6101	b ɛː	b ɛː -
+1482	fire	fire	kojorojo	kojorojo		bai	b ai				6101	b ai	b ai -
+1582	fire	fire	rawa	rawa		bai	b ai				6101	b ai	b ai -
+1679	fire	fire	saria	saria		bɛː	b ɛː				6101	b ɛː	b ɛː -
+1779	fire	fire	chayangtajo	chayangtajo		bae	b ae				6101	b ae	b ae -
+1879	fire	fire	lasumpatte	lasumpatte		bɛː	b ɛː				6101	b ɛː	b ɛː -
+32	fish	fish	duhumbi	duhumbi		ŋa	ŋ a				6301	ŋ a	- ŋ a
+132	fish	fish	khispi	khispi		ŋa	ŋ a				6301	ŋ a	- ŋ a
+232	fish	fish	rupa	rupa		ɲu	ɲ u				6301	ɲ u	- ɲ u
+332	fish	fish	shergaon	shergaon		ɲu	ɲ u				6301	ɲ u	- ɲ u
+433	fish	fish	rahung	rahung		nu	n u				6301	n u	- n u
+536	fish	fish	khoitam	khoitam		nu	n u				6301	n u	- n u
+637	fish	fish	jerigaon	jerigaon		nu	n u				6301	n u	- n u
+736	fish	fish	khoina	khoina		nu	n u				6301	n u	- n u
+838	fish	fish	dikhyang	dikhyang		ũə	ũə				6301	ũə	- - ũə
+935	fish	fish	singchung	singchung		ūa	ūa				6301	ūa	- - ūa
+1024	fish	fish	wangho	wangho		ūa	ūa				6301	ūa	- - ūa
+1115	fish	fish	bichom	bichom		u-ŋa	u + ŋ a				6301	u ŋ a	u ŋ a
+1204	fish	fish	kaspi	kaspi		ūa	ūa				6301	ūa	- - ūa
+1293	fish	fish	namphri	namphri		u-ŋə̄	u + ŋ ə̄/ə				6301	u ŋ ə̄	u ŋ ə̄
+1383	fish	fish	bulu	bulu		ʧui	tʃ ui				6302	ʧ ui	ʧ ui
+1483	fish	fish	kojorojo	kojorojo		ʧui	tʃ ui				6302	ʧ ui	ʧ ui
+1583	fish	fish	rawa	rawa		ʧuei	tʃ u ei				6302	ʧ uei	ʧ uei
+1680	fish	fish	saria	saria		ɲoː	ɲ oː				6301	ɲ oː	- ɲ oː
+1780	fish	fish	chayangtajo	chayangtajo		kahuaŋ	k a h ua ŋ				6303	k a h ua ŋ	k a h ua ŋ
+1880	fish	fish	lasumpatte	lasumpatte		kahuaŋ	k a h ua ŋ				6303	k a h ua ŋ	k a h ua ŋ
+33	fleshmeat	flesh/meat	duhumbi	duhumbi		ɕa	ɕ a				6501	ɕ a	ɕ a - -
+133	fleshmeat	flesh/meat	khispi	khispi		ɕa	ɕ a				6501	ɕ a	ɕ a - -
+233	fleshmeat	flesh/meat	rupa	rupa		su	s u				6501	s u	s u - -
+333	fleshmeat	flesh/meat	shergaon	shergaon		su	s u				6501	s u	s u - -
+434	fleshmeat	flesh/meat	rahung	rahung		su	s u				6501	s u	s u - -
+537	fleshmeat	flesh/meat	khoitam	khoitam		su	s u				6501	s u	s u - -
+638	fleshmeat	flesh/meat	jerigaon	jerigaon		su	s u				6501	s u	s u - -
+737	fleshmeat	flesh/meat	khoina	khoina		ʂu	ʂ u				6501	ʂ u	ʂ u - -
+839	fleshmeat	flesh/meat	dikhyang	dikhyang		eː-ɕau ~ ə-ɕau	eː + ɕ au				6501	eː-ɕau ~ ə-ɕau	- eː-ɕau ~ ə-ɕau
+840	fleshmeat	flesh/meat	dikhyang	dikhyang		eː-ɕau ~ ə-ɕau	ə + ɕ au				6501	eː-ɕau ~ ə-ɕau	- eː-ɕau ~ ə-ɕau
+936	fleshmeat	flesh/meat	singchung	singchung		e-pije	e + p i j e				6502	e p i j e	- e p i j e
+1025	fleshmeat	flesh/meat	wangho	wangho		e-pije	e + p i j e				6502	e p i j e	- e p i j e
+1116	fleshmeat	flesh/meat	bichom	bichom		e-bije	e + b i j e				6502	e b i j e	- e b i j e
+1205	fleshmeat	flesh/meat	kaspi	kaspi		mə-bi	m ə + b i				6502	m ə b i	m ə b i - -
+1294	fleshmeat	flesh/meat	namphri	namphri		e-bei	e + b ei				6502	e b ei	- e b ei - -
+1384	fleshmeat	flesh/meat	bulu	bulu		ʃiː	ʃ iː				6501	ʃ iː	ʃ iː - -
+1484	fleshmeat	flesh/meat	kojorojo	kojorojo		mai	m ai				6503	m ai	m ai
+1584	fleshmeat	flesh/meat	rawa	rawa		mai	m ai				6503	m ai	m ai
+1681	fleshmeat	flesh/meat	saria	saria		mə-reʔ	m ə + r e ʔ				6504	m ə r e ʔ	m ə r - e ʔ
+1781	fleshmeat	flesh/meat	chayangtajo	chayangtajo		mə-rjeʔ	m ə + r j e ʔ				6504	m ə r j e ʔ	m ə r j e ʔ
+1881	fleshmeat	flesh/meat	lasumpatte	lasumpatte		mə-rjeʔ	m ə + r j e ʔ				6504	m ə r j e ʔ	m ə r j e ʔ
+35	full	full	duhumbi	duhumbi		pɕiŋ-ba	p ɕ i ŋ + b a				6901	p ɕ i ŋ b a	- p ɕ i ŋ b a
+135	full	full	khispi	khispi		pɕiŋ-ba	p ɕ i ŋ + b a				6901	p ɕ i ŋ b a	- p ɕ i ŋ b a
+235	full	full	rupa	rupa		pʰiŋ-ba	pʰ i ŋ + b a				6901	pʰ i ŋ b a	- pʰ - i ŋ b a
+335	full	full	shergaon	shergaon		pʰiŋ-ba	pʰ i ŋ + b a				6901	pʰ i ŋ b a	- pʰ - i ŋ b a
+436	full	full	rahung	rahung		a-pʰiŋ	a + pʰ i ŋ				6901	a pʰ i ŋ	a pʰ - i ŋ - -
+539	full	full	khoitam	khoitam		a-pʰiŋ	a + pʰ i ŋ				6901	a pʰ i ŋ	a pʰ - i ŋ - -
+640	full	full	jerigaon	jerigaon		a-pʰiŋ	a + pʰ i ŋ				6901	a pʰ i ŋ	a pʰ - i ŋ - -
+739	full	full	khoina	khoina		a-pʰiŋ	a + pʰ i ŋ				6901	a pʰ i ŋ	a pʰ - i ŋ - -
+842	full	full	dikhyang	dikhyang		ə-li-jeː	ə + l i + j eː				6902	ə l i j eː	ə l i j eː
+938	full	full	singchung	singchung		li-ja	l i + j a				6902	l i j a	- l i j a
+1027	full	full	wangho	wangho		e-li-ja	e + l i + j a				6902	e l i j a	e l i j a
+1118	full	full	bichom	bichom		leⁱ	l eⁱ/e				6902	l eⁱ	- l eⁱ - -
+1207	full	full	kaspi	kaspi		leⁱ	l eⁱ/e				6902	l eⁱ	- l eⁱ - -
+1296	full	full	namphri	namphri		eleⁱ	e l eⁱ/e				6902	e l eⁱ	e l eⁱ - -
+1386	full	full	bulu	bulu		ljɛː	l j ɛː				6902	l j ɛː	- l - j ɛː
+1486	full	full	kojorojo	kojorojo		jei	j ei				6902	j ei	- - - j ei
+1586	full	full	rawa	rawa		ljɛi	l j ɛi				6902	l j ɛi	- l - j ɛi
+1683	full	full	saria	saria		lɛː	l ɛː				6902	l ɛː	- l ɛː - -
+1783	full	full	chayangtajo	chayangtajo		ljɛː	l j ɛː				6902	l j ɛː	- l - j ɛː
+1883	full	full	lasumpatte	lasumpatte		ljɛː	l j ɛː				6902	l j ɛː	- l - j ɛː
+38	good	good	duhumbi	duhumbi		ɔ-ʥɔp	ɔ + dʑ ɔ p				7501	ɔ ʥ ɔ p	ɔ ʥ - ɔ p
+138	good	good	khispi	khispi		nak-pa	n a k + p a				7502	n a k p a	n a k p a
+238	good	good	rupa	rupa		a-ʥap	a + dʑ a p				7501	a ʥ a p	a ʥ - a p
+338	good	good	shergaon	shergaon		a-ʥap	a + dʑ a p				7501	a ʥ a p	a ʥ - a p
+439	good	good	rahung	rahung		a-ʥap	a + dʑ a p				7501	a ʥ a p	a ʥ - a p
+542	good	good	khoitam	khoitam		a-ʥap	a + dʑ a p				7501	a ʥ a p	a ʥ - a p
+643	good	good	jerigaon	jerigaon		a-ʥɛ	a + dʑ ɛ				7501	a ʥ ɛ	a ʥ - ɛ -
+742	good	good	khoina	khoina		a-dʐa	a + d ʐ a				7501	a d ʐ a	a d ʐ a -
+845	good	good	dikhyang	dikhyang		ə-viə	ə + v iə				7503	ə v iə	ə v iə - -
+941	good	good	singchung	singchung		a-vije	a + v i j e				7503	a v i j e	a v i j e
+1030	good	good	wangho	wangho		a-vije	a + v i j e				7503	a v i j e	a v i j e
+1121	good	good	bichom	bichom		a-vije	a + v i j e				7503	a v i j e	a v i j e
+1210	good	good	kaspi	kaspi		a-vije	a + v i j e				7503	a v i j e	a v i j e
+1299	good	good	namphri	namphri		a-vije	a + v i j e				7503	a v i j e	a v i j e
+1389	good	good	bulu	bulu		a-mjɛː	a + m j ɛː				7504	a m j ɛː	a m j ɛː
+1489	good	good	kojorojo	kojorojo		a-njam	a + n j a m				7505	a n j a m	a n j a m
+1589	good	good	rawa	rawa		a-njam	a + n j a m				7505	a n j a m	a n j a m
+1686	good	good	saria	saria		a-jɨː	a + j ɨː				7506	a j ɨː	a j ɨː
+1786	good	good	chayangtajo	chayangtajo		a-njaŋ	a + n j a ŋ				7505	a n j a ŋ	a n j a ŋ
+1886	good	good	lasumpatte	lasumpatte		a-njaŋ	a + n j a ŋ				7505	a n j a ŋ	a n j a ŋ
+39	haironhead	hair on head	duhumbi	duhumbi		kʰu-ɕaŋ	kʰ u + ɕ a ŋ				7701	kʰ u ɕ a ŋ	kʰ u ɕ - a - - ŋ
+139	haironhead	hair on head	khispi	khispi		kʰu-ɕaŋ	kʰ u + ɕ a ŋ				7701	kʰ u ɕ a ŋ	kʰ u ɕ - a - - ŋ
+239	haironhead	hair on head	rupa	rupa		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - a - - ŋ
+339	haironhead	hair on head	shergaon	shergaon		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - a - - ŋ
+440	haironhead	hair on head	rahung	rahung		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - a - - ŋ
+543	haironhead	hair on head	khoitam	khoitam		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - a - - ŋ
+644	haironhead	hair on head	jerigaon	jerigaon		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - a - - ŋ
+743	haironhead	hair on head	khoina	khoina		gə-ʐaŋ	g ə + ʐ a ŋ				7701	g ə ʐ a ŋ	g ə ʐ - a - - ŋ
+846	haironhead	hair on head	dikhyang	dikhyang		kʰa-zijɔŋ	kʰ a + z i j ɔ ŋ				7701	kʰ a z i j ɔ ŋ	kʰ a z - i j ɔ ŋ
+942	haironhead	hair on head	singchung	singchung		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z - i j a ŋ
+1031	haironhead	hair on head	wangho	wangho		kʰa-zijaᵘ	kʰ a + z i j aᵘ/a				7701	kʰ a z i j aᵘ	kʰ a z - i j aᵘ -
+1122	haironhead	hair on head	bichom	bichom		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z - i j a ŋ
+1211	haironhead	hair on head	kaspi	kaspi		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z - i j a ŋ
+1300	haironhead	hair on head	namphri	namphri		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z - i j a ŋ
+1390	haironhead	hair on head	bulu	bulu		kə-zaN	k ə + z a N/ɴ				7701	k ə z a N	k ə z - a - - N
+1490	haironhead	hair on head	kojorojo	kojorojo		kə-zjaŋ	k ə + z j a ŋ				7701	k ə z j a ŋ	k ə z j a - - ŋ
+1590	haironhead	hair on head	rawa	rawa		kə-zjaʔ	k ə + z j a ʔ				7701	k ə z j a ʔ	k ə z j a - - ʔ
+1687	haironhead	hair on head	saria	saria		kə-zaʔ	k ə + z a ʔ				7701	k ə z a ʔ	k ə z - a - - ʔ
+1787	haironhead	hair on head	chayangtajo	chayangtajo		kə-zak	k ə + z a k				7701	k ə z a k	k ə z - a - - k
+1887	haironhead	hair on head	lasumpatte	lasumpatte		kə-ʤak	k ə + dʒ a k				7701	k ə ʤ a k	k ə ʤ - a - - k
+40	hard	hard	duhumbi	duhumbi		kaktar	k a k t a r				7901	k a k t a r	k a k t a r
+140	hard	hard	khispi	khispi		kaktal	k a k t a l				7901	k a k t a l	k a k t a l
+240	hard	hard	rupa	rupa		a-ʨu	a + tɕ u				7902	a ʨ u	a ʨ u
+340	hard	hard	shergaon	shergaon		a-ʨu	a + tɕ u				7902	a ʨ u	a ʨ u
+441	hard	hard	rahung	rahung		a-ʨu	a + tɕ u				7902	a ʨ u	a ʨ u
+544	hard	hard	khoitam	khoitam		a-ʨu	a + tɕ u				7902	a ʨ u	a ʨ u
+645	hard	hard	jerigaon	jerigaon		a-ʨu	a + tɕ u				7902	a ʨ u	a ʨ u
+744	hard	hard	khoina	khoina		a-xãŋ	a + x ã ŋ				7903	a x ã ŋ	a x ã ŋ
+847	hard	hard	dikhyang	dikhyang		ə-kɔŋ	ə + k ɔ ŋ				7903	ə k ɔ ŋ	ə k ɔ ŋ
+1391	hard	hard	bulu	bulu		a-ʃɔN	a + ʃ ɔ N/ɴ				7904	a ʃ ɔ N	a ʃ ɔ N
+1491	hard	hard	kojorojo	kojorojo		a-hɹan	a + h ɹ a n				7905	a h ɹ a n	a h ɹ a n
+1688	hard	hard	saria	saria		gaː	g aː				7906	g aː	- g aː
+1788	hard	hard	chayangtajo	chayangtajo		a-kaː	a + k aː				7906	a k aː	a k aː
+1888	hard	hard	lasumpatte	lasumpatte		a-kaː	a + k aː				7906	a k aː	a k aː
+41	head	head	duhumbi	duhumbi		kʰɔ-lɔk	kʰ ɔ + l ɔ k				8101	kʰ ɔ l ɔ k	- kʰ ɔ l ɔ k - -
+141	head	head	khispi	khispi		kʰɔ-lɔk	kʰ ɔ + l ɔ k				8101	kʰ ɔ l ɔ k	- kʰ ɔ l ɔ k - -
+241	head	head	rupa	rupa		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - r u k - -
+341	head	head	shergaon	shergaon		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - r u k - -
+442	head	head	rahung	rahung		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - r u k - -
+545	head	head	khoitam	khoitam		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - r u k - -
+646	head	head	jerigaon	jerigaon		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - r u k - -
+745	head	head	khoina	khoina		mə-tʰɛ̃n	m ə + tʰ ɛ̃ n				8102	m ə tʰ ɛ̃ n	m ə tʰ ɛ̃ n
+848	head	head	dikhyang	dikhyang		kʰruk	kʰ r u k				8101	kʰ r u k	- kʰ - r u k - -
+943	head	head	singchung	singchung		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - ɾ u k - -
+1032	head	head	wangho	wangho		ki-ja-tuŋ	k i + j a + t u ŋ				8103	k i j a t u ŋ	k i j a t u ŋ
+1123	head	head	bichom	bichom		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - ɾ u k - -
+1212	head	head	kaspi	kaspi		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - ɾ u k - -
+1301	head	head	namphri	namphri		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - ɾ u k - -
+1392	head	head	bulu	bulu		a-kuN	a + k u N/ɴ				8101	a k u N	a k - - u N - -
+1492	head	head	kojorojo	kojorojo		a-kuŋ-bəː	a + k u ŋ + b əː				8101	a k u ŋ b əː	a k - - u ŋ b əː
+1591	head	head	rawa	rawa		koʔ-bəu	k o ʔ + b əu				8101	k o ʔ b əu	- k - - o ʔ b əu
+1689	head	head	saria	saria		a-koʔ	a + k o ʔ				8101	a k o ʔ	a k - - o ʔ - -
+1789	head	head	chayangtajo	chayangtajo		a-kok	a + k o k				8101	a k o k	a k - - o k - -
+1889	head	head	lasumpatte	lasumpatte		a-kok	a + k o k				8101	a k o k	a k - - o k - -
+43	heavy	heavy	duhumbi	duhumbi		u-li	u + l i				8501	u l i	u l i
+143	heavy	heavy	khispi	khispi		u-li	u + l i				8501	u l i	u l i
+243	heavy	heavy	rupa	rupa		a-liː	a + l iː				8501	a l iː	a l iː
+343	heavy	heavy	shergaon	shergaon		a-liː	a + l iː				8501	a l iː	a l iː
+444	heavy	heavy	rahung	rahung		a-liː	a + l iː				8501	a l iː	a l iː
+547	heavy	heavy	khoitam	khoitam		a-liː	a + l iː				8501	a l iː	a l iː
+648	heavy	heavy	jerigaon	jerigaon		a-liː	a + l iː				8501	a l iː	a l iː
+747	heavy	heavy	khoina	khoina		a-liː	a + l iː				8501	a l iː	a l iː
+850	heavy	heavy	dikhyang	dikhyang		ə-lai	ə + l ai				8501	ə l ai	ə l ai
+945	heavy	heavy	singchung	singchung		laⁱ	l aⁱ/ai				8501	l aⁱ	- l aⁱ
+1034	heavy	heavy	wangho	wangho		e-laⁱ	e + l aⁱ/ai				8501	e l aⁱ	e l aⁱ
+1125	heavy	heavy	bichom	bichom		laⁱ	l aⁱ/ai				8501	l aⁱ	- l aⁱ
+1214	heavy	heavy	kaspi	kaspi		laⁱ	l aⁱ/ai				8501	l aⁱ	- l aⁱ
+1303	heavy	heavy	namphri	namphri		e-laⁱ	e + l aⁱ/ai				8501	e l aⁱ	e l aⁱ
+1394	heavy	heavy	bulu	bulu		a-lɨː	a + l ɨː				8501	a l ɨː	a l ɨː
+1494	heavy	heavy	kojorojo	kojorojo		a-lei	a + l ei				8501	a l ei	a l ei
+1593	heavy	heavy	rawa	rawa		a-lei	a + l ei				8501	a l ei	a l ei
+1691	heavy	heavy	saria	saria		a-lei	a + l ei				8501	a l ei	a l ei
+1791	heavy	heavy	chayangtajo	chayangtajo		a-lei	a + l ei				8501	a l ei	a l ei
+1891	heavy	heavy	lasumpatte	lasumpatte		a-lei	a + l ei				8501	a l ei	a l ei
+46	horn	horn	duhumbi	duhumbi		kʰɛŋ	kʰ ɛ ŋ				9101	kʰ ɛ ŋ	- - kʰ - ɛ - ŋ
+146	horn	horn	khispi	khispi		kʰɛŋ	kʰ ɛ ŋ				9101	kʰ ɛ ŋ	- - kʰ - ɛ - ŋ
+246	horn	horn	rupa	rupa		kʰɛŋ	kʰ ɛ ŋ				9101	kʰ ɛ ŋ	- - kʰ - ɛ - ŋ
+346	horn	horn	shergaon	shergaon		kʰɛŋ	kʰ ɛ ŋ				9101	kʰ ɛ ŋ	- - kʰ - ɛ - ŋ
+447	horn	horn	rahung	rahung		ʨʰɛŋ	tɕʰ ɛ ŋ				9101	ʨʰ ɛ ŋ	- - ʨʰ - ɛ - ŋ
+550	horn	horn	khoitam	khoitam		ʨʰɛŋ	tɕʰ ɛ ŋ				9101	ʨʰ ɛ ŋ	- - ʨʰ - ɛ - ŋ
+651	horn	horn	jerigaon	jerigaon		ʨʰɛŋ	tɕʰ ɛ ŋ				9101	ʨʰ ɛ ŋ	- - ʨʰ - ɛ - ŋ
+750	horn	horn	khoina	khoina		tʂʰajŋ	ʈʂʰ a j ŋ				9101	t ʂʰ a j ŋ	- t ʂʰ - a j ŋ
+853	horn	horn	dikhyang	dikhyang		ə-riɔŋ	ə + r iɔ ŋ				9102	ə r iɔ ŋ	ə r iɔ - - ŋ
+947	horn	horn	singchung	singchung		e-rijaŋ	e + r i j a ŋ				9102	e r i j a ŋ	e r i j a ŋ
+1036	horn	horn	wangho	wangho		e-rijok	e + r i j o k				9102	e r i j o k	e r i j o k
+1127	horn	horn	bichom	bichom		e-rijaŋ	e + r i j a ŋ				9102	e r i j a ŋ	e r i j a ŋ
+1216	horn	horn	kaspi	kaspi		e-rijaŋ	e + r i j a ŋ				9102	e r i j a ŋ	e r i j a ŋ
+1305	horn	horn	namphri	namphri		e-rijaŋ	e + r i j a ŋ				9102	e r i j a ŋ	e r i j a ŋ
+1397	horn	horn	bulu	bulu		a-kjɛN	a + k j ɛ N/ɴ				9101	a k j ɛ N	a - k j ɛ - N
+1497	horn	horn	kojorojo	kojorojo		a-kɹan	a + k ɹ a n				9101	a k ɹ a n	a - k ɹ a - n
+1596	horn	horn	rawa	rawa		a-kɹɛt	a + k ɹ ɛ t				9101	a k ɹ ɛ t	a - k ɹ ɛ - t
+1694	horn	horn	saria	saria		a-kuaŋ	a + k ua ŋ				9103	a k ua ŋ	- a k ua ŋ
+1794	horn	horn	chayangtajo	chayangtajo		ko-waŋ	k o + w a ŋ				9103	k o w a ŋ	k o w a ŋ
+1894	horn	horn	lasumpatte	lasumpatte		ko-waŋ	k o + w a ŋ				9103	k o w a ŋ	k o w a ŋ
+47	house	house	duhumbi	duhumbi		wam	w a m				9301	w a m	w a m
+147	house	house	khispi	khispi		wam	w a m				9301	w a m	w a m
+247	house	house	rupa	rupa		jam	j a m				9301	j a m	j a m
+347	house	house	shergaon	shergaon		jam	j a m				9301	j a m	j a m
+448	house	house	rahung	rahung		jam	j a m				9301	j a m	j a m
+551	house	house	khoitam	khoitam		jam	j a m				9301	j a m	j a m
+652	house	house	jerigaon	jerigaon		jan ~ jɛn	j a n				9301	jan ~ jɛn	jan ~ jɛn
+653	house	house	jerigaon	jerigaon		jan ~ jɛn	j ɛ n				9301	jan ~ jɛn	jan ~ jɛn
+751	house	house	khoina	khoina		jan	j a n				9301	j a n	j a n
+854	house	house	dikhyang	dikhyang		hõ	h õ				9302	h õ	h õ -
+948	house	house	singchung	singchung		hõ	h õ				9302	h õ	h õ -
+1037	house	house	wangho	wangho		hõ	h õ				9302	h õ	h õ -
+1128	house	house	bichom	bichom		hõ	h õ				9302	h õ	h õ -
+1217	house	house	kaspi	kaspi		hõ	h õ				9302	h õ	h õ -
+1306	house	house	namphri	namphri		hõ	h õ				9302	h õ	h õ -
+1398	house	house	bulu	bulu		ham	h a m				9302	h a m	h a m
+1498	house	house	kojorojo	kojorojo		ham	h a m				9302	h a m	h a m
+1597	house	house	rawa	rawa		ham	h a m				9302	h a m	h a m
+1695	house	house	saria	saria		haʔ	h a ʔ				9302	h a ʔ	h a ʔ
+1795	house	house	chayangtajo	chayangtajo		ʧuk	tʃ u k				9303	ʧ u k	ʧ u k
+1895	house	house	lasumpatte	lasumpatte		ʧuk	tʃ u k				9303	ʧ u k	ʧ u k
+48	in	in	duhumbi	duhumbi		naŋ	n a ŋ				9501	n a ŋ	n a ŋ
+148	in	in	khispi	khispi		naŋ	n a ŋ				9501	n a ŋ	n a ŋ
+248	in	in	rupa	rupa		a-lyŋ	a + l y ŋ				9502	a l y ŋ	a l y ŋ
+348	in	in	shergaon	shergaon		a-luŋ	a + l u ŋ				9502	a l u ŋ	a l u ŋ
+449	in	in	rahung	rahung		a-lyŋ	a + l y ŋ				9502	a l y ŋ	a l y ŋ
+552	in	in	khoitam	khoitam		a-lyŋ	a + l y ŋ				9502	a l y ŋ	a l y ŋ
+654	in	in	jerigaon	jerigaon		a-lyŋ	a + l y ŋ				9502	a l y ŋ	a l y ŋ
+752	in	in	khoina	khoina		a-lyŋ	a + l y ŋ				9502	a l y ŋ	a l y ŋ
+855	in	in	dikhyang	dikhyang		pʨʰau	p tɕʰ au				9503	p ʨʰ au	p ʨʰ au
+1399	in	in	bulu	bulu		a-lɨŋ	a + l ɨ ŋ				9502	a l ɨ ŋ	a l ɨ ŋ
+1499	in	in	kojorojo	kojorojo		a-loŋ	a + l o ŋ				9502	a l o ŋ	a l o ŋ
+1696	in	in	saria	saria		a-raŋ	a + r a ŋ				9504	a r a ŋ	a - r a ŋ
+1796	in	in	chayangtajo	chayangtajo		a-ɹaŋ	a + ɹ a ŋ				9504	a ɹ a ŋ	a - ɹ a ŋ
+1896	in	in	lasumpatte	lasumpatte		aŋ-ɹaŋ	a ŋ + ɹ a ŋ				9504	a ŋ ɹ a ŋ	a ŋ ɹ a ŋ
+49	knee	knee	duhumbi	duhumbi		kɔːlɔk-pa	k ɔː l ɔ k + p a				9701	k ɔː l ɔ k p a	k ɔː l ɔ k p a
+149	knee	knee	khispi	khispi		kɔːlɔk-pa	k ɔː l ɔ k + p a				9701	k ɔː l ɔ k p a	k ɔː l ɔ k p a
+249	knee	knee	rupa	rupa		lə-pʰyk	l ə + pʰ y k				9702	l ə pʰ y k	l ə pʰ y k
+349	knee	knee	shergaon	shergaon		kʰlɔk-puː	kʰ l ɔ k + p uː				9701	kʰ l ɔ k p uː	kʰ - l ɔ k p uː
+450	knee	knee	rahung	rahung		la-pʰik kʰɔm	l a + pʰ i k + kʰ ɔ m				9702	la-pʰik kʰɔm	la-pʰik - - - kʰɔm
+553	knee	knee	khoitam	khoitam		lə-pʰik kʰɔm	l ə + pʰ i k + kʰ ɔ m				9702	lə-pʰik kʰɔm	lə-pʰik - - - kʰɔm
+655	knee	knee	jerigaon	jerigaon		la-pʰyk kriː	l a + pʰ y k + k r iː				9702	la-pʰyk kriː	la-pʰyk - - - kriː
+753	knee	knee	khoina	khoina		ja-pʰyk kraː	j a + pʰ y k + k r aː				9702	ja-pʰyk kraː	ja-pʰyk - - - kraː
+856	knee	knee	dikhyang	dikhyang		laː-gjuŋ	l aː + g j u ŋ				9703	l aː g j u ŋ	l aː g - j u ŋ
+949	knee	knee	singchung	singchung		lə-spau	l ə + s p au				9704	l ə s p au	l ə s p au
+1038	knee	knee	wangho	wangho		la-kijuŋ	l a + k i j u ŋ				9703	l a k i j u ŋ	l a k i j u ŋ
+1129	knee	knee	bichom	bichom		lə-spau	l ə + s p au				9704	l ə s p au	l ə s p au
+1218	knee	knee	kaspi	kaspi		la-gijoŋ	l a + g i j o ŋ				9703	l a g i j o ŋ	l a g i j o ŋ
+1307	knee	knee	namphri	namphri		la-gijoŋ	l a + g i j o ŋ				9703	l a g i j o ŋ	l a g i j o ŋ
+1400	knee	knee	bulu	bulu		a-lɛː kə-peiʔ	a + l ɛː + k ə + p ei ʔ				9705	a-lɛː kə-peiʔ	a-lɛː - kə-peiʔ - - - -
+1500	knee	knee	kojorojo	kojorojo		lai ka-pɹei	l ai + k a + p ɹ ei				9705	lai ka-pɹei	- lai ka-pɹei - - - -
+1598	knee	knee	rawa	rawa		lai kə-rəʔ	l ai + k ə + r ə ʔ				9706	lai kə-rəʔ	lai kə-rəʔ
+1697	knee	knee	saria	saria		lɛː-kuŋ	l ɛː + k u ŋ				9707	l ɛː k u ŋ	l ɛː k u ŋ
+1797	knee	knee	chayangtajo	chayangtajo		ka-pɹei	k a + p ɹ ei				9705	k a p ɹ ei	- - k a p ɹ ei
+1897	knee	knee	lasumpatte	lasumpatte		ka-pei	k a + p ei				9705	k a p ei	- - k a p - ei
+52	leaf	leaf	duhumbi	duhumbi		u-lap	u + l a p				10301	u l a p	- u - l a p
+152	leaf	leaf	khispi	khispi		u-lap	u + l a p				10301	u l a p	- u - l a p
+252	leaf	leaf	rupa	rupa		a-lap	a + l a p				10301	a l a p	- a - l a p
+352	leaf	leaf	shergaon	shergaon		a-lap	a + l a p				10301	a l a p	- a - l a p
+453	leaf	leaf	rahung	rahung		a-rap	a + r a p				10301	a r a p	- a - r a p
+556	leaf	leaf	khoitam	khoitam		a-rap	a + r a p				10301	a r a p	- a - r a p
+658	leaf	leaf	jerigaon	jerigaon		a-lɛ	a + l ɛ				10301	a l ɛ	- a - l ɛ -
+756	leaf	leaf	khoina	khoina		a-laʔ	a + l a ʔ				10301	a l a ʔ	- a - l a ʔ
+859	leaf	leaf	dikhyang	dikhyang		ə-rap	ə + r a p				10301	ə r a p	- ə - r a p
+952	leaf	leaf	singchung	singchung		e-rap	e + r a p				10301	e r a p	- e - r a p
+1041	leaf	leaf	wangho	wangho		rap	r a p				10301	r a p	- - - r a p
+1132	leaf	leaf	bichom	bichom		rap	r a p				10301	r a p	- - - r a p
+1221	leaf	leaf	kaspi	kaspi		rap	r a p				10301	r a p	- - - r a p
+1310	leaf	leaf	namphri	namphri		rap	r a p				10301	r a p	- - - r a p
+1403	leaf	leaf	bulu	bulu		a-ləp	a + l ə p				10301	a l ə p	- a - l ə p
+1503	leaf	leaf	kojorojo	kojorojo		hɨ̃-jəm	h ɨ̃ + j ə m				10301	h ɨ̃ j ə m	h ɨ̃ - j ə m
+1601	leaf	leaf	rawa	rawa		hɨŋ-ləp	h ɨ ŋ + l ə p				10301	h ɨ ŋ l ə p	h ɨ ŋ l ə p
+1700	leaf	leaf	saria	saria		a-ləʔ	a + l ə ʔ				10301	a l ə ʔ	- a - l ə ʔ
+1800	leaf	leaf	chayangtajo	chayangtajo		a-ləʔ	a + l ə ʔ				10301	a l ə ʔ	- a - l ə ʔ
+1900	leaf	leaf	lasumpatte	lasumpatte		a-ləʔ	a + l ə ʔ				10301	a l ə ʔ	- a - l ə ʔ
+53	legfoot	leg/foot	duhumbi	duhumbi		lɛj	l ɛ j				10501	l ɛ j	- - - l ɛ j
+153	legfoot	leg/foot	khispi	khispi		lej	l e j				10501	l e j	- - - l e j
+253	legfoot	leg/foot	rupa	rupa		la	l a				10501	l a	- - - l a -
+353	legfoot	leg/foot	shergaon	shergaon		la	l a				10501	l a	- - - l a -
+454	legfoot	leg/foot	rahung	rahung		lɛ	l ɛ				10501	l ɛ	- - - l ɛ -
+557	legfoot	leg/foot	khoitam	khoitam		lɛ	l ɛ				10501	l ɛ	- - - l ɛ -
+659	legfoot	leg/foot	jerigaon	jerigaon		lɛ	l ɛ				10501	l ɛ	- - - l ɛ -
+757	legfoot	leg/foot	khoina	khoina		la	l a				10501	l a	- - - l a -
+860	legfoot	leg/foot	dikhyang	dikhyang		loɛ	l oɛ				10501	l oɛ	- - - l oɛ -
+953	legfoot	leg/foot	singchung	singchung		loᵉ	l oᵉ/o				10501	l oᵉ	- - - l oᵉ -
+1042	legfoot	leg/foot	wangho	wangho		luᵉ	l uᵉ/ue				10501	l uᵉ	- - - l uᵉ -
+1133	legfoot	leg/foot	bichom	bichom		luᵉ	l uᵉ/ue				10501	l uᵉ	- - - l uᵉ -
+1222	legfoot	leg/foot	kaspi	kaspi		laⁱ	l aⁱ/ai				10501	l aⁱ	- - - l aⁱ -
+1311	legfoot	leg/foot	namphri	namphri		laⁱ	l aⁱ/ai				10501	l aⁱ	- - - l aⁱ -
+1404	legfoot	leg/foot	bulu	bulu		a-lɛː	a + l ɛː				10501	a l ɛː	- a - l ɛː -
+1504	legfoot	leg/foot	kojorojo	kojorojo		lai	l ai				10501	l ai	- - - l ai -
+1602	legfoot	leg/foot	rawa	rawa		lai	l ai				10501	l ai	- - - l ai -
+1701	legfoot	leg/foot	saria	saria		lai	l ai				10501	l ai	- - - l ai -
+1801	legfoot	leg/foot	chayangtajo	chayangtajo		(a)-lɛː	l ɛː				10501	( a ) l ɛː	( a ) l ɛː -
+1901	legfoot	leg/foot	lasumpatte	lasumpatte		(a)-lɛː	l ɛː				10501	( a ) l ɛː	( a ) l ɛː -
+54	liver	liver	duhumbi	duhumbi		ɕa taŋku	ɕ a + t a ŋ k u				10701	ɕa taŋku	ɕa taŋku
+154	liver	liver	khispi	khispi		ɕap-ɕin	ɕ a p + ɕ i n				10702	ɕ a p ɕ i n	ɕ a p ɕ i n
+254	liver	liver	rupa	rupa		a-ʦʰɛ̃ː	a + tsʰ ɛ̃ː				10703	a ʦʰ ɛ̃ː	- a ʦʰ ɛ̃ː
+354	liver	liver	shergaon	shergaon		a-ʨʰĩː	a + tɕʰ ĩː				10703	a ʨʰ ĩː	- a ʨʰ ĩː
+455	liver	liver	rahung	rahung		a-ʨʰĩː	a + tɕʰ ĩː				10703	a ʨʰ ĩː	- a ʨʰ ĩː
+558	liver	liver	khoitam	khoitam		sə-sĩː	s ə + s ĩː				10702	s ə s ĩː	s ə - s ĩː -
+660	liver	liver	jerigaon	jerigaon		sɛ̃j ~ sɛ̃ĩ	s ɛ̃ j				10702	sɛ̃j ~ sɛ̃ĩ	sɛ̃j ~ - sɛ̃ĩ - -
+661	liver	liver	jerigaon	jerigaon		sɛ̃j ~ sɛ̃ĩ	s ɛ̃ ĩ				10702	sɛ̃j ~ sɛ̃ĩ	sɛ̃j ~ - sɛ̃ĩ - -
+758	liver	liver	khoina	khoina		də-ʨɛ̃ː	d ə + tɕ ɛ̃ː				10703	d ə ʨ ɛ̃ː	d ə ʨ ɛ̃ː
+861	liver	liver	dikhyang	dikhyang		ə-pʰin	ə + pʰ i n				10702	ə pʰ i n	- ə pʰ - i n
+1405	liver	liver	bulu	bulu		a-pʰiN	a + pʰ i N/ɴ				10702	a pʰ i N	- a pʰ - i N
+1505	liver	liver	kojorojo	kojorojo		a-pin	a + p i n				10702	a p i n	- a p - i n
+1603	liver	liver	rawa	rawa		a-pjet	a + p j e t				10702	a p j e t	- a p j e t
+1702	liver	liver	saria	saria		a-piʔ	a + p i ʔ				10702	a p i ʔ	- a p - i ʔ
+1802	liver	liver	chayangtajo	chayangtajo		a-pjiʔ	a + p j i ʔ				10702	a p j i ʔ	- a p j i ʔ
+1902	liver	liver	lasumpatte	lasumpatte		a-pjiʔ	a + p j i ʔ				10702	a p j i ʔ	- a p j i ʔ
+55	long	long	duhumbi	duhumbi		u-riŋ	u + r i ŋ				10901	u r i ŋ	u r i ŋ
+155	long	long	khispi	khispi		u-liŋ	u + l i ŋ				10901	u l i ŋ	u l i ŋ
+255	long	long	rupa	rupa		a-rɛŋ	a + r ɛ ŋ				10901	a r ɛ ŋ	a r ɛ ŋ
+355	long	long	shergaon	shergaon		a-rɛŋ	a + r ɛ ŋ				10901	a r ɛ ŋ	a r ɛ ŋ
+456	long	long	rahung	rahung		a-rɛŋ	a + r ɛ ŋ				10901	a r ɛ ŋ	a r ɛ ŋ
+559	long	long	khoitam	khoitam		a-rɛŋ	a + r ɛ ŋ				10901	a r ɛ ŋ	a r ɛ ŋ
+662	long	long	jerigaon	jerigaon		a-rɛŋ	a + r ɛ ŋ				10901	a r ɛ ŋ	a r ɛ ŋ
+759	long	long	khoina	khoina		a-rɛŋ	a + r ɛ ŋ				10901	a r ɛ ŋ	a r ɛ ŋ
+862	long	long	dikhyang	dikhyang		ə-pʰjaŋ	ə + pʰ j a ŋ				10902	ə pʰ j a ŋ	ə pʰ - j a ŋ
+954	long	long	singchung	singchung		pʰijaŋ	pʰ i j a ŋ				10902	pʰ i j a ŋ	- pʰ i j a ŋ
+1043	long	long	wangho	wangho		e-pʰijam	e + pʰ i j a m				10902	e pʰ i j a m	e pʰ i j a m
+1134	long	long	bichom	bichom		pʰijaŋ	pʰ i j a ŋ				10902	pʰ i j a ŋ	- pʰ i j a ŋ
+1223	long	long	kaspi	kaspi		pʰijaŋ	pʰ i j a ŋ				10902	pʰ i j a ŋ	- pʰ i j a ŋ
+1312	long	long	namphri	namphri		e-pʰijam	e + pʰ i j a m				10902	e pʰ i j a m	e pʰ i j a m
+1406	long	long	bulu	bulu		a-pjaN	a + p j a N/ɴ				10902	a p j a N	a p - j a N
+1506	long	long	kojorojo	kojorojo		a-pɹaŋ	a + p ɹ a ŋ				10902	a p ɹ a ŋ	a p - ɹ a ŋ
+1604	long	long	rawa	rawa		a-pɹaŋ	a + p ɹ a ŋ				10902	a p ɹ a ŋ	a p - ɹ a ŋ
+1703	long	long	saria	saria		pɹaŋ	p ɹ a ŋ				10902	p ɹ a ŋ	- p - ɹ a ŋ
+1803	long	long	chayangtajo	chayangtajo		a-pɹaŋ	a + p ɹ a ŋ				10902	a p ɹ a ŋ	a p - ɹ a ŋ
+1903	long	long	lasumpatte	lasumpatte		a-pɹaŋ	a + p ɹ a ŋ				10902	a p ɹ a ŋ	a p - ɹ a ŋ
+56	louse	louse	duhumbi	duhumbi		hɛk	h ɛ k				11101	h ɛ k	h - ɛ k
+156	louse	louse	khispi	khispi		hɛk	h ɛ k				11101	h ɛ k	h - ɛ k
+256	louse	louse	rupa	rupa		hɛk	h ɛ k				11101	h ɛ k	h - ɛ k
+356	louse	louse	shergaon	shergaon		hɛk	h ɛ k				11101	h ɛ k	h - ɛ k
+457	louse	louse	rahung	rahung		hɛk	h ɛ k				11101	h ɛ k	h - ɛ k
+560	louse	louse	khoitam	khoitam		hɛk	h ɛ k				11101	h ɛ k	h - ɛ k
+663	louse	louse	jerigaon	jerigaon		hɛ	h ɛ				11101	h ɛ	h - ɛ -
+760	louse	louse	khoina	khoina		xɛk	x ɛ k				11101	x ɛ k	x - ɛ k
+1407	louse	louse	bulu	bulu		ʃiʔ	ʃ i ʔ				11102	ʃ i ʔ	ʃ i ʔ
+1507	louse	louse	kojorojo	kojorojo		hɹɛ	h ɹ ɛ				11101	h ɹ ɛ	h ɹ ɛ -
+1605	louse	louse	rawa	rawa		hɛː	h ɛː				11101	h ɛː	h - ɛː -
+1704	louse	louse	saria	saria		prɛː	p r ɛː				11103	p r ɛː	p r ɛː
+1804	louse	louse	chayangtajo	chayangtajo		pɹɛː	p ɹ ɛː				11103	p ɹ ɛː	p ɹ ɛː
+1904	louse	louse	lasumpatte	lasumpatte		pɹɛː	p ɹ ɛː				11103	p ɹ ɛː	p ɹ ɛː
+57	moon	moon	duhumbi	duhumbi		nam-ba	n a m + b a				11301	n a m b a	n a m b - a - -
+157	moon	moon	khispi	khispi		nam-ba	n a m + b a				11301	n a m b a	n a m b - a - -
+257	moon	moon	rupa	rupa		nam-blu	n a m + b l u				11301	n a m b l u	n a m b l u - -
+357	moon	moon	shergaon	shergaon		nam-blu	n a m + b l u				11301	n a m b l u	n a m b l u - -
+458	moon	moon	rahung	rahung		nam-bru	n a m + b r u				11301	n a m b r u	n a m b r u - -
+561	moon	moon	khoitam	khoitam		nam-blu	n a m + b l u				11301	n a m b l u	n a m b l u - -
+664	moon	moon	jerigaon	jerigaon		nam-blu	n a m + b l u				11301	n a m b l u	n a m b l u - -
+761	moon	moon	khoina	khoina		nam-blu	n a m + b l u				11301	n a m b l u	n a m b l u - -
+863	moon	moon	dikhyang	dikhyang		haː-bieː	h aː + b ieː				11301	h aː b ieː	h aː - b - ieː - -
+955	moon	moon	singchung	singchung		ha-bije	h a + b i j e				11301	h a b i j e	h a - b - i j e
+1044	moon	moon	wangho	wangho		habije	h a b i j e				11301	h a b i j e	h a - b - i j e
+1135	moon	moon	bichom	bichom		ha-bije	h a + b i j e				11301	h a b i j e	h a - b - i j e
+1224	moon	moon	kaspi	kaspi		ha-bije	h a + b i j e				11301	h a b i j e	h a - b - i j e
+1313	moon	moon	namphri	namphri		ha-bije	h a + b i j e				11301	h a b i j e	h a - b - i j e
+1408	moon	moon	bulu	bulu		haN-bɔː	h a N/ɴ + b ɔː				11301	h a N b ɔː	h a N b - ɔː - -
+1508	moon	moon	kojorojo	kojorojo		ha-bu	h a + b u				11301	h a b u	h a - b - u - -
+1606	moon	moon	rawa	rawa		ha-nua	h a + n ua				11302	h a n ua	h a n ua
+1705	moon	moon	saria	saria		aŋ-bo	a ŋ + b o				11301	a ŋ b o	- a ŋ b - o - -
+1805	moon	moon	chayangtajo	chayangtajo		am-boː	a m + b oː				11301	a m b oː	- a m b - oː - -
+1905	moon	moon	lasumpatte	lasumpatte		am-boː	a m + b oː				11301	a m b oː	- a m b - oː - -
+58	mouth	mouth	duhumbi	duhumbi		hɔ-ʨu	h ɔ + tɕ u				11501	h ɔ ʨ u	h ɔ ʨ u -
+158	mouth	mouth	khispi	khispi		hɔ-ʨɔ	h ɔ + tɕ ɔ				11501	h ɔ ʨ ɔ	h ɔ ʨ ɔ -
+258	mouth	mouth	rupa	rupa		nə-ʦʰaw	n ə + tsʰ a w				11501	n ə ʦʰ a w	n ə ʦʰ a w
+358	mouth	mouth	shergaon	shergaon		nə-ʨʰaw	n ə + tɕʰ a w				11501	n ə ʨʰ a w	n ə ʨʰ a w
+459	mouth	mouth	rahung	rahung		ʨʰə-ʨʰoː	tɕʰ ə + tɕʰ oː				11501	ʨʰ ə ʨʰ oː	ʨʰ ə ʨʰ oː -
+562	mouth	mouth	khoitam	khoitam		ʨʰə-sɔː	tɕʰ ə + s ɔː				11501	ʨʰ ə s ɔː	ʨʰ ə s ɔː -
+665	mouth	mouth	jerigaon	jerigaon		sɔː	s ɔː				11501	s ɔː	s ɔː - - -
+762	mouth	mouth	khoina	khoina		də-ʦʰɛː	d ə + tsʰ ɛː				11501	d ə ʦʰ ɛː	d ə ʦʰ ɛː -
+864	mouth	mouth	dikhyang	dikhyang		siam	s ia m				11502	s ia m	s ia - - m
+956	mouth	mouth	singchung	singchung		s-pʰun	s + pʰ u n				11503	s pʰ u n	s pʰ u n
+1045	mouth	mouth	wangho	wangho		ʃijam	ʃ i j a m				11502	ʃ i j a m	ʃ i j a m
+1136	mouth	mouth	bichom	bichom		sem	s e m				11502	s e m	s e - - m
+1225	mouth	mouth	kaspi	kaspi		sem	s e m				11502	s e m	s e - - m
+1314	mouth	mouth	namphri	namphri		sem	s e m				11502	s e m	s e - - m
+1409	mouth	mouth	bulu	bulu		a-səm	a + s ə m				11502	a s ə m	- a s ə m
+1509	mouth	mouth	kojorojo	kojorojo		səm	s ə m				11502	s ə m	s ə - - m
+1607	mouth	mouth	rawa	rawa		səp	s ə p				11502	s ə p	s ə - - p
+1706	mouth	mouth	saria	saria		səʔ	s ə ʔ				11502	s ə ʔ	s ə - - ʔ
+1806	mouth	mouth	chayangtajo	chayangtajo		səʔ	s ə ʔ				11502	s ə ʔ	s ə - - ʔ
+1906	mouth	mouth	lasumpatte	lasumpatte		səʔ	s ə ʔ				11502	s ə ʔ	s ə - - ʔ
+59	name	name	duhumbi	duhumbi		biŋ	b i ŋ				11701	b i ŋ	- b - i ŋ
+159	name	name	khispi	khispi		biŋ	b i ŋ				11701	b i ŋ	- b - i ŋ
+259	name	name	rupa	rupa		a-zɛŋ	a + z ɛ ŋ				11701	a z ɛ ŋ	a z - ɛ ŋ
+359	name	name	shergaon	shergaon		a-zɛŋ	a + z ɛ ŋ				11701	a z ɛ ŋ	a z - ɛ ŋ
+460	name	name	rahung	rahung		a-ʥɛŋ	a + dʑ ɛ ŋ				11701	a ʥ ɛ ŋ	a ʥ - ɛ ŋ
+563	name	name	khoitam	khoitam		a-ʥɛŋ	a + dʑ ɛ ŋ				11701	a ʥ ɛ ŋ	a ʥ - ɛ ŋ
+666	name	name	jerigaon	jerigaon		a-ʥɛŋ	a + dʑ ɛ ŋ				11701	a ʥ ɛ ŋ	a ʥ - ɛ ŋ
+763	name	name	khoina	khoina		a-ʣɛŋ	a + dz ɛ ŋ				11701	a ʣ ɛ ŋ	a ʣ - ɛ ŋ
+865	name	name	dikhyang	dikhyang		ə-bɛŋ	ə + b ɛ ŋ				11701	ə b ɛ ŋ	ə b - ɛ ŋ
+957	name	name	singchung	singchung		e-beŋ	e + b e ŋ				11701	e b e ŋ	e b - e ŋ
+1046	name	name	wangho	wangho		e-beŋ	e + b e ŋ				11701	e b e ŋ	e b - e ŋ
+1137	name	name	bichom	bichom		e-beŋ	e + b e ŋ				11701	e b e ŋ	e b - e ŋ
+1226	name	name	kaspi	kaspi		e-beŋ	e + b e ŋ				11701	e b e ŋ	e b - e ŋ
+1315	name	name	namphri	namphri		e-beŋ	e + b e ŋ				11701	e b e ŋ	e b - e ŋ
+1410	name	name	bulu	bulu		a-bjɛN	a + b j ɛ N/ɴ				11701	a b j ɛ N	a b j ɛ N
+1510	name	name	kojorojo	kojorojo		a-bɹɛn	a + b ɹ ɛ n				11701	a b ɹ ɛ n	a b ɹ ɛ n
+1608	name	name	rawa	rawa		a-bɹɛn	a + b ɹ ɛ n				11701	a b ɹ ɛ n	a b ɹ ɛ n
+1707	name	name	saria	saria		a-bɹɛŋ	a + b ɹ ɛ ŋ				11701	a b ɹ ɛ ŋ	a b ɹ ɛ ŋ
+1807	name	name	chayangtajo	chayangtajo		a-bɹɛŋ	a + b ɹ ɛ ŋ				11701	a b ɹ ɛ ŋ	a b ɹ ɛ ŋ
+1907	name	name	lasumpatte	lasumpatte		a-bɹɛŋ	a + b ɹ ɛ ŋ				11701	a b ɹ ɛ ŋ	a b ɹ ɛ ŋ
+60	navel	navel	duhumbi	duhumbi		bɔː-di	b ɔː + d i				11901	b ɔː d i	- - - b ɔː - d i - -
+160	navel	navel	khispi	khispi		bɔː-di	b ɔː + d i				11901	b ɔː d i	- - - b ɔː - d i - -
+260	navel	navel	rupa	rupa		b-raː	b + r aː				11901	b r aː	- - - b - - r aː - -
+360	navel	navel	shergaon	shergaon		bu-ti-muː	b u + t i + m uː				11901	b u t i m uː	- - - b u - t i m uː
+461	navel	navel	rahung	rahung		b-rɛː	b + r ɛː				11901	b r ɛː	- - - b - - r ɛː - -
+564	navel	navel	khoitam	khoitam		b-rɛː	b + r ɛː				11901	b r ɛː	- - - b - - r ɛː - -
+667	navel	navel	jerigaon	jerigaon		b-raː	b + r aː				11901	b r aː	- - - b - - r aː - -
+764	navel	navel	khoina	khoina		b-raː	b + r aː				11901	b r aː	- - - b - - r aː - -
+866	navel	navel	dikhyang	dikhyang		bu-rui	b u + r ui				11901	b u r ui	- - - b u - r ui - -
+1411	navel	navel	bulu	bulu		sim-bə-lui	s i m + b ə + l ui				11901	s i m b ə l ui	s i m b ə - l ui - -
+1511	navel	navel	kojorojo	kojorojo		roŋ-rei	r o ŋ + r ei				11901	r o ŋ r ei	- - - r o ŋ r ei - -
+1609	navel	navel	rawa	rawa		roː-rei	r oː + r ei				11901	r oː r ei	- - - r oː - r ei - -
+1708	navel	navel	saria	saria		rue-ri	r ue + r i				11901	r ue r i	- - - r ue - r i - -
+1808	navel	navel	chayangtajo	chayangtajo		rue-rei	r ue + r ei				11901	r ue r ei	- - - r ue - r ei - -
+1908	navel	navel	lasumpatte	lasumpatte		rue-rei	r ue + r ei				11901	r ue r ei	- - - r ue - r ei - -
+61	neck	neck	duhumbi	duhumbi		hɛn-tʰɔŋ	h ɛ n + tʰ ɔ ŋ				12101	h ɛ n tʰ ɔ ŋ	h ɛ n tʰ - ɔ - - - ŋ - -
+161	neck	neck	khispi	khispi		hɛn-tʰɔŋ	h ɛ n + tʰ ɔ ŋ				12101	h ɛ n tʰ ɔ ŋ	h ɛ n tʰ - ɔ - - - ŋ - -
+261	neck	neck	rupa	rupa		tʰuŋ-ʦɛ̃ː	tʰ u ŋ + ts ɛ̃ː				12101	tʰ u ŋ ʦ ɛ̃ː	- - - tʰ - u - - - ŋ ʦ ɛ̃ː
+361	neck	neck	shergaon	shergaon		takraː	t a k r aː				12102	t a k r aː	t a k r aː
+462	neck	neck	rahung	rahung		pʰ-tʰuŋ	pʰ + tʰ u ŋ				12101	pʰ tʰ u ŋ	pʰ - - tʰ - u - - - ŋ - -
+565	neck	neck	khoitam	khoitam		nə-tʰuŋ	n ə + tʰ u ŋ				12101	n ə tʰ u ŋ	n ə - tʰ - u - - - ŋ - -
+765	neck	neck	khoina	khoina		nə-tu-xĩː	n ə + t u + x ĩː				12101	n ə t u x ĩː	n ə - t - u - - - x - ĩː
+867	neck	neck	dikhyang	dikhyang		raguŋ ju-ŋã	r a g u ŋ + j u + ŋ ã				12103	raguŋ ju-ŋã	raguŋ - ju-ŋã - - -
+958	neck	neck	singchung	singchung		e-jua	e + j ua				12103	e j ua	- e j ua - -
+1047	neck	neck	wangho	wangho		ja-pu	j a + p u				12103	j a p u	- - j a p u
+1138	neck	neck	bichom	bichom		e-jua	e + j ua				12103	e j ua	- e j ua - -
+1227	neck	neck	kaspi	kaspi		jua	j ua				12103	j ua	- - j ua - -
+1316	neck	neck	namphri	namphri		jua	j ua				12103	j ua	- - j ua - -
+1412	neck	neck	bulu	bulu		kə-tuN-rin	k ə + t u N/ɴ + r i n				12101	k ə t u N r i n	k ə - t - u N r i n - -
+1512	neck	neck	kojorojo	kojorojo		tuŋ-rin	t u ŋ + r i n				12101	t u ŋ r i n	- - - t - u ŋ r i n - -
+1610	neck	neck	rawa	rawa		tõ-rɨn	t õ + r ɨ n				12101	t õ r ɨ n	- - - t - õ - r ɨ n - -
+1709	neck	neck	saria	saria		kə-tjuŋ	k ə + t j u ŋ				12101	k ə t j u ŋ	k ə - t j u - - - ŋ - -
+1809	neck	neck	chayangtajo	chayangtajo		kə-tuŋ	k ə + t u ŋ				12101	k ə t u ŋ	k ə - t - u - - - ŋ - -
+1909	neck	neck	lasumpatte	lasumpatte		kə-tjuŋ	k ə + t j u ŋ				12101	k ə t j u ŋ	k ə - t j u - - - ŋ - -
+62	new	new	duhumbi	duhumbi		ɔ-kʰɔn	ɔ + kʰ ɔ n				12301	ɔ kʰ ɔ n	ɔ kʰ ɔ n
+162	new	new	khispi	khispi		ɔ-han	ɔ + h a n				12301	ɔ h a n	ɔ h a n
+262	new	new	rupa	rupa		a-fan	a + f a n				12301	a f a n	a f a n
+362	new	new	shergaon	shergaon		u-fan	u + f a n				12301	u f a n	u f a n
+463	new	new	rahung	rahung		a-hɛn	a + h ɛ n				12301	a h ɛ n	a h ɛ n
+566	new	new	khoitam	khoitam		a-fan	a + f a n				12301	a f a n	a f a n
+668	new	new	jerigaon	jerigaon		ə-hɛn	ə + h ɛ n				12301	ə h ɛ n	ə h ɛ n
+766	new	new	khoina	khoina		a-fɛn	a + f ɛ n				12301	a f ɛ n	a f ɛ n
+868	new	new	dikhyang	dikhyang		ə-vɔ̃	ə + v ɔ̃				12302	ə v ɔ̃	ə - v ɔ̃ -
+959	new	new	singchung	singchung		o-voᵘ	o + v oᵘ/o				12302	o v oᵘ	o - v oᵘ -
+1048	new	new	wangho	wangho		e-voŋ	e + v o ŋ				12302	e v o ŋ	e - v o ŋ
+1139	new	new	bichom	bichom		e-wã	e + w ã				12302	e w ã	e - w ã -
+1228	new	new	kaspi	kaspi		m-vəo	m + v əo				12302	m v əo	- m v əo -
+1317	new	new	namphri	namphri		e-vo	e + v o				12302	e v o	e - v o -
+1413	new	new	bulu	bulu		a-fɛN	a + f ɛ N/ɴ				12301	a f ɛ N	a f ɛ N
+1513	new	new	kojorojo	kojorojo		a-fan	a + f a n				12301	a f a n	a f a n
+1611	new	new	rawa	rawa		a-faʲt	a + f aʲ/a t				12301	a f aʲ t	a f aʲ t
+1710	new	new	saria	saria		a-faiʔ	a + f ai ʔ				12301	a f ai ʔ	a f ai ʔ
+1810	new	new	chayangtajo	chayangtajo		a-faiʔ	a + f ai ʔ				12301	a f ai ʔ	a f ai ʔ
+1910	new	new	lasumpatte	lasumpatte		a-faiʔ	a + f ai ʔ				12301	a f ai ʔ	a f ai ʔ
+63	nose	nose	duhumbi	duhumbi		hɛm-pʰɔŋ	h ɛ m + pʰ ɔ ŋ				12501	h ɛ m pʰ ɔ ŋ	h ɛ m pʰ ɔ ŋ
+163	nose	nose	khispi	khispi		hɛm-pʰɔŋ	h ɛ m + pʰ ɔ ŋ				12501	h ɛ m pʰ ɔ ŋ	h ɛ m pʰ ɔ ŋ
+263	nose	nose	rupa	rupa		nə-pʰuŋ	n ə + pʰ u ŋ				12501	n ə pʰ u ŋ	n ə - pʰ u ŋ
+363	nose	nose	shergaon	shergaon		nə-pʰuŋ	n ə + pʰ u ŋ				12501	n ə pʰ u ŋ	n ə - pʰ u ŋ
+464	nose	nose	rahung	rahung		ma-pʰuŋ	m a + pʰ u ŋ				12501	m a pʰ u ŋ	m a - pʰ u ŋ
+567	nose	nose	khoitam	khoitam		nə-pʰuŋ	n ə + pʰ u ŋ				12501	n ə pʰ u ŋ	n ə - pʰ u ŋ
+669	nose	nose	jerigaon	jerigaon		nə-pʰuŋ	n ə + pʰ u ŋ				12501	n ə pʰ u ŋ	n ə - pʰ u ŋ
+767	nose	nose	khoina	khoina		nə-pʰuŋ	n ə + pʰ u ŋ				12501	n ə pʰ u ŋ	n ə - pʰ u ŋ
+869	nose	nose	dikhyang	dikhyang		ə-pʰuŋ	ə + pʰ u ŋ				12501	ə pʰ u ŋ	- ə - pʰ u ŋ
+960	nose	nose	singchung	singchung		e-pʰuŋ	e + pʰ u ŋ				12501	e pʰ u ŋ	- e - pʰ u ŋ
+1049	nose	nose	wangho	wangho		e-pʰuŋ	e + pʰ u ŋ				12501	e pʰ u ŋ	- e - pʰ u ŋ
+1140	nose	nose	bichom	bichom		e-pʰuŋ	e + pʰ u ŋ				12501	e pʰ u ŋ	- e - pʰ u ŋ
+1229	nose	nose	kaspi	kaspi		e-pʰuŋ	e + pʰ u ŋ				12501	e pʰ u ŋ	- e - pʰ u ŋ
+1318	nose	nose	namphri	namphri		e-pʰuŋ	e + pʰ u ŋ				12501	e pʰ u ŋ	- e - pʰ u ŋ
+1414	nose	nose	bulu	bulu		a-pʰuN	a + pʰ u N/ɴ				12501	a pʰ u N	- a - pʰ u N
+1514	nose	nose	kojorojo	kojorojo		a-puŋ	a + p u ŋ				12501	a p u ŋ	- a - p u ŋ
+1612	nose	nose	rawa	rawa		poŋ	p o ŋ				12501	p o ŋ	- - - p o ŋ
+1711	nose	nose	saria	saria		poŋ	p o ŋ				12501	p o ŋ	- - - p o ŋ
+1811	nose	nose	chayangtajo	chayangtajo		a-pok	a + p o k				12501	a p o k	- a - p o k
+1911	nose	nose	lasumpatte	lasumpatte		a-pok	a + p o k				12501	a p o k	- a - p o k
+64	not	not	duhumbi	duhumbi		ba-	b a				12701	b a	b a
+164	not	not	khispi	khispi		ba-	b a				12701	b a	b a
+264	not	not	rupa	rupa		bə-	b ə				12701	b ə	b ə
+364	not	not	shergaon	shergaon		bə-	b ə				12701	b ə	b ə
+465	not	not	rahung	rahung		bə-	b ə				12701	b ə	b ə
+568	not	not	khoitam	khoitam		bə-	b ə				12701	b ə	b ə
+670	not	not	jerigaon	jerigaon		bə-	b ə				12701	b ə	b ə
+768	not	not	khoina	khoina		bə-	b ə				12701	b ə	b ə
+1415	not	not	bulu	bulu		ba-	b a				12701	b a	b a
+1515	not	not	kojorojo	kojorojo		ba-	b a				12701	b a	b a
+1613	not	not	rawa	rawa		ba-	b a				12701	b a	b a
+1712	not	not	saria	saria		ba-	b a				12701	b a	b a
+1812	not	not	chayangtajo	chayangtajo		ba-	b a				12701	b a	b a
+1912	not	not	lasumpatte	lasumpatte		ba-	b a				12701	b a	b a
+65	oldofthings	old of things	duhumbi	duhumbi		ɔ-mɛn	ɔ + m ɛ n				12901	ɔ m ɛ n	ɔ m ɛ n
+165	oldofthings	old of things	khispi	khispi		ɔ-mɛn	ɔ + m ɛ n				12901	ɔ m ɛ n	ɔ m ɛ n
+265	oldofthings	old of things	rupa	rupa		a-man	a + m a n				12901	a m a n	a m a n
+365	oldofthings	old of things	shergaon	shergaon		a-man	a + m a n				12901	a m a n	a m a n
+466	oldofthings	old of things	rahung	rahung		a-mɛn	a + m ɛ n				12901	a m ɛ n	a m ɛ n
+569	oldofthings	old of things	khoitam	khoitam		a-man	a + m a n				12901	a m a n	a m a n
+671	oldofthings	old of things	jerigaon	jerigaon		a-mɛn	a + m ɛ n				12901	a m ɛ n	a m ɛ n
+769	oldofthings	old of things	khoina	khoina		a-mɛn	a + m ɛ n				12901	a m ɛ n	a m ɛ n
+870	oldofthings	old of things	dikhyang	dikhyang		ə-hɛk	ə + h ɛ k				12902	ə h ɛ k	ə h ɛ k
+961	oldofthings	old of things	singchung	singchung		e-he	e + h e				12902	e h e	e h e -
+1050	oldofthings	old of things	wangho	wangho		e-hek	e + h e k				12902	e h e k	e h e k
+1141	oldofthings	old of things	bichom	bichom		e-hek	e + h e k				12902	e h e k	e h e k
+1230	oldofthings	old of things	kaspi	kaspi		e-hek	e + h e k				12902	e h e k	e h e k
+1319	oldofthings	old of things	namphri	namphri		e-hek	e + h e k				12902	e h e k	e h e k
+1416	oldofthings	old of things	bulu	bulu		a-ʦɛN	a + ts ɛ N/ɴ				12903	a ʦ ɛ N	a ʦ - ɛ N
+1516	oldofthings	old of things	kojorojo	kojorojo		a-ʧjɛn	a + tʃ j ɛ n				12903	a ʧ j ɛ n	a ʧ j ɛ n
+1614	oldofthings	old of things	rawa	rawa		a-ʧet	a + tʃ e t				12903	a ʧ e t	a ʧ - e t
+1713	oldofthings	old of things	saria	saria		a-ʧeiʔ	a + tʃ ei ʔ				12903	a ʧ ei ʔ	a ʧ - ei ʔ
+1813	oldofthings	old of things	chayangtajo	chayangtajo		a-ʧaiʔ	a + tʃ ai ʔ				12903	a ʧ ai ʔ	a ʧ - ai ʔ
+1913	oldofthings	old of things	lasumpatte	lasumpatte		a-ʧaiʔ	a + tʃ ai ʔ				12903	a ʧ ai ʔ	a ʧ - ai ʔ
+66	one	one	duhumbi	duhumbi		hin	h i n				13101	h i n	h i n
+166	one	one	khispi	khispi		hin	h i n				13101	h i n	h i n
+266	one	one	rupa	rupa		han	h a n				13101	h a n	h a n
+366	one	one	shergaon	shergaon		han	h a n				13101	h a n	h a n
+467	one	one	rahung	rahung		hɛn	h ɛ n				13101	h ɛ n	h ɛ n
+570	one	one	khoitam	khoitam		han	h a n				13101	h a n	h a n
+672	one	one	jerigaon	jerigaon		hɛn	h ɛ n				13101	h ɛ n	h ɛ n
+770	one	one	khoina	khoina		hɛn	h ɛ n				13101	h ɛ n	h ɛ n
+871	one	one	dikhyang	dikhyang		ʦjɔ̃	ts j ɔ̃				13102	ʦ j ɔ̃	ʦ - j ɔ̃
+962	one	one	singchung	singchung		ʤijo	dʒ i j o				13102	ʤ i j o	ʤ i j o
+1051	one	one	wangho	wangho		ʧo	tʃ o				13102	ʧ o	ʧ - - o
+1142	one	one	bichom	bichom		ʤijo	dʒ i j o				13102	ʤ i j o	ʤ i j o
+1231	one	one	kaspi	kaspi		ʤe	dʒ e				13103	ʤ e	ʤ e
+1320	one	one	namphri	namphri		ʤe	dʒ e				13103	ʤ e	ʤ e
+1417	one	one	bulu	bulu		tyi	t yi				13104	t yi	t yi
+1517	one	one	kojorojo	kojorojo		kjuː	k j uː				13102	k j uː	k - j uː
+1615	one	one	rawa	rawa		tjoː	t j oː				13102	t j oː	t - j oː
+1714	one	one	saria	saria		ʧue	tʃ ue				13103	ʧ ue	ʧ ue
+1814	one	one	chayangtajo	chayangtajo		hui	h ui				13105	h ui	h ui
+1914	one	one	lasumpatte	lasumpatte		hui	h ui				13105	h ui	h ui
+67	path	path	duhumbi	duhumbi		huma	h u m a				13301	h u m a	h u m a
+167	path	path	khispi	khispi		huma	h u m a				13301	h u m a	h u m a
+267	path	path	rupa	rupa		ləmu	l ə m u				13301	l ə m u	l ə m u
+367	path	path	shergaon	shergaon		ləmu	l ə m u				13301	l ə m u	l ə m u
+468	path	path	rahung	rahung		lym	l y m				13301	l y m	l y m -
+571	path	path	khoitam	khoitam		lym	l y m				13301	l y m	l y m -
+673	path	path	jerigaon	jerigaon		hamu	h a m u				13301	h a m u	h a m u
+771	path	path	khoina	khoina		ham	h a m				13301	h a m	h a m -
+872	path	path	dikhyang	dikhyang		ləmuə duə	l ə m uə + d uə				13301	ləmuə duə	ləmuə - duə -
+963	path	path	singchung	singchung		ləmua	l ə m ua				13301	l ə m ua	l ə m ua
+1052	path	path	wangho	wangho		ləmua	l ə m ua				13301	l ə m ua	l ə m ua
+1143	path	path	bichom	bichom		ləmua	l ə m ua				13301	l ə m ua	l ə m ua
+1232	path	path	kaspi	kaspi		ləmua	l ə m ua				13301	l ə m ua	l ə m ua
+1321	path	path	namphri	namphri		ləmua	l ə m ua				13301	l ə m ua	l ə m ua
+1418	path	path	bulu	bulu		lim	l i m				13301	l i m	l i m -
+1518	path	path	kojorojo	kojorojo		lim	l i m				13301	l i m	l i m -
+1616	path	path	rawa	rawa		lɨp	l ɨ p				13301	l ɨ p	l ɨ p -
+1715	path	path	saria	saria		liʔ	l i ʔ				13301	l i ʔ	l i ʔ -
+1815	path	path	chayangtajo	chayangtajo		puzuɛ	p u z uɛ				13302	p u z uɛ	p u z uɛ
+1915	path	path	lasumpatte	lasumpatte		puzuɛ	p u z uɛ				13302	p u z uɛ	p u z uɛ
+68	rain	rain	duhumbi	duhumbi		na-mu	n a + m u				13501	n a m u	n a m u
+168	rain	rain	khispi	khispi		na-mu	n a + m u				13501	n a m u	n a m u
+268	rain	rain	rupa	rupa		nə-ʦʰuː	n ə + tsʰ uː				13502	n ə ʦʰ uː	n ə ʦʰ uː
+368	rain	rain	shergaon	shergaon		ɲi-mi	ɲ i + m i				13501	ɲ i m i	ɲ i m i
+469	rain	rain	rahung	rahung		pʰ-ʨʰu	pʰ + tɕʰ u				13502	pʰ ʨʰ u	pʰ - ʨʰ u
+572	rain	rain	khoitam	khoitam		nə-ʨʰu	n ə + tɕʰ u				13502	n ə ʨʰ u	n ə ʨʰ u
+674	rain	rain	jerigaon	jerigaon		nə-ʨʰu	n ə + tɕʰ u				13502	n ə ʨʰ u	n ə ʨʰ u
+772	rain	rain	khoina	khoina		naː-ʦʰu	n aː + tsʰ u				13502	n aː ʦʰ u	n aː ʦʰ u
+873	rain	rain	dikhyang	dikhyang		haː-pʰiɛ	h aː + pʰ iɛ				13503	h aː pʰ iɛ	h aː - pʰ - - iɛ
+964	rain	rain	singchung	singchung		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
+1053	rain	rain	wangho	wangho		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
+1144	rain	rain	bichom	bichom		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
+1233	rain	rain	kaspi	kaspi		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
+1322	rain	rain	namphri	namphri		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
+1419	rain	rain	bulu	bulu		ham-piː	h a m + p iː				13503	h a m p iː	h a m p - - iː
+1519	rain	rain	kojorojo	kojorojo		ham-pɹoː	h a m + p ɹ oː				13503	h a m p ɹ oː	h a m p - ɹ oː
+1617	rain	rain	rawa	rawa		ham-pɹoː	h a m + p ɹ oː				13503	h a m p ɹ oː	h a m p - ɹ oː
+1716	rain	rain	saria	saria		haʔ-pɹo	h a ʔ + p ɹ o				13503	h a ʔ p ɹ o	h a ʔ p - ɹ o
+1816	rain	rain	chayangtajo	chayangtajo		am-pɹuː	a m + p ɹ uː				13503	a m p ɹ uː	- a m p - ɹ uː
+1916	rain	rain	lasumpatte	lasumpatte		am-pjuː	a m + p j uː				13503	a m p j uː	- a m p - j uː
+69	red	red	duhumbi	duhumbi		ɔ-kʰek	ɔ + kʰ e k				13701	ɔ kʰ e k	ɔ kʰ e k
+169	red	red	khispi	khispi		ɔ-hɛk	ɔ + h ɛ k				13701	ɔ h ɛ k	ɔ h ɛ k
+269	red	red	rupa	rupa		ə-hɛk	ə + h ɛ k				13701	ə h ɛ k	ə h ɛ k
+369	red	red	shergaon	shergaon		ə-hɛk	ə + h ɛ k				13701	ə h ɛ k	ə h ɛ k
+470	red	red	rahung	rahung		ə-hɛk	ə + h ɛ k				13701	ə h ɛ k	ə h ɛ k
+573	red	red	khoitam	khoitam		ə-hɛk	ə + h ɛ k				13701	ə h ɛ k	ə h ɛ k
+675	red	red	jerigaon	jerigaon		ə-hɛk	ə + h ɛ k				13701	ə h ɛ k	ə h ɛ k
+773	red	red	khoina	khoina		a-xɛk	a + x ɛ k				13701	a x ɛ k	a x ɛ k
+874	red	red	dikhyang	dikhyang		ə-ɕɛk	ə + ɕ ɛ k				13701	ə ɕ ɛ k	ə ɕ ɛ k
+965	red	red	singchung	singchung		e-ʃaik	e + ʃ ai k				13701	e ʃ ai k	e ʃ ai k
+1054	red	red	wangho	wangho		e-ʃek	e + ʃ e k				13701	e ʃ e k	e ʃ e k
+1145	red	red	bichom	bichom		e-ʃaik	e + ʃ ai k				13701	e ʃ ai k	e ʃ ai k
+1234	red	red	kaspi	kaspi		ʃeⁱ	ʃ eⁱ/e				13701	ʃ eⁱ	- ʃ eⁱ -
+1323	red	red	namphri	namphri		e-ʃaik	e + ʃ ai k				13701	e ʃ ai k	e ʃ ai k
+1420	red	red	bulu	bulu		a-ʃiʔ	a + ʃ i ʔ				13701	a ʃ i ʔ	a ʃ i ʔ
+1520	red	red	kojorojo	kojorojo		a-hɨː	a + h ɨː				13702	a h ɨː	a h ɨː
+1618	red	red	rawa	rawa		a-rjuʔ	a + r j u ʔ				13703	a r j u ʔ	a r j u ʔ
+1717	red	red	saria	saria		a-rjuʔ	a + r j u ʔ				13703	a r j u ʔ	a r j u ʔ
+1817	red	red	chayangtajo	chayangtajo		a-rjuk	a + r j u k				13703	a r j u k	a r j u k
+1917	red	red	lasumpatte	lasumpatte		a-rjuk	a + r j u k				13703	a r j u k	a r j u k
+70	root	root	duhumbi	duhumbi		ra-ba	r a + b a				13901	r a b a	r a b a
+170	root	root	khispi	khispi		hiŋŋa lej	h i ŋ ŋ a + l e j				13902	hiŋŋa lej	hiŋŋa lej
+270	root	root	rupa	rupa		ə-hĩː	ə + h ĩː				13903	ə h ĩː	ə h ĩː
+370	root	root	shergaon	shergaon		ra-bɔː	r a + b ɔː				13901	r a b ɔː	r a b ɔː
+471	root	root	rahung	rahung		i-hĩː	i + h ĩː				13903	i h ĩː	i h ĩː
+574	root	root	khoitam	khoitam		a-hĩː	a + h ĩː				13903	a h ĩː	a h ĩː
+676	root	root	jerigaon	jerigaon		i-hĩː	i + h ĩː				13903	i h ĩː	i h ĩː
+774	root	root	khoina	khoina		a-xĩː	a + x ĩː				13903	a x ĩː	a x ĩː
+875	root	root	dikhyang	dikhyang		ə-rəŋ	ə + r ə ŋ				13904	ə r ə ŋ	- ə - r ə ŋ
+966	root	root	singchung	singchung		e-raŋ	e + r a ŋ				13904	e r a ŋ	- e - r a ŋ
+1055	root	root	wangho	wangho		e-raŋ	e + r a ŋ				13904	e r a ŋ	- e - r a ŋ
+1146	root	root	bichom	bichom		e-raŋ	e + r a ŋ				13904	e r a ŋ	- e - r a ŋ
+1235	root	root	kaspi	kaspi		e-raŋ	e + r a ŋ				13904	e r a ŋ	- e - r a ŋ
+1324	root	root	namphri	namphri		e-raŋ	e + r a ŋ				13904	e r a ŋ	- e - r a ŋ
+1421	root	root	bulu	bulu		ʃiN-rin	ʃ i N/ɴ + r i n				13904	ʃ i N r i n	ʃ i N r i n
+1521	root	root	kojorojo	kojorojo		hɨ̃-rin	h ɨ̃ + r i n				13904	h ɨ̃ r i n	h ɨ̃ - r i n
+1619	root	root	rawa	rawa		a-rɨŋ	a + r ɨ ŋ				13904	a r ɨ ŋ	- a - r ɨ ŋ
+1718	root	root	saria	saria		a-riŋ	a + r i ŋ				13904	a r i ŋ	- a - r i ŋ
+1818	root	root	chayangtajo	chayangtajo		a-reŋ	a + r e ŋ				13904	a r e ŋ	- a - r e ŋ
+1918	root	root	lasumpatte	lasumpatte		a-reŋ	a + r e ŋ				13904	a r e ŋ	- a - r e ŋ
+72	salt	salt	duhumbi	duhumbi		ha	h a				14301	h a	h a
+172	salt	salt	khispi	khispi		ha	h a				14301	h a	h a
+272	salt	salt	rupa	rupa		hũː	h ũː				14302	h ũː	h ũː -
+372	salt	salt	shergaon	shergaon		huŋ	h u ŋ				14302	h u ŋ	h u ŋ
+473	salt	salt	rahung	rahung		hũŋ	h ũ ŋ				14302	h ũ ŋ	h ũ ŋ
+576	salt	salt	khoitam	khoitam		huŋ	h u ŋ				14302	h u ŋ	h u ŋ
+678	salt	salt	jerigaon	jerigaon		huŋ	h u ŋ				14302	h u ŋ	h u ŋ
+776	salt	salt	khoina	khoina		hũː	h ũː				14302	h ũː	h ũː -
+877	salt	salt	dikhyang	dikhyang		sə-ruə	s ə + r uə				14303	s ə r uə	s ə r uə - -
+967	salt	salt	singchung	singchung		su-ruwa	s u + r u w a				14303	s u r u w a	s u r u w a
+1056	salt	salt	wangho	wangho		su-ruwa	s u + r u w a				14303	s u r u w a	s u r u w a
+1147	salt	salt	bichom	bichom		su-rəja	s u + r ə j a				14303	s u r ə j a	s u r ə j a
+1236	salt	salt	kaspi	kaspi		su-ɹe	s u + ɹ e				14303	s u ɹ e	s u ɹ e - -
+1325	salt	salt	namphri	namphri		su-ruwa	s u + r u w a				14303	s u r u w a	s u r u w a
+1423	salt	salt	bulu	bulu		fəu	f əu				14304	f əu	f əu
+1523	salt	salt	kojorojo	kojorojo		fou	f ou				14304	f ou	f ou
+1621	salt	salt	rawa	rawa		foː	f oː				14304	f oː	f oː
+1720	salt	salt	saria	saria		hoŋ	h o ŋ				14302	h o ŋ	h o ŋ
+1820	salt	salt	chayangtajo	chayangtajo		hoŋ	h o ŋ				14302	h o ŋ	h o ŋ
+1920	salt	salt	lasumpatte	lasumpatte		hoŋ	h o ŋ				14302	h o ŋ	h o ŋ
+73	sand	sand	duhumbi	duhumbi		beʦa	b e ts a				14501	b e ʦ a	b e ʦ a
+173	sand	sand	khispi	khispi		beʦa	b e ts a				14501	b e ʦ a	b e ʦ a
+273	sand	sand	rupa	rupa		mə-kʰɔ	m ə + kʰ ɔ				14502	m ə kʰ ɔ	m ə kʰ ɔ
+373	sand	sand	shergaon	shergaon		beʦɔ	b e ts ɔ				14501	b e ʦ ɔ	b e ʦ ɔ
+474	sand	sand	rahung	rahung		kʰə-bɔ	kʰ ə + b ɔ				14503	kʰ ə b ɔ	kʰ ə b ɔ
+577	sand	sand	khoitam	khoitam		kʰə-pʰɔ	kʰ ə + pʰ ɔ				14503	kʰ ə pʰ ɔ	kʰ ə pʰ ɔ
+679	sand	sand	jerigaon	jerigaon		kʰ-pʰa	kʰ + pʰ a				14503	kʰ pʰ a	kʰ - pʰ a
+777	sand	sand	khoina	khoina		gə-pʰa	g ə + pʰ a				14503	g ə pʰ a	g ə pʰ a
+878	sand	sand	dikhyang	dikhyang		baːli	b aː l i				14504	b aː l i	b aː l i
+968	sand	sand	singchung	singchung		bali	b a l i				14504	b a l i	b a l i
+1057	sand	sand	wangho	wangho		bali	b a l i				14504	b a l i	b a l i
+1148	sand	sand	bichom	bichom		bali	b a l i				14504	b a l i	b a l i
+1237	sand	sand	kaspi	kaspi		bali	b a l i				14504	b a l i	b a l i
+1326	sand	sand	namphri	namphri		bali	b a l i				14504	b a l i	b a l i
+1424	sand	sand	bulu	bulu		səm-pjɛː	s ə m + p j ɛː				14506	s ə m p j ɛː	s ə m p j ɛː - - - - - -
+1524	sand	sand	kojorojo	kojorojo		pan-ʧɨː-hɹɛː	p a n + tʃ ɨː + h ɹ ɛː				14506	p a n ʧ ɨː h ɹ ɛː	- - - p - a n ʧ ɨː h ɹ ɛː
+1622	sand	sand	rawa	rawa		pã-ʧɨʔ	p ã + tʃ ɨ ʔ				14506	p ã ʧ ɨ ʔ	- - - p - ã - ʧ ɨ ʔ - -
+1721	sand	sand	saria	saria		bɛɛ-ʧiʔ	b ɛː + tʃ i ʔ				14506	b ɛɛ ʧ i ʔ	- - - b - ɛɛ - ʧ i ʔ - -
+1821	sand	sand	chayangtajo	chayangtajo		pɹɛː-ʧeiʔ	p ɹ ɛː + tʃ ei ʔ				14506	p ɹ ɛː ʧ ei ʔ	- - - p ɹ ɛː - ʧ ei ʔ - -
+1921	sand	sand	lasumpatte	lasumpatte		pjɛː-ʧeʔ	p j ɛː + tʃ e ʔ				14506	p j ɛː ʧ e ʔ	- - - p j ɛː - ʧ e ʔ - -
+77	skinhide	skin/hide	duhumbi	duhumbi		ɕa-kʰɔk	ɕ a + kʰ ɔ k				15301	ɕ a kʰ ɔ k	ɕ a - kʰ ɔ k
+177	skinhide	skin/hide	khispi	khispi		ɕa-kʰɔk	ɕ a + kʰ ɔ k				15301	ɕ a kʰ ɔ k	ɕ a - kʰ ɔ k
+277	skinhide	skin/hide	rupa	rupa		s-kuk	s + k u k				15301	s k u k	- - s k u k
+377	skinhide	skin/hide	shergaon	shergaon		s-kuk	s + k u k				15301	s k u k	- - s k u k
+478	skinhide	skin/hide	rahung	rahung		s-kuk	s + k u k				15301	s k u k	- - s k u k
+581	skinhide	skin/hide	khoitam	khoitam		s-kuk	s + k u k				15301	s k u k	- - s k u k
+682	skinhide	skin/hide	jerigaon	jerigaon		s-kuk	s + k u k				15301	s k u k	- - s k u k
+781	skinhide	skin/hide	khoina	khoina		ʂ-kʰuk	ʂ + kʰ u k				15301	ʂ kʰ u k	- - ʂ kʰ u k
+882	skinhide	skin/hide	dikhyang	dikhyang		eː-kʰuk	eː + kʰ u k				15301	eː kʰ u k	- eː - kʰ u k
+972	skinhide	skin/hide	singchung	singchung		e-kʰuk	e + kʰ u k				15301	e kʰ u k	- e - kʰ u k
+1061	skinhide	skin/hide	wangho	wangho		e-kʰuk	e + kʰ u k				15301	e kʰ u k	- e - kʰ u k
+1152	skinhide	skin/hide	bichom	bichom		e-kʰuk	e + kʰ u k				15301	e kʰ u k	- e - kʰ u k
+1241	skinhide	skin/hide	kaspi	kaspi		e-kʰuk	e + kʰ u k				15301	e kʰ u k	- e - kʰ u k
+1330	skinhide	skin/hide	namphri	namphri		e-kʰuk	e + kʰ u k				15301	e kʰ u k	- e - kʰ u k
+1428	skinhide	skin/hide	bulu	bulu		a-kuʔ	a + k u ʔ				15301	a k u ʔ	- a - k u ʔ
+1528	skinhide	skin/hide	kojorojo	kojorojo		a-kɨː	a + k ɨː				15301	a k ɨː	- a - k ɨː -
+1626	skinhide	skin/hide	rawa	rawa		a-kəː	a + k əː				15301	a k əː	- a - k əː -
+1725	skinhide	skin/hide	saria	saria		a-kəː	a + k əː				15301	a k əː	- a - k əː -
+1825	skinhide	skin/hide	chayangtajo	chayangtajo		a-kəː	a + k əː				15301	a k əː	- a - k əː -
+1925	skinhide	skin/hide	lasumpatte	lasumpatte		a-kəː	a + k əː				15301	a k əː	- a - k əː -
+79	small	small	duhumbi	duhumbi		ka-ti	k a + t i				15701	k a t i	k a t i - -
+179	small	small	khispi	khispi		ɕa-da	ɕ a + d a				15710	ɕ a d a	ɕ a d a
+279	small	small	rupa	rupa		a-ʨan-du	a + tɕ a n + d u				15703	a ʨ a n d u	a ʨ a n d u
+379	small	small	shergaon	shergaon		a-ʨan-du	a + tɕ a n + d u				15703	a ʨ a n d u	a ʨ a n d u
+480	small	small	rahung	rahung		ʨɔ̃ː-du	tɕ ɔ̃ː + d u				15703	ʨ ɔ̃ː d u	- ʨ ɔ̃ː - d u
+583	small	small	khoitam	khoitam		a-ʥan-du	a + dʑ a n + d u				15703	a ʥ a n d u	a ʥ a n d u
+684	small	small	jerigaon	jerigaon		a-du-du	a + d u + d u				15702	a d u d u	a d u d u
+783	small	small	khoina	khoina		a-ʥãn-du	a + dʑ ã n + d u				15703	a ʥ ã n d u	a ʥ ã n d u
+884	small	small	dikhyang	dikhyang		ə-ti-dua	ə + t i + d ua				15701	ə t i d ua	- ə t i d ua
+974	small	small	singchung	singchung		ẽeᵘ	ẽeᵘ/ẽu				15704	ẽeᵘ	ẽeᵘ - - -
+1063	small	small	wangho	wangho		e-juŋ	e + j u ŋ				15704	e j u ŋ	e j u ŋ
+1154	small	small	bichom	bichom		e-juŋ	e + j u ŋ				15704	e j u ŋ	e j u ŋ
+1243	small	small	kaspi	kaspi		e-juŋ	e + j u ŋ				15704	e j u ŋ	e j u ŋ
+1332	small	small	namphri	namphri		iu	iu				15704	iu	iu - - -
+1430	small	small	bulu	bulu		a-ziː	a + z iː				15705	a z iː	a z iː
+1530	small	small	kojorojo	kojorojo		a-ziː	a + z iː				15705	a z iː	a z iː
+1628	small	small	rawa	rawa		a-jiŋ	a + j i ŋ				15704	a j i ŋ	a j i ŋ
+1727	small	small	saria	saria		ɲɛː-doː	ɲ ɛː + d oː				15706	ɲ ɛː d oː	ɲ ɛː d oː
+1827	small	small	chayangtajo	chayangtajo		kə-siʔ	k ə + s i ʔ				15707	k ə s i ʔ	k ə s i ʔ
+1927	small	small	lasumpatte	lasumpatte		kə-siʔ	k ə + s i ʔ				15707	k ə s i ʔ	k ə s i ʔ
+80	smoke	smoke	duhumbi	duhumbi		bu-kʰu	b u + kʰ u				15901	b u kʰ u	b u - - kʰ u -
+180	smoke	smoke	khispi	khispi		bu-kʰu	b u + kʰ u				15901	b u kʰ u	b u - - kʰ u -
+280	smoke	smoke	rupa	rupa		ba-kʰy	b a + kʰ y				15901	b a kʰ y	b a - - kʰ y -
+380	smoke	smoke	shergaon	shergaon		ba-kʰy	b a + kʰ y				15901	b a kʰ y	b a - - kʰ y -
+481	smoke	smoke	rahung	rahung		ba-kʰy	b a + kʰ y				15901	b a kʰ y	b a - - kʰ y -
+584	smoke	smoke	khoitam	khoitam		ba-kʰy	b a + kʰ y				15901	b a kʰ y	b a - - kʰ y -
+685	smoke	smoke	jerigaon	jerigaon		ba-kʰy	b a + kʰ y				15901	b a kʰ y	b a - - kʰ y -
+784	smoke	smoke	khoina	khoina		ba-kʰy	b a + kʰ y				15901	b a kʰ y	b a - - kʰ y -
+885	smoke	smoke	dikhyang	dikhyang		ba-kʰau	b a + kʰ au				15901	b a kʰ au	b a - - kʰ au -
+975	smoke	smoke	singchung	singchung		boᵉ-kʰaᵘ	b oᵉ/o + kʰ aᵘ/a				15901	b oᵉ kʰ aᵘ	b oᵉ - - kʰ aᵘ -
+1064	smoke	smoke	wangho	wangho		bu-kʰu	b u + kʰ u				15901	b u kʰ u	b u - - kʰ u -
+1155	smoke	smoke	bichom	bichom		bam-kʰam	b a m + kʰ a m				15901	b a m kʰ a m	b a m - kʰ a m
+1244	smoke	smoke	kaspi	kaspi		baiŋ-kʰam	b ai ŋ + kʰ a m				15901	b ai ŋ kʰ a m	b ai ŋ - kʰ a m
+1333	smoke	smoke	namphri	namphri		boᵉ-mo-kʰəm	b oᵉ/o + m o + kʰ ə m				15901	b oᵉ m o kʰ ə m	b oᵉ m o kʰ ə m
+1431	smoke	smoke	bulu	bulu		bɛ-kʰɨː	b ɛ + kʰ ɨː				15901	b ɛ kʰ ɨː	b ɛ - - kʰ ɨː -
+1531	smoke	smoke	kojorojo	kojorojo		bai-kəː	b ai + k əː				15901	b ai k əː	b ai - - k əː -
+1629	smoke	smoke	rawa	rawa		bai-kɨː	b ai + k ɨː				15901	b ai k ɨː	b ai - - k ɨː -
+1728	smoke	smoke	saria	saria		bai-kɨː	b ai + k ɨː				15901	b ai k ɨː	b ai - - k ɨː -
+1828	smoke	smoke	chayangtajo	chayangtajo		bɛː-kɨː	b ɛː + k ɨː				15901	b ɛː k ɨː	b ɛː - - k ɨː -
+1928	smoke	smoke	lasumpatte	lasumpatte		bɛː-kɨː	b ɛː + k ɨː				15901	b ɛː k ɨː	b ɛː - - k ɨː -
+81	stand	stand	duhumbi	duhumbi		kʰiŋ	kʰ i ŋ				16101	kʰ i ŋ	- kʰ i ŋ
+181	stand	stand	khispi	khispi		kʰiŋ	kʰ i ŋ				16101	kʰ i ŋ	- kʰ i ŋ
+281	stand	stand	rupa	rupa		kʰĩː	kʰ ĩː				16101	kʰ ĩː	- kʰ ĩː -
+381	stand	stand	shergaon	shergaon		kʰĩː	kʰ ĩː				16101	kʰ ĩː	- kʰ ĩː -
+482	stand	stand	rahung	rahung		ʨʰĩː	tɕʰ ĩː				16101	ʨʰ ĩː	- ʨʰ ĩː -
+585	stand	stand	khoitam	khoitam		ʨʰĩː	tɕʰ ĩː				16101	ʨʰ ĩː	- ʨʰ ĩː -
+686	stand	stand	jerigaon	jerigaon		ʨʰĩː	tɕʰ ĩː				16101	ʨʰ ĩː	- ʨʰ ĩː -
+785	stand	stand	khoina	khoina		tʂʰĩː	ʈʂʰ ĩː				16101	t ʂʰ ĩː	t ʂʰ ĩː -
+886	stand	stand	dikhyang	dikhyang		ʦai	ts ai				16102	ʦ ai	ʦ ai - - - -
+976	stand	stand	singchung	singchung		riᵒ-ma	r iᵒ/i + m a				16103	r iᵒ m a	r iᵒ m a
+1065	stand	stand	wangho	wangho		riᵒ	r iᵒ/io				16103	r iᵒ	r iᵒ - -
+1156	stand	stand	bichom	bichom		riᵒ	r iᵒ/io				16103	r iᵒ	r iᵒ - -
+1245	stand	stand	kaspi	kaspi		ʤoi	dʒ oi				16102	ʤ oi	ʤ oi - - - -
+1334	stand	stand	namphri	namphri		ʤai-ma-ge	dʒ ai + m a + g e				16102	ʤ ai m a g e	ʤ ai m a g e
+1432	stand	stand	bulu	bulu		ʧin	tʃ i n				16101	ʧ i n	- ʧ i n
+1532	stand	stand	kojorojo	kojorojo		ʧin	tʃ i n				16101	ʧ i n	- ʧ i n
+1630	stand	stand	rawa	rawa		ʧiŋ	tʃ i ŋ				16101	ʧ i ŋ	- ʧ i ŋ
+1729	stand	stand	saria	saria		ʧiŋ	tʃ i ŋ				16101	ʧ i ŋ	- ʧ i ŋ
+1829	stand	stand	chayangtajo	chayangtajo		ʧiŋ	tʃ i ŋ				16101	ʧ i ŋ	- ʧ i ŋ
+1929	stand	stand	lasumpatte	lasumpatte		ʧiŋ	tʃ i ŋ				16101	ʧ i ŋ	- ʧ i ŋ
+82	star	star	duhumbi	duhumbi		kaɹma	k a ɹ m a				16301	k a ɹ m a	k a ɹ m a
+182	star	star	khispi	khispi		kalma	k a l m a				16301	k a l m a	k a l m a
+282	star	star	rupa	rupa		zyk	z y k				16302	z y k	- - - z y k
+382	star	star	shergaon	shergaon		ʨʰu-zuk	tɕʰ u + z u k				16302	ʨʰ u z u k	ʨʰ u - z u k
+483	star	star	rahung	rahung		ʨʰyŋ-zyk	tɕʰ y ŋ + z y k				16302	ʨʰ y ŋ z y k	ʨʰ y ŋ z y k
+586	star	star	khoitam	khoitam		ʨʰyŋ-zyk	tɕʰ y ŋ + z y k				16302	ʨʰ y ŋ z y k	ʨʰ y ŋ z y k
+687	star	star	jerigaon	jerigaon		də-zyk	d ə + z y k				16302	d ə z y k	d ə - z y k
+786	star	star	khoina	khoina		dy-ʐyk	d y + ʐ y k				16302	d y ʐ y k	d y - ʐ y k
+887	star	star	dikhyang	dikhyang		ʦaː-trɔŋ	ts aː + t r ɔ ŋ				16303	ʦ aː t r ɔ ŋ	ʦ aː t - r ɔ ŋ
+977	star	star	singchung	singchung		sa-dijoŋ	s a + d i j o ŋ				16303	s a d i j o ŋ	s a d i j o ŋ
+1066	star	star	wangho	wangho		sa-tijoŋ	s a + t i j o ŋ				16303	s a t i j o ŋ	s a t i j o ŋ
+1157	star	star	bichom	bichom		ta-dijaŋ	t a + d i j a ŋ				16303	t a d i j a ŋ	t a d i j a ŋ
+1246	star	star	kaspi	kaspi		la-dijaŋ	l a + d i j a ŋ				16303	l a d i j a ŋ	l a d i j a ŋ
+1335	star	star	namphri	namphri		ta-dijaŋ	t a + d i j a ŋ				16303	t a d i j a ŋ	t a d i j a ŋ
+1433	star	star	bulu	bulu		haN-waiʔ	h a N/ɴ + w ai ʔ				16304	h a N w ai ʔ	h a N w ai ʔ
+1533	star	star	kojorojo	kojorojo		ha-daŋ	h a + d a ŋ				16303	h a d a ŋ	h a d - - a ŋ
+1631	star	star	rawa	rawa		sat	s a t				16305	s a t	s a t
+1730	star	star	saria	saria		saiʔ	s ai ʔ				16305	s ai ʔ	s ai ʔ
+1830	star	star	chayangtajo	chayangtajo		pə-ʤaiʔ	p ə + dʒ ai ʔ				16306	p ə ʤ ai ʔ	p ə ʤ ai ʔ
+1930	star	star	lasumpatte	lasumpatte		pə-ʤaiʔ	p ə + dʒ ai ʔ				16306	p ə ʤ ai ʔ	p ə ʤ ai ʔ
+83	stonerock	stone/rock	duhumbi	duhumbi		luŋ	l u ŋ				16501	l u ŋ	- - l u ŋ
+183	stonerock	stone/rock	khispi	khispi		luŋ	l u ŋ				16501	l u ŋ	- - l u ŋ
+283	stonerock	stone/rock	rupa	rupa		lýŋ	l ý/y ŋ				16501	l ý ŋ	- - l ý ŋ
+383	stonerock	stone/rock	shergaon	shergaon		luŋ	l u ŋ				16501	l u ŋ	- - l u ŋ
+484	stonerock	stone/rock	rahung	rahung		rýŋ	r ý/y ŋ				16501	r ý ŋ	- - r ý ŋ
+587	stonerock	stone/rock	khoitam	khoitam		rýŋ	r ý/y ŋ				16501	r ý ŋ	- - r ý ŋ
+688	stonerock	stone/rock	jerigaon	jerigaon		lýŋ	l ý/y ŋ				16501	l ý ŋ	- - l ý ŋ
+787	stonerock	stone/rock	khoina	khoina		lýŋ	l ý/y ŋ				16501	l ý ŋ	- - l ý ŋ
+888	stonerock	stone/rock	dikhyang	dikhyang		ləbau	l ə b au				16502	l ə b au	l ə b au
+978	stonerock	stone/rock	singchung	singchung		labaᵘ	l a b aᵘ/a				16502	l a b aᵘ	l a b aᵘ
+1067	stonerock	stone/rock	wangho	wangho		labaᵘ	l a b aᵘ/a				16502	l a b aᵘ	l a b aᵘ
+1158	stonerock	stone/rock	bichom	bichom		labaᵘ	l a b aᵘ/a				16502	l a b aᵘ	l a b aᵘ
+1247	stonerock	stone/rock	kaspi	kaspi		labaᵘ	l a b aᵘ/a				16502	l a b aᵘ	l a b aᵘ
+1336	stonerock	stone/rock	namphri	namphri		lubu	l u b u				16502	l u b u	l u b u
+1434	stonerock	stone/rock	bulu	bulu		ka-lɨŋ	k a + l ɨ ŋ				16501	k a l ɨ ŋ	k a l ɨ ŋ
+1534	stonerock	stone/rock	kojorojo	kojorojo		ka-hoŋ	k a + h o ŋ				16501	k a h o ŋ	k a h o ŋ
+1632	stonerock	stone/rock	rawa	rawa		kə-bɹaː	k ə + b ɹ aː				16503	k ə b ɹ aː	k ə b ɹ aː
+1731	stonerock	stone/rock	saria	saria		kə-bɹaː	k ə + b ɹ aː				16503	k ə b ɹ aː	k ə b ɹ aː
+1831	stonerock	stone/rock	chayangtajo	chayangtajo		kə-bɹaː	k ə + b ɹ aː				16503	k ə b ɹ aː	k ə b ɹ aː
+1931	stonerock	stone/rock	lasumpatte	lasumpatte		kə-bɹaː	k ə + b ɹ aː				16503	k ə b ɹ aː	k ə b ɹ aː
+84	sun	sun	duhumbi	duhumbi		na-mi	n a + m i				16701	n a m i	n a m i
+184	sun	sun	khispi	khispi		na-mi	n a + m i				16701	n a m i	n a m i
+284	sun	sun	rupa	rupa		nə-nyː	n ə + n yː				16702	n ə n yː	- n ə n yː
+384	sun	sun	shergaon	shergaon		nə-niː	n ə + n iː				16702	n ə n iː	- n ə n iː
+485	sun	sun	rahung	rahung		nə-miː	n ə + m iː				16701	n ə m iː	n ə m iː
+588	sun	sun	khoitam	khoitam		nə-miː	n ə + m iː				16701	n ə m iː	n ə m iː
+689	sun	sun	jerigaon	jerigaon		nə-nyː	n ə + n yː				16702	n ə n yː	- n ə n yː
+788	sun	sun	khoina	khoina		naː-nyː	n aː + n yː				16702	n aː n yː	- n aː n yː
+889	sun	sun	dikhyang	dikhyang		haː-nɛiŋ	h aː + n ɛi ŋ				16703	h aː n ɛi ŋ	h aː n ɛi ŋ
+979	sun	sun	singchung	singchung		ha-naⁱ	h a + n aⁱ/ai				16703	h a n aⁱ	h a n aⁱ -
+1068	sun	sun	wangho	wangho		ha-neⁱŋ	h a + n eⁱ/e ŋ				16703	h a n eⁱ ŋ	h a n eⁱ ŋ
+1159	sun	sun	bichom	bichom		ha-naⁱ	h a + n aⁱ/ai				16703	h a n aⁱ	h a n aⁱ -
+1248	sun	sun	kaspi	kaspi		ha-naⁱ	h a + n aⁱ/ai				16703	h a n aⁱ	h a n aⁱ -
+1337	sun	sun	namphri	namphri		ha-naⁱ	h a + n aⁱ/ai				16703	h a n aⁱ	h a n aⁱ -
+1435	sun	sun	bulu	bulu		ha-mi	h a + m i				16701	h a m i	h a m i
+1535	sun	sun	kojorojo	kojorojo		ha-mi	h a + m i				16701	h a m i	h a m i
+1633	sun	sun	rawa	rawa		ha-mi	h a + m i				16701	h a m i	h a m i
+1732	sun	sun	saria	saria		ha-mi	h a + m i				16701	h a m i	h a m i
+1832	sun	sun	chayangtajo	chayangtajo		kriː	k r iː				16702	k r iː	k r iː - -
+1932	sun	sun	lasumpatte	lasumpatte		kriː	k r iː				16702	k r iː	k r iː - -
+85	sweet	sweet	duhumbi	duhumbi		jɔŋ-jɔŋ	j ɔ ŋ + j ɔ ŋ				16901	j ɔ ŋ j ɔ ŋ	j ɔ ŋ - j ɔ ŋ
+185	sweet	sweet	khispi	khispi		ɔ-bej-da	ɔ + b e j + d a				16902	ɔ b e j d a	ɔ b e j d a
+285	sweet	sweet	rupa	rupa		a-ʨĩː	a + tɕ ĩː				16907	a ʨ ĩː	a ʨ ĩː
+385	sweet	sweet	shergaon	shergaon		a-ʨĩː	a + tɕ ĩː				16907	a ʨ ĩː	a ʨ ĩː
+486	sweet	sweet	rahung	rahung		ʨĩː	tɕ ĩː				16907	ʨ ĩː	- ʨ ĩː
+589	sweet	sweet	khoitam	khoitam		ʨĩː	tɕ ĩː				16907	ʨ ĩː	- ʨ ĩː
+690	sweet	sweet	jerigaon	jerigaon		a-blã	a + b l ã				16902	a b l ã	a b - - l ã
+789	sweet	sweet	khoina	khoina		a-ʦĩː	a + ts ĩː				16907	a ʦ ĩː	a ʦ ĩː
+890	sweet	sweet	dikhyang	dikhyang		pʰ-jɛŋ	pʰ + j ɛ ŋ				16901	pʰ j ɛ ŋ	- - pʰ - j ɛ ŋ
+980	sweet	sweet	singchung	singchung		pʰi-jam	pʰ i + j a m				16901	pʰ i j a m	- - pʰ i j a m
+1069	sweet	sweet	wangho	wangho		pʰi-jaŋ	pʰ i + j a ŋ				16901	pʰ i j a ŋ	- - pʰ i j a ŋ
+1160	sweet	sweet	bichom	bichom		pʰi-jaŋ	pʰ i + j a ŋ				16901	pʰ i j a ŋ	- - pʰ i j a ŋ
+1249	sweet	sweet	kaspi	kaspi		pʰi-jaŋ	pʰ i + j a ŋ				16901	pʰ i j a ŋ	- - pʰ i j a ŋ
+1338	sweet	sweet	namphri	namphri		pʰi-jaŋ	pʰ i + j a ŋ				16901	pʰ i j a ŋ	- - pʰ i j a ŋ
+1436	sweet	sweet	bulu	bulu		a-pin	a + p i n				16903	a p i n	a p i n
+1536	sweet	sweet	kojorojo	kojorojo		a-pin	a + p i n				16903	a p i n	a p i n
+1634	sweet	sweet	rawa	rawa		a-pin	a + p i n				16903	a p i n	a p i n
+1733	sweet	sweet	saria	saria		a-piŋ	a + p i ŋ				16903	a p i ŋ	a p i ŋ
+1833	sweet	sweet	chayangtajo	chayangtajo		a-piŋ	a + p i ŋ				16903	a p i ŋ	a p i ŋ
+1933	sweet	sweet	lasumpatte	lasumpatte		a-piŋ	a + p i ŋ				16903	a p i ŋ	a p i ŋ
+86	tail	tail	duhumbi	duhumbi		ɲɔj	ɲ ɔ j				17101	ɲ ɔ j	- ɲ ɔ j
+186	tail	tail	khispi	khispi		ɲuj	ɲ u j				17101	ɲ u j	- ɲ u j
+286	tail	tail	rupa	rupa		a-ɲaː	a + ɲ aː				17101	a ɲ aː	a ɲ aː -
+386	tail	tail	shergaon	shergaon		a-ɲaː	a + ɲ aː				17101	a ɲ aː	a ɲ aː -
+487	tail	tail	rahung	rahung		a-nɛʰ	a + n ɛʰ/ɛ				17101	a n ɛʰ	a n ɛʰ -
+590	tail	tail	khoitam	khoitam		a-nɛʰ	a + n ɛʰ/ɛ				17101	a n ɛʰ	a n ɛʰ -
+691	tail	tail	jerigaon	jerigaon		a-nɛʰ	a + n ɛʰ/ɛ				17101	a n ɛʰ	a n ɛʰ -
+790	tail	tail	khoina	khoina		a-naːʰ	a + n aː				17101	a n aːʰ	a n aːʰ -
+891	tail	tail	dikhyang	dikhyang		ə-ɲui	ə + ɲ ui				17101	ə ɲ ui	ə ɲ ui -
+981	tail	tail	singchung	singchung		e-ɲoⁱ	e + ɲ oⁱ/o				17101	e ɲ oⁱ	e ɲ oⁱ -
+1070	tail	tail	wangho	wangho		e-ɲoⁱ	e + ɲ oⁱ/o				17101	e ɲ oⁱ	e ɲ oⁱ -
+1161	tail	tail	bichom	bichom		e-ɲoⁱ	e + ɲ oⁱ/o				17101	e ɲ oⁱ	e ɲ oⁱ -
+1250	tail	tail	kaspi	kaspi		e-ɲoⁱ	e + ɲ oⁱ/o				17101	e ɲ oⁱ	e ɲ oⁱ -
+1339	tail	tail	namphri	namphri		e-ɲoⁱ	e + ɲ oⁱ/o				17101	e ɲ oⁱ	e ɲ oⁱ -
+1437	tail	tail	bulu	bulu		a-nyi	a + n yi				17101	a n yi	a n yi -
+1537	tail	tail	kojorojo	kojorojo		a-sərjam	a + s ə r j a m				17102	a s ə r j a m	a s ə r j a m
+1635	tail	tail	rawa	rawa		a-kə-doŋ	a + k ə + d o ŋ				17103	a k ə d o ŋ	a k ə d o ŋ
+1734	tail	tail	saria	saria		ɲi-mɹɛː	ɲ i + m ɹ ɛː				17104	ɲ i m ɹ ɛː	ɲ i m ɹ ɛː
+1834	tail	tail	chayangtajo	chayangtajo		ni-mɹɛː	n i + m ɹ ɛː				17104	n i m ɹ ɛː	n i m ɹ ɛː
+1934	tail	tail	lasumpatte	lasumpatte		ni-mɹɛː	n i + m ɹ ɛː				17104	n i m ɹ ɛː	n i m ɹ ɛː
+88	thick	thick	duhumbi	duhumbi		ɔ-tʰɛs	ɔ + tʰ ɛ s				17501	ɔ tʰ ɛ s	ɔ tʰ ɛ s
+188	thick	thick	khispi	khispi		ɔ-tʰɛs	ɔ + tʰ ɛ s				17501	ɔ tʰ ɛ s	ɔ tʰ ɛ s
+288	thick	thick	rupa	rupa		a-tʰat	a + tʰ a t				17501	a tʰ a t	a tʰ a t
+388	thick	thick	shergaon	shergaon		a-tʰɛt	a + tʰ ɛ t				17501	a tʰ ɛ t	a tʰ ɛ t
+489	thick	thick	rahung	rahung		a-tʰɛ	a + tʰ ɛ				17501	a tʰ ɛ	a tʰ ɛ -
+592	thick	thick	khoitam	khoitam		a-tʰɛ	a + tʰ ɛ				17501	a tʰ ɛ	a tʰ ɛ -
+693	thick	thick	jerigaon	jerigaon		a-tʰɛ	a + tʰ ɛ				17501	a tʰ ɛ	a tʰ ɛ -
+792	thick	thick	khoina	khoina		a-tʰɛ	a + tʰ ɛ				17501	a tʰ ɛ	a tʰ ɛ -
+893	thick	thick	dikhyang	dikhyang		ə-kʰla-bou	ə + kʰ l a + b ou				17502	ə kʰ l a b ou	ə kʰ l a b ou
+1439	thick	thick	bulu	bulu		a-pən	a + p ə n				17503	a p ə n	a p ə n
+1539	thick	thick	kojorojo	kojorojo		a-pen	a + p e n				17503	a p e n	a p e n
+1637	thick	thick	rawa	rawa		a-piʔ	a + p i ʔ				17503	a p i ʔ	a p i ʔ
+1736	thick	thick	saria	saria		toʔ-rɨː	t o ʔ + r ɨː				17504	t o ʔ r ɨː	t o ʔ r ɨː
+1836	thick	thick	chayangtajo	chayangtajo		a-piʔ	a + p i ʔ				17503	a p i ʔ	a p i ʔ
+1936	thick	thick	lasumpatte	lasumpatte		a-piʔ	a + p i ʔ				17503	a p i ʔ	a p i ʔ
+89	this	this	duhumbi	duhumbi		ɔ-ʨʰi	ɔ + tɕʰ i				17701	ɔ ʨʰ i	ɔ ʨʰ i
+189	this	this	khispi	khispi		u-ʨʰi	u + tɕʰ i				17701	u ʨʰ i	u ʨʰ i
+289	this	this	rupa	rupa		tʰwa	tʰ w a				17702	tʰ w a	tʰ w a
+389	this	this	shergaon	shergaon		tʰa	tʰ a				17702	tʰ a	tʰ - a
+490	this	this	rahung	rahung		tʰə	tʰ ə				17702	tʰ ə	tʰ - ə
+593	this	this	khoitam	khoitam		tʰɛː	tʰ ɛː				17702	tʰ ɛː	tʰ - ɛː
+694	this	this	jerigaon	jerigaon		tʰaː	tʰ aː				17702	tʰ aː	tʰ - aː
+793	this	this	khoina	khoina		tʰaː	tʰ aː				17702	tʰ aː	tʰ - aː
+983	this	this	singchung	singchung		e-hihi	e + h i h i				17703	e h i h i	e h i h i - - - -
+1072	this	this	wangho	wangho		he-pʰomono	h e + pʰ o m o n o				17703	h e pʰ o m o n o	- h e pʰ o m o n o
+1163	this	this	bichom	bichom		he-pʰomono	h e + pʰ o m o n o				17703	h e pʰ o m o n o	- h e pʰ o m o n o
+1252	this	this	kaspi	kaspi		he-pʰomono	h e + pʰ o m o n o				17703	h e pʰ o m o n o	- h e pʰ o m o n o
+1341	this	this	namphri	namphri		ʤije	dʒ i j e				17704	ʤ i j e	ʤ i j e
+1440	this	this	bulu	bulu		hɨŋ	h ɨ ŋ				17703	h ɨ ŋ	- h ɨ - - - - ŋ -
+1540	this	this	kojorojo	kojorojo		həŋ	h ə ŋ				17703	h ə ŋ	- h ə - - - - ŋ -
+1638	this	this	rawa	rawa		həŋ	h ə ŋ				17703	h ə ŋ	- h ə - - - - ŋ -
+1737	this	this	saria	saria		həŋ	h ə ŋ				17703	h ə ŋ	- h ə - - - - ŋ -
+1837	this	this	chayangtajo	chayangtajo		həŋ	h ə ŋ				17703	h ə ŋ	- h ə - - - - ŋ -
+1937	this	this	lasumpatte	lasumpatte		həŋ	h ə ŋ				17703	h ə ŋ	- h ə - - - - ŋ -
+15	toburnit	to burn (it.)	duhumbi	duhumbi		haj	h a j				2901	h a j	h a j
+115	toburnit	to burn (it.)	khispi	khispi		haj	h a j				2901	h a j	h a j
+215	toburnit	to burn (it.)	rupa	rupa		haː	h aː				2901	h aː	h aː -
+315	toburnit	to burn (it.)	shergaon	shergaon		haː	h aː				2901	h aː	h aː -
+415	toburnit	to burn (it.)	rahung	rahung		hɛː	h ɛː				2901	h ɛː	h ɛː -
+519	toburnit	to burn (it.)	khoitam	khoitam		hɛː	h ɛː				2901	h ɛː	h ɛː -
+620	toburnit	to burn (it.)	jerigaon	jerigaon		hɛː	h ɛː				2901	h ɛː	h ɛː -
+719	toburnit	to burn (it.)	khoina	khoina		haː	h aː				2901	h aː	h aː -
+820	toburnit	to burn (it.)	dikhyang	dikhyang		hõːe	h õːe				2901	h õːe	h õːe -
+919	toburnit	to burn (it.)	singchung	singchung		ʃuⁱt	ʃ uⁱ/u t				2902	ʃ uⁱ t	ʃ uⁱ t
+1008	toburnit	to burn (it.)	wangho	wangho		haᵘ	h aᵘ/a				2901	h aᵘ	h aᵘ -
+1099	toburnit	to burn (it.)	bichom	bichom		fũp-pʰa	f ũ p + pʰ a				2903	f ũ p pʰ a	f ũ p pʰ a
+1188	toburnit	to burn (it.)	kaspi	kaspi		ʤi-jo-pʰa	dʒ i + j o + pʰ a				2904	ʤ i j o pʰ a	ʤ i j o pʰ a
+1277	toburnit	to burn (it.)	namphri	namphri		fu-pʰa	f u + pʰ a				2903	f u pʰ a	f u - pʰ a
+1366	toburnit	to burn (it.)	bulu	bulu		ham	h a m				2905	h a m	h a m
+1466	toburnit	to burn (it.)	kojorojo	kojorojo		ʤəu	dʒ əu				2904	ʤ əu	ʤ əu - - - -
+1566	toburnit	to burn (it.)	rawa	rawa		ʤəu	dʒ əu				2904	ʤ əu	ʤ əu - - - -
+1663	toburnit	to burn (it.)	saria	saria		ʤɨː	dʒ ɨː				2904	ʤ ɨː	ʤ ɨː - - - -
+1763	toburnit	to burn (it.)	chayangtajo	chayangtajo		jɨː	j ɨː				2904	j ɨː	- - j ɨː - -
+1863	toburnit	to burn (it.)	lasumpatte	lasumpatte		ʤɨː	dʒ ɨː				2904	ʤ ɨː	ʤ ɨː - - - -
+16	tocarryonback	to carry (on back)	duhumbi	duhumbi		bu	b u				3101	b u	b u
+116	tocarryonback	to carry (on back)	khispi	khispi		bu	b u				3101	b u	b u
+216	tocarryonback	to carry (on back)	rupa	rupa		byː	b yː				3101	b yː	b yː
+316	tocarryonback	to carry (on back)	shergaon	shergaon		byː	b yː				3101	b yː	b yː
+416	tocarryonback	to carry (on back)	rahung	rahung		byː	b yː				3101	b yː	b yː
+520	tocarryonback	to carry (on back)	khoitam	khoitam		byː	b yː				3101	b yː	b yː
+621	tocarryonback	to carry (on back)	jerigaon	jerigaon		byː	b yː				3101	b yː	b yː
+720	tocarryonback	to carry (on back)	khoina	khoina		byː	b yː				3101	b yː	b yː
+821	tocarryonback	to carry (on back)	dikhyang	dikhyang		hán	h á n				3102	h á n	h á n
+1367	tocarryonback	to carry (on back)	bulu	bulu		ʒeN	ʒ e N/ɴ				3103	ʒ e N	ʒ e N
+1467	tocarryonback	to carry (on back)	kojorojo	kojorojo		ɹan	ɹ a n				3104	ɹ a n	ɹ a n
+1567	tocarryonback	to carry (on back)	rawa	rawa		bəu	b əu				3101	b əu	b əu
+1664	tocarryonback	to carry (on back)	saria	saria		eiʔ	e i ʔ				3105	ei ʔ	ei ʔ
+1764	tocarryonback	to carry (on back)	chayangtajo	chayangtajo		eiʔ	e i ʔ				3105	ei ʔ	ei ʔ
+1864	tocarryonback	to carry (on back)	lasumpatte	lasumpatte		ek	e k				3105	e k	e k
+18	tocryweep	to cry/weep	duhumbi	duhumbi		kʰip	kʰ i p				3501	kʰ i p	- - - - kʰ - i p -
+118	tocryweep	to cry/weep	khispi	khispi		kʰip	kʰ i p				3501	kʰ i p	- - - - kʰ - i p -
+218	tocryweep	to cry/weep	rupa	rupa		kʰe	kʰ e				3501	kʰ e	- - - - kʰ - e - -
+318	tocryweep	to cry/weep	shergaon	shergaon		kʰe	kʰ e				3501	kʰ e	- - - - kʰ - e - -
+418	tocryweep	to cry/weep	rahung	rahung		ʨʰe	tɕʰ e				3501	ʨʰ e	- - - - ʨʰ - e - -
+522	tocryweep	to cry/weep	khoitam	khoitam		ʨʰe	tɕʰ e				3501	ʨʰ e	- - - - ʨʰ - e - -
+623	tocryweep	to cry/weep	jerigaon	jerigaon		ʨʰe	tɕʰ e				3501	ʨʰ e	- - - - ʨʰ - e - -
+722	tocryweep	to cry/weep	khoina	khoina		tʂʰe	ʈʂʰ e				3501	t ʂʰ e	t - - - ʂʰ - e - -
+823	tocryweep	to cry/weep	dikhyang	dikhyang		ʨõ	tɕ õ				3501	ʨ õ	- - - - ʨ - õ - -
+921	tocryweep	to cry/weep	singchung	singchung		ʧo-ma-ge	tʃ o + m a + g e				3501	ʧ o m a g e	ʧ o m a g - e - -
+1010	tocryweep	to cry/weep	wangho	wangho		ʧo	tʃ o				3501	ʧ o	- - - - ʧ - o - -
+1101	tocryweep	to cry/weep	bichom	bichom		ʧoa-pʰa	tʃ oa + pʰ a				3501	ʧ oa pʰ a	- - - - ʧ - oa pʰ a
+1190	tocryweep	to cry/weep	kaspi	kaspi		ʧoa-pʰa	tʃ oa + pʰ a				3501	ʧ oa pʰ a	- - - - ʧ - oa pʰ a
+1279	tocryweep	to cry/weep	namphri	namphri		ʧo	tʃ o				3501	ʧ o	- - - - ʧ - o - -
+1369	tocryweep	to cry/weep	bulu	bulu		ʧɛʔ	tʃ ɛ ʔ				3501	ʧ ɛ ʔ	- - - - ʧ - ɛ ʔ -
+1469	tocryweep	to cry/weep	kojorojo	kojorojo		ʧap	tʃ a p				3501	ʧ a p	- - - - ʧ - a p -
+1569	tocryweep	to cry/weep	rawa	rawa		ʧap	tʃ a p				3501	ʧ a p	- - - - ʧ - a p -
+1666	tocryweep	to cry/weep	saria	saria		kjaʔ	k j a ʔ				3501	k j a ʔ	- - - - k j a ʔ -
+1766	tocryweep	to cry/weep	chayangtajo	chayangtajo		ʧap	tʃ a p				3501	ʧ a p	- - - - ʧ - a p -
+1866	tocryweep	to cry/weep	lasumpatte	lasumpatte		ʧjap	tʃ j a p				3501	ʧ j a p	- - - - ʧ j a p -
+19	todie	to die	duhumbi	duhumbi		i	i				3701	i	i - - -
+119	todie	to die	khispi	khispi		i	i				3701	i	i - - -
+219	todie	to die	rupa	rupa		iː	iː				3701	iː	iː - - -
+319	todie	to die	shergaon	shergaon		iː	iː				3701	iː	iː - - -
+419	todie	to die	rahung	rahung		iː	iː				3701	iː	iː - - -
+523	todie	to die	khoitam	khoitam		iː	iː				3701	iː	iː - - -
+624	todie	to die	jerigaon	jerigaon		iː	iː				3701	iː	iː - - -
+723	todie	to die	khoina	khoina		iː	iː				3701	iː	iː - - -
+824	todie	to die	dikhyang	dikhyang		iː	iː				3701	iː	iː - - -
+922	todie	to die	singchung	singchung		i-da	i + d a				3701	i d a	i d a -
+1011	todie	to die	wangho	wangho		iⁱ	iⁱ/i				3701	iⁱ	iⁱ - - -
+1102	todie	to die	bichom	bichom		i-pʰa	i + pʰ a				3701	i pʰ a	i pʰ a -
+1191	todie	to die	kaspi	kaspi		i-dən	i + d ə n				3701	i d ə n	i d ə n
+1280	todie	to die	namphri	namphri		i-dun	i + d u n				3701	i d u n	i d u n
+1370	todie	to die	bulu	bulu		iː	iː				3701	iː	iː - - -
+1470	todie	to die	kojorojo	kojorojo		iː	iː				3701	iː	iː - - -
+1570	todie	to die	rawa	rawa		iː	iː				3701	iː	iː - - -
+1667	todie	to die	saria	saria		iː	iː				3701	iː	iː - - -
+1767	todie	to die	chayangtajo	chayangtajo		iː	iː				3701	iː	iː - - -
+1867	todie	to die	lasumpatte	lasumpatte		iː	iː				3701	iː	iː - - -
+20	todomake	to do/make	duhumbi	duhumbi		le	l e				3901	l e	l - e - - - - -
+120	todomake	to do/make	khispi	khispi		li	l i				3901	l i	l - i - - - - -
+220	todomake	to do/make	rupa	rupa		ra	r a				3901	r a	r - a - - - - -
+320	todomake	to do/make	shergaon	shergaon		ra	r a				3901	r a	r - a - - - - -
+420	todomake	to do/make	rahung	rahung		rɛ ~ ra	r ɛ				3901	rɛ ~ ra	rɛ - ~ ra - - - -
+421	todomake	to do/make	rahung	rahung		rɛ ~ ra	r a				3901	rɛ ~ ra	rɛ - ~ ra - - - -
+524	todomake	to do/make	khoitam	khoitam		rɛ	r ɛ				3901	r ɛ	r - ɛ - - - - -
+625	todomake	to do/make	jerigaon	jerigaon		ra	r a				3901	r a	r - a - - - - -
+724	todomake	to do/make	khoina	khoina		ra	r a				3901	r a	r - a - - - - -
+825	todomake	to do/make	dikhyang	dikhyang		rjɛt	r j ɛ t				3901	r j ɛ t	r j ɛ t - - - -
+923	todomake	to do/make	singchung	singchung		ret-ma-ge	r e t + m a + g e				3901	r e t m a g e	r - e t m a g e
+1012	todomake	to do/make	wangho	wangho		ret	r e t				3901	r e t	r - e t - - - -
+1103	todomake	to do/make	bichom	bichom		reʔ-pʰa	r e ʔ + pʰ a				3901	r e ʔ pʰ a	r - e ʔ pʰ a - -
+1192	todomake	to do/make	kaspi	kaspi		reⁱ-pʰa	r eⁱ/e + pʰ a				3901	r eⁱ pʰ a	r - eⁱ - pʰ a - -
+1281	todomake	to do/make	namphri	namphri		ɾap-pʰa	ɾ a p + pʰ a				3901	ɾ a p pʰ a	ɾ - a p pʰ a - -
+1371	todomake	to do/make	bulu	bulu		ʦaʔ	ts a ʔ				3902	ʦ a ʔ	ʦ a ʔ
+1471	todomake	to do/make	kojorojo	kojorojo		ʒou	ʒ ou				3903	ʒ ou	ʒ ou
+1571	todomake	to do/make	rawa	rawa		kat	k a t				3904	k a t	k a t
+1668	todomake	to do/make	saria	saria		kaiʔ	k ai ʔ				3904	k ai ʔ	k ai ʔ
+1768	todomake	to do/make	chayangtajo	chayangtajo		kaiʔ	k ai ʔ				3904	k ai ʔ	k ai ʔ
+1868	todomake	to do/make	lasumpatte	lasumpatte		kaiʔ	k ai ʔ				3904	k ai ʔ	k ai ʔ
+34	tofly	to fly	duhumbi	duhumbi		ɕɛɹ	ɕ ɛ ɹ				6701	ɕ ɛ ɹ	- ɕ ɛ ɹ
+134	tofly	to fly	khispi	khispi		ɕɛl	ɕ ɛ l				6701	ɕ ɛ l	- ɕ ɛ l
+234	tofly	to fly	rupa	rupa		ʨʰan	tɕʰ a n				6701	ʨʰ a n	- ʨʰ a n
+334	tofly	to fly	shergaon	shergaon		ʨʰan	tɕʰ a n				6701	ʨʰ a n	- ʨʰ a n
+435	tofly	to fly	rahung	rahung		ʨʰɛm	tɕʰ ɛ m				6701	ʨʰ ɛ m	- ʨʰ ɛ m
+538	tofly	to fly	khoitam	khoitam		ʨʰan	tɕʰ a n				6701	ʨʰ a n	- ʨʰ a n
+639	tofly	to fly	jerigaon	jerigaon		ʨʰɛn	tɕʰ ɛ n				6701	ʨʰ ɛ n	- ʨʰ ɛ n
+738	tofly	to fly	khoina	khoina		ʦʰɛn	tsʰ ɛ n				6701	ʦʰ ɛ n	- ʦʰ ɛ n
+841	tofly	to fly	dikhyang	dikhyang		mə-ʦo	m ə + ts o				6702	m ə ʦ o	m ə ʦ o
+937	tofly	to fly	singchung	singchung		kʰe-ma-ge	kʰ e + m a + g e				6703	kʰ e m a g e	kʰ - e m - a g e
+1026	tofly	to fly	wangho	wangho		kʰeⁱ	kʰ eⁱ/e				6703	kʰ eⁱ	kʰ - eⁱ - - - - -
+1117	tofly	to fly	bichom	bichom		kʰeⁱ	kʰ eⁱ/e				6703	kʰ eⁱ	kʰ - eⁱ - - - - -
+1206	tofly	to fly	kaspi	kaspi		kʰeŋ-pʰa	kʰ e ŋ + pʰ a				6703	kʰ e ŋ pʰ a	kʰ - e ŋ pʰ a - -
+1295	tofly	to fly	namphri	namphri		kʰeⁱ-pʰa	kʰ eⁱ/e + pʰ a				6703	kʰ eⁱ pʰ a	kʰ - eⁱ - pʰ a - -
+1385	tofly	to fly	bulu	bulu		kiː	k iː				6703	k iː	k - iː - - - - -
+1485	tofly	to fly	kojorojo	kojorojo		kɹei	k ɹ ei				6703	k ɹ ei	k ɹ ei - - - - -
+1585	tofly	to fly	rawa	rawa		kei	k ei				6703	k ei	k - ei - - - - -
+1682	tofly	to fly	saria	saria		piʔ	p i ʔ				6701	p i ʔ	p - i ʔ
+1782	tofly	to fly	chayangtajo	chayangtajo		pjeʔ	p j e ʔ				6701	p j e ʔ	p j e ʔ
+1882	tofly	to fly	lasumpatte	lasumpatte		pjiʔ	p j i ʔ				6701	p j i ʔ	p j i ʔ
+36	togive	to give	duhumbi	duhumbi		ɕi	ɕ i				7101	ɕ i	- - - - ɕ - i
+136	togive	to give	khispi	khispi		ɕi	ɕ i				7101	ɕ i	- - - - ɕ - i
+236	togive	to give	rupa	rupa		ʨʰi	tɕʰ i				7101	ʨʰ i	- - - - ʨʰ - i
+336	togive	to give	shergaon	shergaon		kʰji	kʰ j i				7101	kʰ j i	- - - - kʰ j i
+437	togive	to give	rahung	rahung		ʨʰi	tɕʰ i				7101	ʨʰ i	- - - - ʨʰ - i
+540	togive	to give	khoitam	khoitam		ʨʰi	tɕʰ i				7101	ʨʰ i	- - - - ʨʰ - i
+641	togive	to give	jerigaon	jerigaon		ʨʰi	tɕʰ i				7101	ʨʰ i	- - - - ʨʰ - i
+740	togive	to give	khoina	khoina		ʦʰi	tsʰ i				7101	ʦʰ i	- - - - ʦʰ - i
+843	togive	to give	dikhyang	dikhyang		pʰi	pʰ i				7101	pʰ i	pʰ - - - - - i
+939	togive	to give	singchung	singchung		pʰi-mage	pʰ i + m a g e				7101	pʰ i m a g e	pʰ i m a g - e
+1028	togive	to give	wangho	wangho		pʰi	pʰ i				7101	pʰ i	pʰ - - - - - i
+1119	togive	to give	bichom	bichom		pʰi-pʰa	pʰ i + pʰ a				7101	pʰ i pʰ a	pʰ i pʰ a - - -
+1208	togive	to give	kaspi	kaspi		pʰi-pʰa	pʰ i + pʰ a				7101	pʰ i pʰ a	pʰ i pʰ a - - -
+1297	togive	to give	namphri	namphri		pʰi	pʰ i				7101	pʰ i	pʰ - - - - - i
+1387	togive	to give	bulu	bulu		taN	t a N/ɴ				7102	t a N	t a N
+1487	togive	to give	kojorojo	kojorojo		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
+1587	togive	to give	rawa	rawa		taʔ	t a ʔ				7102	t a ʔ	t a ʔ
+1684	togive	to give	saria	saria		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
+1784	togive	to give	chayangtajo	chayangtajo		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
+1884	togive	to give	lasumpatte	lasumpatte		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
+37	togo	to go	duhumbi	duhumbi		wa	w a				7301	w a	- - w a
+137	togo	to go	khispi	khispi		wa	w a				7301	w a	- - w a
+237	togo	to go	rupa	rupa		rɔ	r ɔ				7302	r ɔ	r ɔ
+337	togo	to go	shergaon	shergaon		ro	r o				7302	r o	r o
+438	togo	to go	rahung	rahung		rɔ	r ɔ				7302	r ɔ	r ɔ
+541	togo	to go	khoitam	khoitam		rɔ	r ɔ				7302	r ɔ	r ɔ
+642	togo	to go	jerigaon	jerigaon		rɔ	r ɔ				7302	r ɔ	r ɔ
+741	togo	to go	khoina	khoina		rɔ	r ɔ				7302	r ɔ	r ɔ
+844	togo	to go	dikhyang	dikhyang		wuə	w uə				7301	w uə	- - w uə
+940	togo	to go	singchung	singchung		lua	l ua				7303	l ua	l ua
+1029	togo	to go	wangho	wangho		və-wa	v ə + w a				7301	v ə w a	v ə w a
+1120	togo	to go	bichom	bichom		tʰe-vəə	tʰ e + v əː				7301	tʰ e v əə	tʰ e v əə
+1209	togo	to go	kaspi	kaspi		dun	d u n				7304	d u n	d u n
+1298	togo	to go	namphri	namphri		vəo-pʰa	v əo + pʰ a				7301	v əo pʰ a	v əo pʰ a
+1388	togo	to go	bulu	bulu		vuː	v uː				7301	v uː	- - v uː
+1488	togo	to go	kojorojo	kojorojo		wuː	w uː				7301	w uː	- - w uː
+1588	togo	to go	rawa	rawa		woː	w oː				7301	w oː	- - w oː
+1685	togo	to go	saria	saria		uː	uː				7301	uː	- - - uː
+1785	togo	to go	chayangtajo	chayangtajo		uː	uː				7301	uː	- - - uː
+1885	togo	to go	lasumpatte	lasumpatte		uː	uː				7301	uː	- - - uː
+42	tohear	to hear	duhumbi	duhumbi		ʥas	dʑ a s				8301	ʥ a s	ʥ a s
+142	tohear	to hear	khispi	khispi		kʰa la	kʰ a + l a				8302	kʰa la	kʰa la
+242	tohear	to hear	rupa	rupa		jɔ	j ɔ				8303	j ɔ	j ɔ - -
+342	tohear	to hear	shergaon	shergaon		jo	j o				8303	j o	j o - -
+443	tohear	to hear	rahung	rahung		jɔ̃	j ɔ̃				8303	j ɔ̃	j ɔ̃ - -
+546	tohear	to hear	khoitam	khoitam		jɔ̃	j ɔ̃				8303	j ɔ̃	j ɔ̃ - -
+647	tohear	to hear	jerigaon	jerigaon		jɔ̃	j ɔ̃				8303	j ɔ̃	j ɔ̃ - -
+746	tohear	to hear	khoina	khoina		jɔ̃	j ɔ̃				8303	j ɔ̃	j ɔ̃ - -
+849	tohear	to hear	dikhyang	dikhyang		jɔi	j ɔi				8303	j ɔi	j ɔi - -
+944	tohear	to hear	singchung	singchung		nu va-ma-ge	n u + v a + m a + g e				8304	nu va-ma-ge	nu - - va-ma-ge -
+1033	tohear	to hear	wangho	wangho		nū-a	n ū/u + a				8304	n ū a	n ū a - -
+1124	tohear	to hear	bichom	bichom		joⁱ-pʰa	j oⁱ/o + pʰ a				8303	j oⁱ pʰ a	j oⁱ pʰ a
+1213	tohear	to hear	kaspi	kaspi		nu-a-pʰa	n u + a + pʰ a				8304	n u a pʰ a	n u a pʰ a
+1302	tohear	to hear	namphri	namphri		joⁱ	j oⁱ/o				8303	j oⁱ	j oⁱ - -
+1393	tohear	to hear	bulu	bulu		nɨŋ	n ɨ ŋ				8304	n ɨ ŋ	n ɨ - ŋ -
+1493	tohear	to hear	kojorojo	kojorojo		nuŋ	n u ŋ				8304	n u ŋ	n u - ŋ -
+1592	tohear	to hear	rawa	rawa		noŋ	n o ŋ				8304	n o ŋ	n o - ŋ -
+1690	tohear	to hear	saria	saria		roŋ	r o ŋ				8304	r o ŋ	r o - ŋ -
+1790	tohear	to hear	chayangtajo	chayangtajo		roŋ	r o ŋ				8304	r o ŋ	r o - ŋ -
+1890	tohear	to hear	lasumpatte	lasumpatte		roŋ	r o ŋ				8304	r o ŋ	r o - ŋ -
+44	tohide	to hide	duhumbi	duhumbi		uk	u k				8701	u k	- - u k -
+144	tohide	to hide	khispi	khispi		uk	u k				8701	u k	- - u k -
+244	tohide	to hide	rupa	rupa		uk	u k				8701	u k	- - u k -
+344	tohide	to hide	shergaon	shergaon		uk	u k				8701	u k	- - u k -
+445	tohide	to hide	rahung	rahung		uk	u k				8701	u k	- - u k -
+548	tohide	to hide	khoitam	khoitam		uk	u k				8701	u k	- - u k -
+649	tohide	to hide	jerigaon	jerigaon		uk	u k				8701	u k	- - u k -
+748	tohide	to hide	khoina	khoina		uk	u k				8701	u k	- - u k -
+851	tohide	to hide	dikhyang	dikhyang		uk	u k				8701	u k	- - u k -
+1395	tohide	to hide	bulu	bulu		uʔ	u ʔ				8701	u ʔ	- - u ʔ -
+1495	tohide	to hide	kojorojo	kojorojo		ɨʔ	ɨ ʔ				8701	ɨ ʔ	- - ɨ ʔ -
+1594	tohide	to hide	rawa	rawa		əə	əː				8701	əə	- - əə - -
+1692	tohide	to hide	saria	saria		rjaŋ-əː	r j a ŋ + əː				8701	r j a ŋ əː	r j a ŋ əː
+1792	tohide	to hide	chayangtajo	chayangtajo		rou-gəə	r ou + g əː				8702	r ou g əə	r ou g əə
+1892	tohide	to hide	lasumpatte	lasumpatte		rou-gəə	r ou + g əː				8702	r ou g əə	r ou g əə
+45	tokill	to kill	duhumbi	duhumbi		at	a t				8901	a t	- a t - - -
+145	tokill	to kill	khispi	khispi		at	a t				8901	a t	- a t - - -
+245	tokill	to kill	rupa	rupa		ɔ	ɔ				8901	ɔ	- ɔ - - - -
+345	tokill	to kill	shergaon	shergaon		o	o				8901	o	- o - - - -
+446	tokill	to kill	rahung	rahung		ɔ	ɔ				8901	ɔ	- ɔ - - - -
+549	tokill	to kill	khoitam	khoitam		ɔ	ɔ				8901	ɔ	- ɔ - - - -
+650	tokill	to kill	jerigaon	jerigaon		ɔ	ɔ				8901	ɔ	- ɔ - - - -
+749	tokill	to kill	khoina	khoina		ɔ	ɔ				8901	ɔ	- ɔ - - - -
+852	tokill	to kill	dikhyang	dikhyang		uːə	uːə				8901	uːə	- uːə - - - -
+946	tokill	to kill	singchung	singchung		wa-ma-ge	w a + m a + g e				8901	w a m a g e	w a m a g e
+1035	tokill	to kill	wangho	wangho		ua	ua				8901	ua	- ua - - - -
+1126	tokill	to kill	bichom	bichom		ua-pʰa	u a + pʰ a				8901	ua pʰ a	- ua pʰ a - -
+1215	tokill	to kill	kaspi	kaspi		ua-pʰa	u a + pʰ a				8901	ua pʰ a	- ua pʰ a - -
+1304	tokill	to kill	namphri	namphri		ua	ua				8901	ua	- ua - - - -
+1396	tokill	to kill	bulu	bulu		wɛʔ	w ɛ ʔ				8901	w ɛ ʔ	w ɛ ʔ - - -
+1496	tokill	to kill	kojorojo	kojorojo		aiʔ	a i ʔ				8901	ai ʔ	- ai ʔ - - -
+1595	tokill	to kill	rawa	rawa		at	a t				8901	a t	- a t - - -
+1693	tokill	to kill	saria	saria		aiʔ	a i ʔ				8901	ai ʔ	- ai ʔ - - -
+1793	tokill	to kill	chayangtajo	chayangtajo		aiʔ	a i ʔ				8901	ai ʔ	- ai ʔ - - -
+1893	tokill	to kill	lasumpatte	lasumpatte		aiʔ	a i ʔ				8901	ai ʔ	- ai ʔ - - -
+50	toknow	to know	duhumbi	duhumbi		dɛn	d ɛ n				9901	d ɛ n	d ɛ n
+150	toknow	to know	khispi	khispi		dɛn	d ɛ n				9901	d ɛ n	d ɛ n
+250	toknow	to know	rupa	rupa		dan	d a n				9901	d a n	d a n
+350	toknow	to know	shergaon	shergaon		dan	d a n				9901	d a n	d a n
+451	toknow	to know	rahung	rahung		dɛn	d ɛ n				9901	d ɛ n	d ɛ n
+554	toknow	to know	khoitam	khoitam		dɛn	d ɛ n				9901	d ɛ n	d ɛ n
+656	toknow	to know	jerigaon	jerigaon		dɛn	d ɛ n				9901	d ɛ n	d ɛ n
+754	toknow	to know	khoina	khoina		dɛn	d ɛ n				9901	d ɛ n	d ɛ n
+857	toknow	to know	dikhyang	dikhyang		ĩt	ĩ t				9902	ĩ t	ĩ t - - -
+950	toknow	to know	singchung	singchung		tʰek-ma-ge	tʰ e k + m a + g e				9903	tʰ e k m a g e	tʰ e k m a g - e
+1039	toknow	to know	wangho	wangho		īt	ī/i t				9902	ī t	ī t - - -
+1130	toknow	to know	bichom	bichom		tʰe-jak-pa	tʰ e + j a k + p a				9903	tʰ e j a k p a	tʰ e j - a k p a
+1219	toknow	to know	kaspi	kaspi		it-pʰat	i t + pʰ a t				9902	i t pʰ a t	i t pʰ a t
+1308	toknow	to know	namphri	namphri		it-pʰa	i t + pʰ a				9902	i t pʰ a	i t pʰ a -
+1401	toknow	to know	bulu	bulu		dɛN	d ɛ N/ɴ				9901	d ɛ N	d ɛ N
+1501	toknow	to know	kojorojo	kojorojo		dan	d a n				9901	d a n	d a n
+1599	toknow	to know	rawa	rawa		dat	d a t				9901	d a t	d a t
+1698	toknow	to know	saria	saria		daiʔ	d ai ʔ				9901	d ai ʔ	d ai ʔ
+1798	toknow	to know	chayangtajo	chayangtajo		daiʔ	d ai ʔ				9901	d ai ʔ	d ai ʔ
+1898	toknow	to know	lasumpatte	lasumpatte		daiʔ	d ai ʔ				9901	d ai ʔ	d ai ʔ
+51	tolaugh	to laugh	duhumbi	duhumbi		ʑɛj	ʑ ɛ j				10101	ʑ ɛ j	ʑ - ɛ j
+151	tolaugh	to laugh	khispi	khispi		ʑej	ʑ e j				10101	ʑ e j	ʑ - e j
+251	tolaugh	to laugh	rupa	rupa		zaː	z aː				10101	z aː	z - aː -
+351	tolaugh	to laugh	shergaon	shergaon		zaː	z aː				10101	z aː	z - aː -
+452	tolaugh	to laugh	rahung	rahung		zɛː	z ɛː				10101	z ɛː	z - ɛː -
+555	tolaugh	to laugh	khoitam	khoitam		zɛː	z ɛː				10101	z ɛː	z - ɛː -
+657	tolaugh	to laugh	jerigaon	jerigaon		zɛː	z ɛː				10101	z ɛː	z - ɛː -
+755	tolaugh	to laugh	khoina	khoina		ʐaː	ʐ aː				10101	ʐ aː	ʐ - aː -
+858	tolaugh	to laugh	dikhyang	dikhyang		sjɔk	s j ɔ k				10102	s j ɔ k	s - - j ɔ k
+951	tolaugh	to laugh	singchung	singchung		ʧijo	tʃ i j o				10102	ʧ i j o	ʧ i - j o -
+1040	tolaugh	to laugh	wangho	wangho		ʧijo	tʃ i j o				10102	ʧ i j o	ʧ i - j o -
+1131	tolaugh	to laugh	bichom	bichom		ʃijaʔ	ʃ i j a ʔ				10102	ʃ i j a ʔ	ʃ i - j a ʔ
+1220	tolaugh	to laugh	kaspi	kaspi		seʔ	s e ʔ				10102	s e ʔ	s e - - - ʔ
+1309	tolaugh	to laugh	namphri	namphri		ʃeʔ-pʰa	ʃ e ʔ + pʰ a				10102	ʃ e ʔ pʰ a	ʃ e ʔ pʰ a -
+1402	tolaugh	to laugh	bulu	bulu		zɛː	z ɛː				10101	z ɛː	z - ɛː -
+1502	tolaugh	to laugh	kojorojo	kojorojo		zjei	z j ei				10101	z j ei	z j ei -
+1600	tolaugh	to laugh	rawa	rawa		zei	z ei				10101	z ei	z - ei -
+1699	tolaugh	to laugh	saria	saria		zɛː	z ɛː				10101	z ɛː	z - ɛː -
+1799	tolaugh	to laugh	chayangtajo	chayangtajo		ruɛ	r uɛ				10103	r uɛ	r uɛ
+1899	tolaugh	to laugh	lasumpatte	lasumpatte		ruɛ	r uɛ				10103	r uɛ	r uɛ
+71	torun	to run	duhumbi	duhumbi		dur	d u r				14101	d u r	d u r
+171	torun	to run	khispi	khispi		dul	d u l				14101	d u l	d u l
+271	torun	to run	rupa	rupa		ʨʰaː	tɕʰ aː				14102	ʨʰ aː	ʨʰ aː
+371	torun	to run	shergaon	shergaon		ʨʰaː	tɕʰ aː				14102	ʨʰ aː	ʨʰ aː
+472	torun	to run	rahung	rahung		ʨɛː	tɕ ɛː				14102	ʨ ɛː	ʨ ɛː
+575	torun	to run	khoitam	khoitam		riŋ	r i ŋ				14103	r i ŋ	r i ŋ
+677	torun	to run	jerigaon	jerigaon		lɛ ʔikʰɛn	l ɛ + ʔ i kʰ ɛ n				14104	lɛ ʔikʰɛn	lɛ ʔikʰɛn
+775	torun	to run	khoina	khoina		ʦʰɔː	tsʰ ɔː				14102	ʦʰ ɔː	ʦʰ ɔː
+876	torun	to run	dikhyang	dikhyang		ran	r a n				14103	r a n	r a n
+1422	torun	to run	bulu	bulu		rin	r i n				14103	r i n	r i n
+1522	torun	to run	kojorojo	kojorojo		ren	r e n				14103	r e n	r e n
+1620	torun	to run	rawa	rawa		rit	r i t				14103	r i t	r i t
+1719	torun	to run	saria	saria		riʔ	r i ʔ				14103	r i ʔ	r i ʔ
+1819	torun	to run	chayangtajo	chayangtajo		riʔ	r i ʔ				14103	r i ʔ	r i ʔ
+1919	torun	to run	lasumpatte	lasumpatte		riʔ	r i ʔ				14103	r i ʔ	r i ʔ
+74	tosay	to say	duhumbi	duhumbi		in	i n				14701	i n	i n
+174	tosay	to say	khispi	khispi		in	i n				14701	i n	i n
+274	tosay	to say	rupa	rupa		am	a m				14701	a m	a m
+374	tosay	to say	shergaon	shergaon		am	a m				14701	a m	a m
+475	tosay	to say	rahung	rahung		an	a n				14701	a n	a n
+578	tosay	to say	khoitam	khoitam		an	a n				14701	a n	a n
+680	tosay	to say	jerigaon	jerigaon		ɛn	ɛ n				14701	ɛ n	ɛ n
+778	tosay	to say	khoina	khoina		ɛn	ɛ n				14701	ɛ n	ɛ n
+879	tosay	to say	dikhyang	dikhyang		jaː	j aː				14702	j aː	j aː - - - -
+969	tosay	to say	singchung	singchung		je-ma-ge	j e + m a + g e				14702	j e m a g e	j e m a g e
+1058	tosay	to say	wangho	wangho		je	j e				14702	j e	j e - - - -
+1149	tosay	to say	bichom	bichom		je-pʰa	j e + pʰ a				14702	j e pʰ a	j e pʰ a - -
+1238	tosay	to say	kaspi	kaspi		si-pʰa	s i + pʰ a				14703	s i pʰ a	s i pʰ a
+1327	tosay	to say	namphri	namphri		jo-pʰa	j o + pʰ a				14704	j o pʰ a	j o pʰ a
+1425	tosay	to say	bulu	bulu		riː	r iː				14705	r iː	r iː
+1525	tosay	to say	kojorojo	kojorojo		rjoː	r j oː				14706	r j oː	r j oː
+1623	tosay	to say	rawa	rawa		rjoː	r j oː				14706	r j oː	r j oː
+1722	tosay	to say	saria	saria		jɔː	j ɔː				14704	j ɔː	j ɔː - -
+1822	tosay	to say	chayangtajo	chayangtajo		luiʔ	l ui ʔ				14707	l ui ʔ	l ui ʔ
+1922	tosay	to say	lasumpatte	lasumpatte		luiʔ	l ui ʔ				14707	l ui ʔ	l ui ʔ
+75	tosee	to see	duhumbi	duhumbi		aj	a j				14901	a j	a j
+175	tosee	to see	khispi	khispi		aj	a j				14901	a j	a j
+275	tosee	to see	rupa	rupa		ɔː	ɔː				14901	ɔː	ɔː -
+375	tosee	to see	shergaon	shergaon		ɔː	ɔː				14901	ɔː	ɔː -
+476	tosee	to see	rahung	rahung		ɔː	ɔː				14901	ɔː	ɔː -
+579	tosee	to see	khoitam	khoitam		nũː (-ʨʰi)	n ũː				14902	nũː (-ʨʰi)	nũː (-ʨʰi) - -
+779	tosee	to see	khoina	khoina		nɔ̃ː-ʨʰi	n ɔ̃ː + tɕʰ i				14902	n ɔ̃ː ʨʰ i	n ɔ̃ː ʨʰ i
+880	tosee	to see	dikhyang	dikhyang		gə-rak	g ə + r a k				14903	g ə r a k	g ə r a k - - - -
+970	tosee	to see	singchung	singchung		rək-ma-ge	r ə k + m a + g e				14903	r ə k m a g e	- - r ə k m a g e
+1059	tosee	to see	wangho	wangho		rək	r ə k				14903	r ə k	- - r ə k - - - -
+1150	tosee	to see	bichom	bichom		rəg	r ə g				14903	r ə g	- - r ə g - - - -
+1239	tosee	to see	kaspi	kaspi		rek-pʰa	r e k + pʰ a				14903	r e k pʰ a	- - r e k pʰ a - -
+1328	tosee	to see	namphri	namphri		rək	r ə k				14903	r ə k	- - r ə k - - - -
+1426	tosee	to see	bulu	bulu		niŋ	n i ŋ				14904	n i ŋ	n - i ŋ
+1526	tosee	to see	kojorojo	kojorojo		njəŋ	n j ə ŋ				14904	n j ə ŋ	n j ə ŋ
+1624	tosee	to see	rawa	rawa		niŋ	n i ŋ				14904	n i ŋ	n - i ŋ
+1723	tosee	to see	saria	saria		ɲɨː	ɲ ɨː				14904	ɲ ɨː	ɲ - ɨː -
+1823	tosee	to see	chayangtajo	chayangtajo		ʤei	dʒ ei				14905	ʤ ei	ʤ ei
+1923	tosee	to see	lasumpatte	lasumpatte		ʤei	dʒ ei				14905	ʤ ei	ʤ ei
+76	tosit	to sit	duhumbi	duhumbi		ʥu	dʑ u				15101	ʥ u	ʥ u
+176	tosit	to sit	khispi	khispi		ʥu	dʑ u				15101	ʥ u	ʥ u
+276	tosit	to sit	rupa	rupa		ʥau	dʑ au				15101	ʥ au	ʥ au
+376	tosit	to sit	shergaon	shergaon		ʥau	dʑ au				15101	ʥ au	ʥ au
+477	tosit	to sit	rahung	rahung		ʥo	dʑ o				15101	ʥ o	ʥ o
+580	tosit	to sit	khoitam	khoitam		ʥɔː	dʑ ɔː				15101	ʥ ɔː	ʥ ɔː
+681	tosit	to sit	jerigaon	jerigaon		ʥɔː	dʑ ɔː				15101	ʥ ɔː	ʥ ɔː
+780	tosit	to sit	khoina	khoina		ʣɔː	dz ɔː				15101	ʣ ɔː	ʣ ɔː
+881	tosit	to sit	dikhyang	dikhyang		duk	d u k				15102	d u k	d u k - - - -
+971	tosit	to sit	singchung	singchung		duk-ma	d u k + m a				15102	d u k m a	d u k m a - -
+1060	tosit	to sit	wangho	wangho		tuk	t u k				15102	t u k	t u k - - - -
+1151	tosit	to sit	bichom	bichom		duk	d u k				15102	d u k	d u k - - - -
+1240	tosit	to sit	kaspi	kaspi		dək-mu	d ə k + m u				15102	d ə k m u	d ə k m u - -
+1329	tosit	to sit	namphri	namphri		duk-ma-ge	d u k + m a + g e				15102	d u k m a g e	d u k m a g e
+1427	tosit	to sit	bulu	bulu		rɨː	r ɨː				15103	r ɨː	r ɨː
+1527	tosit	to sit	kojorojo	kojorojo		ʤao	dʒ ao				15101	ʤ ao	ʤ ao
+1625	tosit	to sit	rawa	rawa		tuŋ	t u ŋ				15102	t u ŋ	t u ŋ - - - -
+1724	tosit	to sit	saria	saria		tuŋ	t u ŋ				15102	t u ŋ	t u ŋ - - - -
+1824	tosit	to sit	chayangtajo	chayangtajo		tuŋ	t u ŋ				15102	t u ŋ	t u ŋ - - - -
+1924	tosit	to sit	lasumpatte	lasumpatte		tuŋ	t u ŋ				15102	t u ŋ	t u ŋ - - - -
+78	tosleep	to sleep	duhumbi	duhumbi		min	m i n				15502	m i n	m i - - n - - - -
+178	tosleep	to sleep	khispi	khispi		min	m i n				15502	m i n	m i - - n - - - -
+278	tosleep	to sleep	rupa	rupa		ʥiŋ	dʑ i ŋ				15501	ʥ i ŋ	ʥ i ŋ
+378	tosleep	to sleep	shergaon	shergaon		ʥin	dʑ i n				15501	ʥ i n	ʥ i n
+479	tosleep	to sleep	rahung	rahung		ʥiŋ	dʑ i ŋ				15501	ʥ i ŋ	ʥ i ŋ
+582	tosleep	to sleep	khoitam	khoitam		ʥiŋ	dʑ i ŋ				15501	ʥ i ŋ	ʥ i ŋ
+683	tosleep	to sleep	jerigaon	jerigaon		ʥiŋ	dʑ i ŋ				15501	ʥ i ŋ	ʥ i ŋ
+782	tosleep	to sleep	khoina	khoina		ʣiŋ	dz i ŋ				15501	ʣ i ŋ	ʣ i ŋ
+883	tosleep	to sleep	dikhyang	dikhyang		mjɛn	m j ɛ n				15502	m j ɛ n	m - j ɛ n - - - -
+973	tosleep	to sleep	singchung	singchung		mijen-ma-ge	m i j e n + m a + g e				15502	m i j e n m a g e	m i j e n m a g e
+1062	tosleep	to sleep	wangho	wangho		mijen	m i j e n				15502	m i j e n	m i j e n - - - -
+1153	tosleep	to sleep	bichom	bichom		mijan-pʰa	m i j a n + pʰ a				15502	m i j a n pʰ a	m i j a n pʰ a - -
+1242	tosleep	to sleep	kaspi	kaspi		men	m e n				15502	m e n	m e - - n - - - -
+1331	tosleep	to sleep	namphri	namphri		men-pʰa	m e n + pʰ a				15502	m e n pʰ a	m e - - n pʰ a - -
+1429	tosleep	to sleep	bulu	bulu		rəm	r ə m				15503	r ə m	r ə m
+1529	tosleep	to sleep	kojorojo	kojorojo		rəm	r ə m				15503	r ə m	r ə m
+1627	tosleep	to sleep	rawa	rawa		rəp	r ə p				15503	r ə p	r ə p
+1726	tosleep	to sleep	saria	saria		rəʔ	r ə ʔ				15503	r ə ʔ	r ə ʔ
+1826	tosleep	to sleep	chayangtajo	chayangtajo		rəm	r ə m				15503	r ə m	r ə m
+1926	tosleep	to sleep	lasumpatte	lasumpatte		rəm	r ə m				15503	r ə m	r ə m
+87	totake	to take	duhumbi	duhumbi		tʰɔn	tʰ ɔ n				17301	tʰ ɔ n	tʰ ɔ - n -
+187	totake	to take	khispi	khispi		tʰɔn	tʰ ɔ n				17301	tʰ ɔ n	tʰ ɔ - n -
+287	totake	to take	rupa	rupa		tʰøː	tʰ øː				17301	tʰ øː	tʰ øː - - -
+387	totake	to take	shergaon	shergaon		tʰɛː	tʰ ɛː				17301	tʰ ɛː	tʰ ɛː - - -
+488	totake	to take	rahung	rahung		tʰɛn	tʰ ɛ n				17301	tʰ ɛ n	tʰ ɛ - n -
+591	totake	to take	khoitam	khoitam		tʰĩː	tʰ ĩː				17301	tʰ ĩː	tʰ ĩː - - -
+692	totake	to take	jerigaon	jerigaon		tʰøː(n)	tʰ øː				17301	tʰ øː ( n )	tʰ øː ( n )
+791	totake	to take	khoina	khoina		tʰøː	tʰ øː				17301	tʰ øː	tʰ øː - - -
+892	totake	to take	dikhyang	dikhyang		rijə	r i j ə				17302	r i j ə	- - r i j ə - - - -
+982	totake	to take	singchung	singchung		tʰa-rija-ma-ge	tʰ a + r i j a + m a + g e				17302	tʰ a r i j a m a g e	tʰ a r i j a m a g e
+1071	totake	to take	wangho	wangho		ɹije	ɹ i j e				17302	ɹ i j e	- - ɹ i j e - - - -
+1162	totake	to take	bichom	bichom		ɹeⁱ-pʰa	ɹ eⁱ/e + pʰ a				17302	ɹ eⁱ pʰ a	- - ɹ eⁱ pʰ a - - - -
+1251	totake	to take	kaspi	kaspi		je-pʰa	j e + pʰ a				17302	j e pʰ a	- - j e pʰ a - - - -
+1340	totake	to take	namphri	namphri		lije	l i j e				17302	l i j e	- - l i j e - - - -
+1438	totake	to take	bulu	bulu		leː	l eː				17302	l eː	- - l eː - - - - - -
+1538	totake	to take	kojorojo	kojorojo		lei	l ei				17302	l ei	- - l ei - - - - - -
+1636	totake	to take	rawa	rawa		lei	l ei				17302	l ei	- - l ei - - - - - -
+1735	totake	to take	saria	saria		rei	r ei				17302	r ei	- - r ei - - - - - -
+1835	totake	to take	chayangtajo	chayangtajo		rei	r ei				17302	r ei	- - r ei - - - - - -
+1935	totake	to take	lasumpatte	lasumpatte		rei	r ei				17302	r ei	- - r ei - - - - - -
+90	tongue	tongue	duhumbi	duhumbi		lɔj	l ɔ j				17901	l ɔ j	- l ɔ j -
+190	tongue	tongue	khispi	khispi		luj	l u j				17901	l u j	- l u j -
+290	tongue	tongue	rupa	rupa		laː-pʰɔ̃	l aː + pʰ ɔ̃				17901	l aː pʰ ɔ̃	- l aː pʰ ɔ̃
+390	tongue	tongue	shergaon	shergaon		laː	l aː				17901	l aː	- l aː - -
+491	tongue	tongue	rahung	rahung		lɛː	l ɛː				17901	l ɛː	- l ɛː - -
+594	tongue	tongue	khoitam	khoitam		lɛː	l ɛː				17901	l ɛː	- l ɛː - -
+695	tongue	tongue	jerigaon	jerigaon		lɛː	l ɛː				17901	l ɛː	- l ɛː - -
+794	tongue	tongue	khoina	khoina		laː	l aː				17901	l aː	- l aː - -
+894	tongue	tongue	dikhyang	dikhyang		ryi	r yi				17901	r yi	- r yi - -
+984	tongue	tongue	singchung	singchung		iri	i r i				17901	i r i	i r i - -
+1073	tongue	tongue	wangho	wangho		ri	r i				17901	r i	- r i - -
+1164	tongue	tongue	bichom	bichom		ri	r i				17901	r i	- r i - -
+1253	tongue	tongue	kaspi	kaspi		ri	r i				17901	r i	- r i - -
+1342	tongue	tongue	namphri	namphri		ri	r i				17901	r i	- r i - -
+1441	tongue	tongue	bulu	bulu		a-lyi	a + l yi				17901	a l yi	a l yi - -
+1541	tongue	tongue	kojorojo	kojorojo		jui	j ui				17901	j ui	- j ui - -
+1639	tongue	tongue	rawa	rawa		lue	l ue				17901	l ue	- l ue - -
+1738	tongue	tongue	saria	saria		lue	l ue				17901	l ue	- l ue - -
+1838	tongue	tongue	chayangtajo	chayangtajo		a-rue	a + r ue				17901	a r ue	a r ue - -
+1938	tongue	tongue	lasumpatte	lasumpatte		a-rue	a + r ue				17901	a r ue	a r ue - -
+91	tooth	tooth	duhumbi	duhumbi		hin-tuŋ	h i n + t u ŋ				18101	h i n t u ŋ	h i n t u ŋ
+191	tooth	tooth	khispi	khispi		ɕin-tuŋ	ɕ i n + t u ŋ				18101	ɕ i n t u ŋ	ɕ i n t u ŋ
+291	tooth	tooth	rupa	rupa		tɔkʨʰeː	t ɔ k tɕʰ eː				18102	t ɔ k ʨʰ eː	t ɔ k ʨʰ eː
+391	tooth	tooth	shergaon	shergaon		nə-tʰuŋ	n ə + tʰ u ŋ				18101	n ə tʰ u ŋ	n ə - tʰ u ŋ
+492	tooth	tooth	rahung	rahung		pʰ-tʰyŋ	pʰ + tʰ y ŋ				18101	pʰ tʰ y ŋ	pʰ - - tʰ y ŋ
+595	tooth	tooth	khoitam	khoitam		nə-tʰyŋ	n ə + tʰ y ŋ				18101	n ə tʰ y ŋ	n ə - tʰ y ŋ
+696	tooth	tooth	jerigaon	jerigaon		nə-tʰyŋ	n ə + tʰ y ŋ				18101	n ə tʰ y ŋ	n ə - tʰ y ŋ
+795	tooth	tooth	khoina	khoina		ny-tʰyŋ	n y + tʰ y ŋ				18101	n y tʰ y ŋ	n y - tʰ y ŋ
+895	tooth	tooth	dikhyang	dikhyang		ɕiɲɛn	ɕ i ɲ ɛ n				18103	ɕ i ɲ ɛ n	ɕ i ɲ ɛ n - -
+985	tooth	tooth	singchung	singchung		ʃiniŋ	ʃ i n i ŋ				18103	ʃ i n i ŋ	ʃ i n i ŋ - -
+1074	tooth	tooth	wangho	wangho		ʃinijat	ʃ i n i j a t				18103	ʃ i n i j a t	ʃ i n i j a t
+1165	tooth	tooth	bichom	bichom		ʃinijat	ʃ i n i j a t				18103	ʃ i n i j a t	ʃ i n i j a t
+1254	tooth	tooth	kaspi	kaspi		ʃiniŋ	ʃ i n i ŋ				18103	ʃ i n i ŋ	ʃ i n i ŋ - -
+1343	tooth	tooth	namphri	namphri		ʃiniŋ	ʃ i n i ŋ				18103	ʃ i n i ŋ	ʃ i n i ŋ - -
+1442	tooth	tooth	bulu	bulu		kə-tɔN	k ə + t ɔ N/ɴ				18101	k ə t ɔ N	k ə - t ɔ N
+1542	tooth	tooth	kojorojo	kojorojo		kə-tuaŋ	k ə + t ua ŋ				18101	k ə t ua ŋ	k ə - t ua ŋ
+1640	tooth	tooth	rawa	rawa		tuaŋ	t ua ŋ				18101	t ua ŋ	- - - t ua ŋ
+1739	tooth	tooth	saria	saria		tuaŋ	t ua ŋ				18101	t ua ŋ	- - - t ua ŋ
+1839	tooth	tooth	chayangtajo	chayangtajo		kə-tuaŋ	k ə + t ua ŋ				18101	k ə t ua ŋ	k ə - t ua ŋ
+1939	tooth	tooth	lasumpatte	lasumpatte		kə-tuaŋ	k ə + t ua ŋ				18101	k ə t ua ŋ	k ə - t ua ŋ
+92	water	water	duhumbi	duhumbi		kʰow	kʰ o w				18301	kʰ o w	kʰ o w
+192	water	water	khispi	khispi		kʰaw	kʰ a w				18301	kʰ a w	kʰ a w
+292	water	water	rupa	rupa		kʰoː	kʰ oː				18301	kʰ oː	kʰ oː -
+392	water	water	shergaon	shergaon		kʰoː	kʰ oː				18301	kʰ oː	kʰ oː -
+493	water	water	rahung	rahung		kʰoː ~ kʰow	kʰ oː				18301	kʰoː ~ kʰow	kʰoː ~ kʰow
+494	water	water	rahung	rahung		kʰoː ~ kʰow	kʰ o w				18301	kʰoː ~ kʰow	kʰoː ~ kʰow
+596	water	water	khoitam	khoitam		kʰɔː ~ kʰoː	kʰ ɔː				18301	kʰɔː ~ kʰoː	kʰɔː ~ kʰoː
+597	water	water	khoitam	khoitam		kʰɔː ~ kʰoː	kʰ oː				18301	kʰɔː ~ kʰoː	kʰɔː ~ kʰoː
+697	water	water	jerigaon	jerigaon		kʰɔː	kʰ ɔː				18301	kʰ ɔː	kʰ ɔː -
+796	water	water	khoina	khoina		kʰɔː	kʰ ɔː				18301	kʰ ɔː	kʰ ɔː -
+896	water	water	dikhyang	dikhyang		kʰoː	kʰ oː				18301	kʰ oː	kʰ oː -
+986	water	water	singchung	singchung		kʰo	kʰ o				18301	kʰ o	kʰ o -
+1075	water	water	wangho	wangho		kʰoᵘ	kʰ oᵘ/o				18301	kʰ oᵘ	kʰ oᵘ -
+1166	water	water	bichom	bichom		kʰoᵘ	kʰ oᵘ/o				18301	kʰ oᵘ	kʰ oᵘ -
+1255	water	water	kaspi	kaspi		kʰoᵘ	kʰ oᵘ/o				18301	kʰ oᵘ	kʰ oᵘ -
+1344	water	water	namphri	namphri		kʰoᵘ	kʰ oᵘ/o				18301	kʰ oᵘ	kʰ oᵘ -
+1443	water	water	bulu	bulu		kʰɔː	kʰ ɔː				18301	kʰ ɔː	kʰ ɔː -
+1543	water	water	kojorojo	kojorojo		kua	k ua				18301	k ua	k ua -
+1641	water	water	rawa	rawa		kua	k ua				18301	k ua	k ua -
+1740	water	water	saria	saria		kua	k ua				18301	k ua	k ua -
+1840	water	water	chayangtajo	chayangtajo		kua	k ua				18301	k ua	k ua -
+1940	water	water	lasumpatte	lasumpatte		kua	k ua				18301	k ua	k ua -
+93	what	what?	duhumbi	duhumbi		a-be	a + b e				18501	a b e	a b e
+193	what	what?	khispi	khispi		a-be	a + b e				18501	a b e	a b e
+293	what	what?	rupa	rupa		musi aː	m u s i + aː				18502	musi aː	musi aː - -
+393	what	what?	shergaon	shergaon		mə-raː	m ə + r aː				18502	m ə r aː	m ə r aː
+495	what	what?	rahung	rahung		pʰ-ʨʰɔ̃ː waː	pʰ + tɕʰ ɔ̃ː + w aː				18503	pʰ-ʨʰɔ̃ː waː	pʰ-ʨʰɔ̃ː waː
+598	what	what?	khoitam	khoitam		a-ti jaː	a + t i + j aː				18504	a-ti jaː	- a-ti jaː
+698	what	what?	jerigaon	jerigaon		mə-tiː ja	m ə + t iː + j a				18504	mə-tiː ja	mə-tiː - ja
+797	what	what?	khoina	khoina		mə-tiː ja	m ə + t iː + j a				18504	mə-tiː ja	mə-tiː - ja
+897	what	what?	dikhyang	dikhyang		ɲujaː	ɲ u j aː				18505	ɲ u j aː	ɲ u j aː - -
+987	what	what?	singchung	singchung		niwka	n i w k a				18505	n i w k a	n i w - k a
+1076	what	what?	wangho	wangho		niw	n i w				18505	n i w	n i w - - -
+1167	what	what?	bichom	bichom		niw	n i w				18505	n i w	n i w - - -
+1256	what	what?	kaspi	kaspi		nije	n i j e				18505	n i j e	n i j e - -
+1345	what	what?	namphri	namphri		ɲijaga	ɲ i j a g a				18505	ɲ i j a g a	ɲ i j a g a
+1444	what	what?	bulu	bulu		hɛː	h ɛː				18506	h ɛː	h ɛː
+1544	what	what?	kojorojo	kojorojo		hai	h ai				18506	h ai	h ai
+1642	what	what?	rawa	rawa		hai	h ai				18506	h ai	h ai
+1741	what	what?	saria	saria		hai	h ai				18506	h ai	h ai
+1841	what	what?	chayangtajo	chayangtajo		hiː	h iː				18507	h iː	h iː
+1941	what	what?	lasumpatte	lasumpatte		hiː	h iː				18507	h iː	h iː
+94	white	white	duhumbi	duhumbi		jaŋ-kaɹ	j a ŋ + k a ɹ				18701	j a ŋ k a ɹ	j a ŋ k a ɹ
+194	white	white	khispi	khispi		jaŋ-kal	j a ŋ + k a l				18701	j a ŋ k a l	j a ŋ k a l
+294	white	white	rupa	rupa		a-zɔ̃ː	a + z ɔ̃ː				18702	a z ɔ̃ː	a z ɔ̃ː
+394	white	white	shergaon	shergaon		a-zɔ̃ː	a + z ɔ̃ː				18702	a z ɔ̃ː	a z ɔ̃ː
+496	white	white	rahung	rahung		a-zɔ̃ː	a + z ɔ̃ː				18702	a z ɔ̃ː	a z ɔ̃ː
+599	white	white	khoitam	khoitam		a-zɔ̃ː	a + z ɔ̃ː				18702	a z ɔ̃ː	a z ɔ̃ː
+699	white	white	jerigaon	jerigaon		a-zãː	a + z ãː				18702	a z ãː	a z ãː
+798	white	white	khoina	khoina		a-zãː	a + z ãː				18702	a z ãː	a z ãː
+898	white	white	dikhyang	dikhyang		ə-mau	ə + m au				18703	ə m au	ə m au -
+988	white	white	singchung	singchung		e-moᵘ	e + m oᵘ/o				18703	e m oᵘ	e m oᵘ -
+1077	white	white	wangho	wangho		e-moŋ	e + m o ŋ				18703	e m o ŋ	e m o ŋ
+1168	white	white	bichom	bichom		e-moᵘ	e + m oᵘ/o				18703	e m oᵘ	e m oᵘ -
+1257	white	white	kaspi	kaspi		mõᵘ	m õᵘ/õu				18703	m õᵘ	- m õᵘ -
+1346	white	white	namphri	namphri		e-moŋ	e + m o ŋ				18703	e m o ŋ	e m o ŋ
+1445	white	white	bulu	bulu		a-rjuN	a + r j u N/ɴ				18704	a r j u N	a r j u N
+1545	white	white	kojorojo	kojorojo		a-rjuŋ	a + r j u ŋ				18704	a r j u ŋ	a r j u ŋ
+1643	white	white	rawa	rawa		a-rjuŋ	a + r j u ŋ				18704	a r j u ŋ	a r j u ŋ
+1742	white	white	saria	saria		a-rjuŋ	a + r j u ŋ				18704	a r j u ŋ	a r j u ŋ
+1842	white	white	chayangtajo	chayangtajo		a-rjuŋ	a + r j u ŋ				18704	a r j u ŋ	a r j u ŋ
+1942	white	white	lasumpatte	lasumpatte		a-rjuŋ	a + r j u ŋ				18704	a r j u ŋ	a r j u ŋ
+95	who	who?	duhumbi	duhumbi		mi	m i				18901	m i	m i
+195	who	who?	khispi	khispi		mi	m i				18901	m i	m i
+295	who	who?	rupa	rupa		ɲiː	ɲ iː				18901	ɲ iː	ɲ iː
+395	who	who?	shergaon	shergaon		ɲiː	ɲ iː				18901	ɲ iː	ɲ iː
+497	who	who?	rahung	rahung		miː	m iː				18901	m iː	m iː
+600	who	who?	khoitam	khoitam		miː	m iː				18901	m iː	m iː
+700	who	who?	jerigaon	jerigaon		niː	n iː				18901	n iː	n iː
+799	who	who?	khoina	khoina		niː	n iː				18901	n iː	n iː
+899	who	who?	dikhyang	dikhyang		ha-ɲu	h a + ɲ u				18902	h a ɲ u	h a ɲ u - -
+989	who	who?	singchung	singchung		ha-niju	h a + n i j u				18902	h a n i j u	h a n i j u
+1078	who	who?	wangho	wangho		ha-ŋuŋ	h a + ŋ u ŋ				18902	h a ŋ u ŋ	h a ŋ u ŋ -
+1169	who	who?	bichom	bichom		ha-niju	h a + n i j u				18902	h a n i j u	h a n i j u
+1258	who	who?	kaspi	kaspi		ha-niju	h a + n i j u				18902	h a n i j u	h a n i j u
+1347	who	who?	namphri	namphri		ha-niju	h a + n i j u				18902	h a n i j u	h a n i j u
+1446	who	who?	bulu	bulu		mii	m iː				18901	m ii	m ii
+1546	who	who?	kojorojo	kojorojo		hoː	h oː				18902	h oː	h oː - - - -
+1644	who	who?	rawa	rawa		hoː	h oː				18902	h oː	h oː - - - -
+1743	who	who?	saria	saria		haː	h aː				18902	h aː	h aː - - - -
+1843	who	who?	chayangtajo	chayangtajo		haː	h aː				18902	h aː	h aː - - - -
+1943	who	who?	lasumpatte	lasumpatte		haː	h aː				18902	h aː	h aː - - - -
+96	wind	wind	duhumbi	duhumbi		nam-suŋ	n a m + s u ŋ				19101	n a m s u ŋ	n a m s u ŋ
+196	wind	wind	khispi	khispi		nam-suŋ	n a m + s u ŋ				19101	n a m s u ŋ	n a m s u ŋ
+296	wind	wind	rupa	rupa		nə-sɔm	n ə + s ɔ m				19101	n ə s ɔ m	n ə - s ɔ m
+396	wind	wind	shergaon	shergaon		nə-sɔm	n ə + s ɔ m				19101	n ə s ɔ m	n ə - s ɔ m
+498	wind	wind	rahung	rahung		p-søm	p + s ø m				19101	p s ø m	p - - s ø m
+601	wind	wind	khoitam	khoitam		ny-sɔm	n y + s ɔ m				19101	n y s ɔ m	n y - s ɔ m
+701	wind	wind	jerigaon	jerigaon		nə-søn	n ə + s ø n				19101	n ə s ø n	n ə - s ø n
+800	wind	wind	khoina	khoina		na-søn	n a + s ø n				19101	n a s ø n	n a - s ø n
+900	wind	wind	dikhyang	dikhyang		haː-saːm	h aː + s aː m				19101	h aː s aː m	h aː - s aː m
+990	wind	wind	singchung	singchung		ha-sam	h a + s a m				19101	h a s a m	h a - s a m
+1079	wind	wind	wangho	wangho		ha-sam	h a + s a m				19101	h a s a m	h a - s a m
+1170	wind	wind	bichom	bichom		a-ʃam	a + ʃ a m				19101	a ʃ a m	- a - ʃ a m
+1259	wind	wind	kaspi	kaspi		ha-sam	h a + s a m				19101	h a s a m	h a - s a m
+1348	wind	wind	namphri	namphri		ha-sam	h a + s a m				19101	h a s a m	h a - s a m
+1447	wind	wind	bulu	bulu		haN-ʃin	h a N/ɴ + ʃ i n				19102	h a N ʃ i n	h a N ʃ - i n
+1547	wind	wind	kojorojo	kojorojo		ha-hɹɨn	h a + h ɹ ɨ n				19102	h a h ɹ ɨ n	h a - h ɹ ɨ n
+1645	wind	wind	rawa	rawa		ha-hɨn	h a + h ɨ n				19102	h a h ɨ n	h a - h - ɨ n
+1744	wind	wind	saria	saria		a-huiʔ	a + h ui ʔ				19103	a h ui ʔ	a - h ui ʔ
+1844	wind	wind	chayangtajo	chayangtajo		aŋ-huiʔ	a ŋ + h ui ʔ				19103	a ŋ h ui ʔ	a ŋ h ui ʔ
+1944	wind	wind	lasumpatte	lasumpatte		aŋ-huiʔ	a ŋ + h ui ʔ				19103	a ŋ h ui ʔ	a ŋ h ui ʔ
+97	wing	wing	duhumbi	duhumbi		pɛmpu	p ɛ m p u				19301	p ɛ m p u	p ɛ m p u
+197	wing	wing	khispi	khispi		ɲuj-pʰa	ɲ u j + pʰ a				19302	ɲ u j pʰ a	ɲ u j pʰ a -
+297	wing	wing	rupa	rupa		nə-pʰaŋ	n ə + pʰ a ŋ				19302	n ə pʰ a ŋ	n ə - pʰ a ŋ
+397	wing	wing	shergaon	shergaon		lə-pʰaŋ	l ə + pʰ a ŋ				19302	l ə pʰ a ŋ	l ə - pʰ a ŋ
+499	wing	wing	rahung	rahung		mə-pʰaŋ	m ə + pʰ a ŋ				19302	m ə pʰ a ŋ	m ə - pʰ a ŋ
+602	wing	wing	khoitam	khoitam		nə-pʰaŋ	n ə + pʰ a ŋ				19302	n ə pʰ a ŋ	n ə - pʰ a ŋ
+702	wing	wing	jerigaon	jerigaon		ny-pʰaŋ	n y + pʰ a ŋ				19302	n y pʰ a ŋ	n y - pʰ a ŋ
+801	wing	wing	khoina	khoina		ny-pʰaŋ	n y + pʰ a ŋ				19302	n y pʰ a ŋ	n y - pʰ a ŋ
+901	wing	wing	dikhyang	dikhyang		ə-jik	ə + j i k				19303	ə j i k	- ə j i k
+1448	wing	wing	bulu	bulu		a-ʒuiN	a + ʒ ui N/ɴ				19303	a ʒ ui N	- a ʒ ui N
+1548	wing	wing	kojorojo	kojorojo		a-ʒun	a + ʒ u n				19303	a ʒ u n	- a ʒ u n
+1646	wing	wing	rawa	rawa		a-zuət	a + z uə t				19303	a z uə t	- a z uə t
+1745	wing	wing	saria	saria		mə-juiʔ	m ə + j ui ʔ				19303	m ə j ui ʔ	m ə j ui ʔ
+1845	wing	wing	chayangtajo	chayangtajo		a-juiʔ	a + j ui ʔ				19303	a j ui ʔ	- a j ui ʔ
+1945	wing	wing	lasumpatte	lasumpatte		a-wiʔ	a + w i ʔ				19304	a w i ʔ	a w i ʔ
+98	woman	woman	duhumbi	duhumbi		ʥu-mu	dʑ u + m u				19501	ʥ u m u	ʥ u m u
+198	woman	woman	khispi	khispi		ʥu-mu	dʑ u + m u				19501	ʥ u m u	ʥ u m u
+298	woman	woman	rupa	rupa		ʥə-my	dʑ ə + m y				19501	ʥ ə m y	ʥ ə m y
+398	woman	woman	shergaon	shergaon		ʥə-mi	dʑ ə + m i				19501	ʥ ə m i	ʥ ə m i
+500	woman	woman	rahung	rahung		ʥə-my	dʑ ə + m y				19501	ʥ ə m y	ʥ ə m y
+603	woman	woman	khoitam	khoitam		ʥə-my	dʑ ə + m y				19501	ʥ ə m y	ʥ ə m y
+703	woman	woman	jerigaon	jerigaon		ʥə-my	dʑ ə + m y				19501	ʥ ə m y	ʥ ə m y
+802	woman	woman	khoina	khoina		ʥə-my	dʑ ə + m y				19501	ʥ ə m y	ʥ ə m y
+902	woman	woman	dikhyang	dikhyang		bə-mi	b ə + m i				19501	b ə m i	b ə m i
+991	woman	woman	singchung	singchung		di-mi	d i + m i				19501	d i m i	d i m i
+1080	woman	woman	wangho	wangho		bi-mi	b i + m i				19501	b i m i	b i m i
+1171	woman	woman	bichom	bichom		bi-mi	b i + m i				19501	b i m i	b i m i
+1260	woman	woman	kaspi	kaspi		hõa-mu	h õa + m u				19502	h õa m u	h õa m u
+1349	woman	woman	namphri	namphri		hõa-mua	h õa + m ua				19502	h õa m ua	h õa m ua
+1449	woman	woman	bulu	bulu		mə-ruː	m ə + r uː				19503	m ə r uː	m ə r uː
+1549	woman	woman	kojorojo	kojorojo		a-mui	a + m ui				19501	a m ui	- a m ui
+1647	woman	woman	rawa	rawa		a-mui	a + m ui				19501	a m ui	- a m ui
+1746	woman	woman	saria	saria		a-mui	a + m ui				19501	a m ui	- a m ui
+1846	woman	woman	chayangtajo	chayangtajo		a-mui	a + m ui				19501	a m ui	- a m ui
+1946	woman	woman	lasumpatte	lasumpatte		a-mui	a + m ui				19501	a m ui	- a m ui
+99	wood	wood	duhumbi	duhumbi		ɕiŋ	ɕ i ŋ				19701	ɕ i ŋ	ɕ - i ŋ
+199	wood	wood	khispi	khispi		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+299	wood	wood	rupa	rupa		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+399	wood	wood	shergaon	shergaon		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+501	wood	wood	rahung	rahung		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+604	wood	wood	khoitam	khoitam		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+704	wood	wood	jerigaon	jerigaon		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+803	wood	wood	khoina	khoina		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+903	wood	wood	dikhyang	dikhyang		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+992	wood	wood	singchung	singchung		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+1081	wood	wood	wangho	wangho		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+1172	wood	wood	bichom	bichom		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+1261	wood	wood	kaspi	kaspi		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+1350	wood	wood	namphri	namphri		hiŋ	h i ŋ				19701	h i ŋ	h - i ŋ
+1450	wood	wood	bulu	bulu		ʃiN	ʃ i N/ɴ				19701	ʃ i N	ʃ - i N
+1550	wood	wood	kojorojo	kojorojo		hɹɨn	h ɹ ɨ n				19701	h ɹ ɨ n	h ɹ ɨ n
+1648	wood	wood	rawa	rawa		hɨŋ	h ɨ ŋ				19701	h ɨ ŋ	h - ɨ ŋ
+1747	wood	wood	saria	saria		hɹiŋ	h ɹ i ŋ				19701	h ɹ i ŋ	h ɹ i ŋ
+1847	wood	wood	chayangtajo	chayangtajo		hɹeŋ	h ɹ e ŋ				19701	h ɹ e ŋ	h ɹ e ŋ
+1947	wood	wood	lasumpatte	lasumpatte		hjeŋ	h j e ŋ				19701	h j e ŋ	h j e ŋ
+100	yesterday	yesterday	duhumbi	duhumbi		dɛj-ju	d ɛ j + j u				19901	d ɛ jj u	d ɛ jj u
+200	yesterday	yesterday	khispi	khispi		di-ju	d i + j u				19901	d i j u	d i j u
+300	yesterday	yesterday	rupa	rupa		di-jau	d i + j au				19901	d i j au	d i j au
+502	yesterday	yesterday	rahung	rahung		ʥɔ-hɔː ~ ʥoː	dʑ ɔ + h ɔː				19901	ʥɔ-hɔː ~ ʥoː	ʥɔ-hɔː ~ ʥoː -
+503	yesterday	yesterday	rahung	rahung		ʥɔ-hɔː ~ ʥoː	dʑ oː				19901	ʥɔ-hɔː ~ ʥoː	ʥɔ-hɔː ~ ʥoː -
+605	yesterday	yesterday	khoitam	khoitam		ʥy-jɔː	dʑ y + j ɔː				19901	ʥ y j ɔː	ʥ y j ɔː
+705	yesterday	yesterday	jerigaon	jerigaon		dy-jɔː	d y + j ɔː				19901	d y j ɔː	d y j ɔː
+804	yesterday	yesterday	khoina	khoina		dy-jɔː	d y + j ɔː				19901	d y j ɔː	d y j ɔː
+904	yesterday	yesterday	dikhyang	dikhyang		di-jau	d i + j au				19901	d i j au	d i j au
+993	yesterday	yesterday	singchung	singchung		di-jo	d i + j o				19901	d i j o	d i j o
+1082	yesterday	yesterday	wangho	wangho		di-jo	d i + j o				19901	d i j o	d i j o
+1173	yesterday	yesterday	bichom	bichom		di-jo	d i + j o				19901	d i j o	d i j o
+1262	yesterday	yesterday	kaspi	kaspi		tʰə-mi-jaŋ	tʰ ə + m i + j a ŋ				19904	tʰ ə m i j a ŋ	tʰ ə m i j a ŋ
+1351	yesterday	yesterday	namphri	namphri		di-jo	d i + j o				19901	d i j o	d i j o
+1451	yesterday	yesterday	bulu	bulu		ʤi-rjɛ:	dʒ i + r j ɛː				19903	ʤ i r j ɛ:	- ʤ i r j ɛ:
+1551	yesterday	yesterday	kojorojo	kojorojo		rə-niː	r ə + n iː				19902	r ə n iː	r ə n iː
+1748	yesterday	yesterday	saria	saria		bɹõrĩ	b ɹ õ r ĩ				19903	b ɹ õ r ĩ	b ɹ õ r - ĩ
+1848	yesterday	yesterday	chayangtajo	chayangtajo		bjariː	b j a r iː				19903	b j a r iː	b j a r - iː
+1948	yesterday	yesterday	lasumpatte	lasumpatte		bjariː	b j a r iː				19903	b j a r iː	b j a r - iː

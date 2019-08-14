@@ -91,7 +91,7 @@ wl = lingpy.Wordlist.from_cldf("cldf-khobwa/Wordlist-metadata.json",
              'language_glottocode',
              'concept_concepticon_id',
              'cognacy',
-             'cogid_cognateset_id')
+             'cogid_cognateset_id'))
 ```
 
 There are various ways to iterate over the data in the wordlist, such as directly indexing rows or by using the built-in `Wordlist.iter_rows()` method while using the column names listed in `wl.columns`. A quick check for consistency can be performed by tabulating the first rows of data:
@@ -132,7 +132,7 @@ for i in range(wl.height, 0, -1):
 print('Avarage coverage is {0:.2f}.'.format(average_coverage(wl)))
 ```
 
-Which, for this dataset, will report a reasonable 87% minimal mutual coverage and 94% average coverage. An additional important statistic about a dataset is the number of potential synonyms, which should be as low as possible. Once more, `lingpy` offers methods and functions to easily collect this information:
+Which, for this dataset, will report a reasonable minimal coverage of 87 concepts and 94% of average coverage. An additional important statistic about a dataset is the number of potential synonyms, which should be as low as possible. Once more, `lingpy` offers methods and functions to easily collect this information:
 
 ```python
 # check for synonyms
@@ -151,20 +151,20 @@ else:
 Which will inform that we have 13 potential synonyms, a ratio low enough not to impact our analyses.
 
 ```
-Found 13 potential synonyms (0.0067%):
-bichom           black         2
-khoitam          water         2
-rahung           yesterday     2
-rahung           to do/make    2
-dikhyang         flesh/meat    2
-jerigaon         liver         2
-khoitam          bone          2
-dikhyang         bone          2
-rahung           water         2
-dikhyang         eye           2
-jerigaon         house         2
+Found 13 potential synonyms (0.67%):
 rahung           3SG           2
+rahung           to do/make    2
+rahung           water         2
+rahung           yesterday     2
+khoitam          bone          2
+khoitam          water         2
+jerigaon         house         2
+jerigaon         liver         2
+dikhyang         bone          2
+dikhyang         eye           2
+dikhyang         flesh/meat    2
 bichom           1SG           2
+bichom           black         2
 ```
 
 #### 2.1.3 Retrieving Existing Data 

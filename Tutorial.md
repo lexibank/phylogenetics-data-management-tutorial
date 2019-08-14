@@ -102,10 +102,10 @@ print(tabulate([wl[idx] for idx in range(1, 5)]))
 
 ```
 ---  ---  -------  -------    ---------  ----------------          ---
-1sg  1SG  duhumbi  duhumbi    ga         g a                       101
-2sg  2SG  duhumbi  duhumbi    naŋ        n a ŋ                     301
-3sg  3SG  duhumbi  duhumbi    wɔj        w ɔ j                     501
-ant  ant  duhumbi  duhumbi    kʰin-ʨʰɔk  kʰ i n + tɕʰ ɔ k          701
+1sg  1SG  Duhumbi  Duhumbi    ga         g a                       101
+2sg  2SG  Duhumbi  Duhumbi    naŋ        n a ŋ                     301
+3sg  3SG  Duhumbi  Duhumbi    wɔj        w ɔ j                     501
+ant  ant  Duhumbi  Duhumbi    kʰin-ʨʰɔk  kʰ i n + tɕʰ ɔ k          701
 ---  ---  -------  -------    ---------  ----------------          ---
 ```
 
@@ -136,14 +136,14 @@ Which, for this dataset, will report a reasonable minimal coverage of 87 concept
 
 ```python
 # check for synonyms
-synonyms = synonymy(wl)
+synonyms = synonymy(wl, languages="language_name")
 num_synonyms = len(wl) - len(synonyms)
 syn_ratio = 1 - (len(synonyms)/len(wl))
 if num_synonyms == 0:
     print('Found {0} potential synonyms.'.format(num_synonyms))
 else:
     print('Found {0} potential synonyms ({1:.2}%):'.format(num_synonyms, syn_ratio*100.0))
-    for (language, concept), count in sorted(synonyms.items(), key=lambda x: x[1], reverse=True):
+    for (language, concept), count in sorted(synonyms.items(), key=lambda x: x[0][0]):
         if count > 1:
             print('{0:15}  {1:12}  {2}'.format(language, concept, count))
 ```
@@ -152,19 +152,19 @@ Which will inform that we have 13 potential synonyms, a ratio low enough not to 
 
 ```
 Found 13 potential synonyms (0.67%):
-rahung           3SG           2
-rahung           to do/make    2
-rahung           water         2
-rahung           yesterday     2
-khoitam          bone          2
-khoitam          water         2
-jerigaon         house         2
-jerigaon         liver         2
-dikhyang         bone          2
-dikhyang         eye           2
-dikhyang         flesh/meat    2
-bichom           1SG           2
-bichom           black         2
+Bichom           1SG           2
+Bichom           black         2
+Dikhyang         eye           2
+Dikhyang         bone          2
+Dikhyang         flesh/meat    2
+Jerigaon         house         2
+Jerigaon         liver         2
+Khoitam          bone          2
+Khoitam          water         2
+Rahung           3SG           2
+Rahung           water         2
+Rahung           yesterday     2
+Rahung           to do/make    2
 ```
 
 #### 2.1.3 Retrieving Existing Data 
@@ -177,11 +177,11 @@ pip install -e git+https://github.com/lexibank/lieberherrkhobwa.git#egg=lexibank
 
 When installed with `pip`, a CLDF dataset can be loaded in different ways, the easiest of which is by loading from the metadata file:
 
-```
+```python
 from lexibank_lieberherrkhobwa import Dataset as DS
 
 cldf_metadata = DS().cldf_dir.joinpath('cldf-metadata.json')
-wl = lingpy.Wordlist.from_cldf(cldf_metadata,
+wl_lexibank = lingpy.Wordlist.from_cldf(cldf_metadata,
     columns=('parameter_id',
              'concept_name',
              'language_id',
@@ -194,11 +194,10 @@ wl = lingpy.Wordlist.from_cldf(cldf_metadata,
              'language_latitude',
              'language_longitude',
              'cognacy',
-             'cogid_cognateset_id',),
-)
+             'cogid_cognateset_id'))
 ```
 
-Please remember that the dataset distributed along with this tutorial is derived and simplified from the original. The code for running analyses does not change, but the results will be different whether one loads from this teaching material or from the actual, complete original dataset.
+Please remember that the dataset distributed along with this tutorial is derived and simplified from the original. The code for running analyses does not change with the expected exception of applying the methods to `wl_lexibank` and not `wl`, but the results will be different whether one loads from this teaching material or from the actual, complete original dataset.
 
 ### 2.2 Computer-Assisted Language Comparison (Stage 2)
 
@@ -264,7 +263,7 @@ lex.get_scorer(runs=10000)
 
 It is normal for this to take a while and to obtain a long output detailing the alignment and random correspondence. Once these steps are finished, we can run the methods for automatic cognate detection, each with its reference threshold and clustering method:
 
-```
+```python
 cognate_detect = [
     ('edit-dist', 'editid', 0.75, 'upgma'),
     ('sca', 'scaid', 0.45, 'upgma'),
@@ -326,8 +325,8 @@ The distance matrix file is a pure-textual file with the number of languages in 
 ```
 $ head -n 3 khobwa.dst
  20
-bichom  0.0000  0.5506  0.5618  0.0909  0.5730  0.6092  0.1461  0.5843  0.6250  0.6180  0.5169  0.5618  0.0787  0.6180  0.5227  0.6180  0.5281  0.6250    0.0449  0.0674
-bulu    0.5506  0.0000  0.3300  0.5567  0.5600  0.5204  0.5730  0.5400  0.5354  0.5000  0.1700  0.3400  0.5618  0.5200  0.2062  0.5400  0.2700  0.5455    0.5618  0.5618
+Bichom  0.0000  0.5506  0.5618  0.0909  0.5730  0.6092  0.1461  0.5843  0.6250  0.6180  0.5169  0.5618  0.0787  0.6180  0.5227  0.6180  0.5281  0.6250    0.0449  0.0674
+Bulu    0.5506  0.0000  0.3300  0.5567  0.5600  0.5204  0.5730  0.5400  0.5354  0.5000  0.1700  0.3400  0.5618  0.5200  0.2062  0.5400  0.2700  0.5455    0.5618  0.5618
 ```
 
 
@@ -343,26 +342,26 @@ print(tree.asciiArt(compact=True))
 Which will print a nice ASCII representation:
 
 ```
-                    /edge.0-- /-duhumbi
-          /edge.6--|          \-khispi
-         |          \edge.5-- /-shergaon
-         |                    \edge.4-- /-rupa
-         |                              \edge.3-- /-jerigaon
-         |                                        \edge.2-- /-khoina
--root----|                                                  \edge.1-- /-khoitam
-         |                                                            \-rahung
-         |                    /-kaspi
-         |          /edge.11-|          /-namphri
-         |         |          \edge.10-|          /edge.7-- /-bichom
-         |         |                    \edge.9--|          \-singchung
-          \edge.17-|                              \edge.8-- /-dikhyang
-                   |                                        \-wangho
-                   |          /edge.13- /-saria
-                    \edge.16-|          \edge.12- /-chayangtajo
-                             |                    \-lasumpatte
-                              \edge.15- /-bulu
-                                        \edge.14- /-kojorojo
-                                                  \-rawa
+                    /edge.0-- /-Duhumbi
+          /edge.6--|          \-Khispi
+         |          \edge.5-- /-Shergaon
+         |                    \edge.4-- /-Rupa
+         |                              \edge.3-- /-Jerigaon
+         |                                        \edge.2-- /-Khoina
+-root----|                                                  \edge.1-- /-Khoitam
+         |                                                            \-Rahung
+         |                    /-Kaspi
+         |          /edge.11-|          /-Namphri
+         |         |          \edge.10-|          /edge.7-- /-Bichom
+         |         |                    \edge.9--|          \-Singchung
+          \edge.17-|                              \edge.8-- /-Dikhyang
+                   |                                        \-Wangho
+                   |          /edge.13- /-Saria
+                    \edge.16-|          \edge.12- /-Chayangtajo
+                             |                    \-Lasumpatte
+                              \edge.15- /-Bulu
+                                        \edge.14- /-Kojo_Rojo
+                                                  \-Rawa
 ```
 
 The tree itself can be saved in standard Newick format for use in tree visualisation and manipulation software:

@@ -1,4 +1,4 @@
 tabulate
-lingpy
+lingpy>=2.6.5
 ipython
 python-igraph

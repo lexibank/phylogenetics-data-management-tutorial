@@ -21,7 +21,7 @@ pip install --upgrade wheel
 pip install -r pip-requirements.txt
 ```
 
-All the code snippets below assume that the necessary libraries have already been imported in Python. The full list of imports, which can be executed upon initialization and for testing that all libraries were properly installed, is:
+All the code snippets below must be executed from inside Python (either by calling `python` from the command line, entering them one by one, or by placing them in a Python script) and assume that the necessary libraries have already been imported in Python. The full list of imports, which can be executed upon initialization and for testing that all libraries were properly installed, is:
 
 ```python
 import lingpy

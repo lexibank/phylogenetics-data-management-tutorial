@@ -40,27 +40,27 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1650	2sg	2SG	Saria	Saria		na	n a				301	n a	n a -
 1750	2sg	2SG	Chayangtajo	Chayangtajo		na	n a				301	n a	n a -
 1850	2sg	2SG	Lasumpatte	Lasumpatte		na	n a				301	n a	n a -
-3	3sg	3SG	Duhumbi	Duhumbi		wɔj	w ɔ j				501	w ɔ j	- - - w ɔ - - j -
-103	3sg	3SG	Khispi	Khispi		wuj	w u j				501	w u j	- - - w u - - j -
-203	3sg	3SG	Rupa	Rupa		wa	w a				501	w a	- - - w a - - - -
-303	3sg	3SG	Shergaon	Shergaon		wa	w a				501	w a	- - - w a - - - -
-402	3sg	3SG	Rahung	Rahung		hɛ ~ ʔɛ	h ɛ				501	hɛ ~ ʔɛ	- - - - - hɛ ~ ʔɛ -
-403	3sg	3SG	Rahung	Rahung		hɛ ~ ʔɛ	ʔ ɛ				501	hɛ ~ ʔɛ	- - - - - hɛ ~ ʔɛ -
-506	3sg	3SG	Khoitam	Khoitam		wa-ʥi	w a + dʑ i				501	w a ʥ i	- - - w a - - ʥ i
-608	3sg	3SG	Jerigaon	Jerigaon		wa	w a				501	w a	- - - w a - - - -
-708	3sg	3SG	Khoina	Khoina		laŋ-wa	l a ŋ + w a				501	l a ŋ w a	l a ŋ w a - - - -
-807	3sg	3SG	Dikhyang	Dikhyang		oɛ	o ɛ				501	oɛ	- - - - oɛ - - - -
-907	3sg	3SG	Singchung	Singchung		oe	oe				501	oe	- - - - oe - - - -
-996	3sg	3SG	Wangho	Wangho		we	w e				501	w e	- - - w e - - - -
-1086	3sg	3SG	Bichom	Bichom		uwe	u w e				501	u w e	- u - w e - - - -
+3	3sg	3SG	Duhumbi	Duhumbi		wɔj	w ɔ j				501	w ɔ j	- - - - - w ɔ j -
+103	3sg	3SG	Khispi	Khispi		wuj	w u j				501	w u j	- - - - - w u j -
+203	3sg	3SG	Rupa	Rupa		wa	w a				501	w a	- - - - - w a - -
+303	3sg	3SG	Shergaon	Shergaon		wa	w a				501	w a	- - - - - w a - -
+402	3sg	3SG	Rahung	Rahung		hɛ ~ ʔɛ	h ɛ				501	hɛ ~ ʔɛ	hɛ ~ ʔɛ - - - - - -
+403	3sg	3SG	Rahung	Rahung		hɛ ~ ʔɛ	ʔ ɛ				501	hɛ ~ ʔɛ	hɛ ~ ʔɛ - - - - - -
+506	3sg	3SG	Khoitam	Khoitam		wa-ʥi	w a + dʑ i				501	w a ʥ i	- - - - - w a ʥ i
+608	3sg	3SG	Jerigaon	Jerigaon		wa	w a				501	w a	- - - - - w a - -
+708	3sg	3SG	Khoina	Khoina		laŋ-wa	l a ŋ + w a				501	l a ŋ w a	- - l a ŋ w a - -
+807	3sg	3SG	Dikhyang	Dikhyang		oɛ	o ɛ				501	oɛ	- - - oɛ - - - - -
+907	3sg	3SG	Singchung	Singchung		oe	oe				501	oe	- - - oe - - - - -
+996	3sg	3SG	Wangho	Wangho		we	w e				501	w e	- - - - - w e - -
+1086	3sg	3SG	Bichom	Bichom		uwe	u w e				501	u w e	- - - u - w e - -
 1176	3sg	3SG	Kaspi	Kaspi		tʰe	tʰ e				502	tʰ e	tʰ e
-1265	3sg	3SG	Namphri	Namphri		oe	oe				501	oe	- - - - oe - - - -
-1354	3sg	3SG	Bulu	Bulu		vɛː	v ɛː				501	v ɛː	- - - v ɛː - - - -
-1454	3sg	3SG	Kojo_Rojo	Kojo Rojo		wai	w ai				501	w ai	- - - w ai - - - -
+1265	3sg	3SG	Namphri	Namphri		oe	oe				501	oe	- - - oe - - - - -
+1354	3sg	3SG	Bulu	Bulu		vɛː	v ɛː				501	v ɛː	- - - - - v ɛː - -
+1454	3sg	3SG	Kojo_Rojo	Kojo Rojo		wai	w ai				501	w ai	- - - - - w ai - -
 1554	3sg	3SG	Rawa	Rawa		hoː	h oː				503	h oː	h oː
-1651	3sg	3SG	Saria	Saria		waː	w aː				501	w aː	- - - w aː - - - -
-1751	3sg	3SG	Chayangtajo	Chayangtajo		wɛː	w ɛː				501	w ɛː	- - - w ɛː - - - -
-1851	3sg	3SG	Lasumpatte	Lasumpatte		wɛː	w ɛː				501	w ɛː	- - - w ɛː - - - -
+1651	3sg	3SG	Saria	Saria		waː	w aː				501	w aː	- - - - - w aː - -
+1751	3sg	3SG	Chayangtajo	Chayangtajo		wɛː	w ɛː				501	w ɛː	- - - - - w ɛː - -
+1851	3sg	3SG	Lasumpatte	Lasumpatte		wɛː	w ɛː				501	w ɛː	- - - - - w ɛː - -
 4	ant	ant	Duhumbi	Duhumbi		kʰin-ʨʰɔk	kʰ i n + tɕʰ ɔ k				701	kʰ i n ʨʰ ɔ k	kʰ - i n - ʨʰ - ɔ k
 104	ant	ant	Khispi	Khispi		kʰe-ʨʰɔk	kʰ e + tɕʰ ɔ k				701	kʰ e ʨʰ ɔ k	kʰ - e - - ʨʰ - ɔ k
 204	ant	ant	Rupa	Rupa		san-ʥɔk	s a n + dʑ ɔ k				701	s a n ʥ ɔ k	s - a n - ʥ - ɔ k
@@ -143,11 +143,11 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1855	big	big	Lasumpatte	Lasumpatte		kəlaː	k ə l aː				1304	k ə l aː	k ə l aː
 8	bird	bird	Duhumbi	Duhumbi		hwa	w̥ a				1501	h w a	h w a
 108	bird	bird	Khispi	Khispi		hwa	w̥ a				1501	h w a	h w a
-208	bird	bird	Rupa	Rupa		hu	h u				1501	h u	h - u
-308	bird	bird	Shergaon	Shergaon		hu	h u				1501	h u	h - u
-408	bird	bird	Rahung	Rahung		hu	h u				1501	h u	h - u
-511	bird	bird	Khoitam	Khoitam		hu	h u				1501	h u	h - u
-613	bird	bird	Jerigaon	Jerigaon		hu	h u				1501	h u	h - u
+208	bird	bird	Rupa	Rupa		hu	h u				1501	h u	- h u
+308	bird	bird	Shergaon	Shergaon		hu	h u				1501	h u	- h u
+408	bird	bird	Rahung	Rahung		hu	h u				1501	h u	- h u
+511	bird	bird	Khoitam	Khoitam		hu	h u				1501	h u	- h u
+613	bird	bird	Jerigaon	Jerigaon		hu	h u				1501	h u	- h u
 713	bird	bird	Khoina	Khoina		fu	f u				1501	f u	- f u
 812	bird	bird	Dikhyang	Dikhyang		fuə	f uə				1501	f uə	- f uə
 912	bird	bird	Singchung	Singchung		fua	f ua				1501	f ua	- f ua
@@ -197,7 +197,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1361	bitter	bitter	Bulu	Bulu		a-ʧaʔ	a + tʃ a ʔ				1901	a ʧ a ʔ	a ʧ - a ʔ - -
 1461	bitter	bitter	Kojo_Rojo	Kojo Rojo		a-ʧuaʔ	a + tʃ ua ʔ				1901	a ʧ ua ʔ	a ʧ - ua ʔ - -
 1561	bitter	bitter	Rawa	Rawa		a-ʧaː	a + tʃ aː				1901	a ʧ aː	a ʧ - aː - - -
-1658	bitter	bitter	Saria	Saria		a-kjaː	a + k j aː				1901	a k j aː	a k j aː - - -
+1658	bitter	bitter	Saria	Saria		a-kjaː	a + k j aː				1901	a k j aː	- - - a k j aː
 1758	bitter	bitter	Chayangtajo	Chayangtajo		a-ʧaː	a + tʃ aː				1901	a ʧ aː	a ʧ - aː - - -
 1858	bitter	bitter	Lasumpatte	Lasumpatte		a-ʧjaː	a + tʃ j aː				1901	a ʧ j aː	a ʧ j aː - - -
 11	black	black	Duhumbi	Duhumbi		u-ʨʰam	u + tɕʰ a m				2101	u ʨʰ a m	u ʨʰ - a m
@@ -478,32 +478,32 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1112	fat	fat	Bichom	Bichom		e-ju	e + j u				5701	e j u	e - j u -
 1201	fat	fat	Kaspi	Kaspi		e-jo	e + j o				5701	e j o	e - j o -
 1290	fat	fat	Namphri	Namphri		e-jo	e + j o				5701	e j o	e - j o -
-1380	fat	fat	Bulu	Bulu		a-ʒɔː	a + ʒ ɔː				5701	a ʒ ɔː	a ʒ - ɔː -
+1380	fat	fat	Bulu	Bulu		a-ʒɔː	a + ʒ ɔː				5701	a ʒ ɔː	a - ʒ ɔː -
 1480	fat	fat	Kojo_Rojo	Kojo Rojo		a-zjaː	a + z j aː				5701	a z j aː	a z j aː -
 1580	fat	fat	Rawa	Rawa		a-zjaː	a + z j aː				5701	a z j aː	a z j aː -
-1677	fat	fat	Saria	Saria		a-zua	a + z ua				5701	a z ua	a z - ua -
-1777	fat	fat	Chayangtajo	Chayangtajo		a-zua	a + z ua				5701	a z ua	a z - ua -
-1877	fat	fat	Lasumpatte	Lasumpatte		a-ʤua	a + dʒ ua				5701	a ʤ ua	a ʤ - ua -
-30	fingernail	fingernail	Duhumbi	Duhumbi		hut-ʦun	h u t + ts u n				5901	h u t ʦ u n	h u t ʦ u n - -
-130	fingernail	fingernail	Khispi	Khispi		hut-ʦin	h u t + ts i n				5901	h u t ʦ i n	h u t ʦ i n - -
-230	fingernail	fingernail	Rupa	Rupa		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- i k ʦ i ŋ - -
-330	fingernail	fingernail	Shergaon	Shergaon		ik-ʨiŋ	i k + tɕ i ŋ				5901	i k ʨ i ŋ	- i k ʨ i ŋ - -
-431	fingernail	fingernail	Rahung	Rahung		ik-ʨiŋ	i k + tɕ i ŋ				5901	i k ʨ i ŋ	- i k ʨ i ŋ - -
-534	fingernail	fingernail	Khoitam	Khoitam		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- i k ʦ i ŋ - -
-635	fingernail	fingernail	Jerigaon	Jerigaon		ik-ʨʰiŋ	i k + tɕʰ i ŋ				5901	i k ʨʰ i ŋ	- i k ʨʰ i ŋ - -
-734	fingernail	fingernail	Khoina	Khoina		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- i k ʦ i ŋ - -
-836	fingernail	fingernail	Dikhyang	Dikhyang		bə-sɛn	b ə + s ɛ n				5901	b ə s ɛ n	b ə - s ɛ n - -
-933	fingernail	fingernail	Singchung	Singchung		bə-sen	b ə + s e n				5901	b ə s e n	b ə - s e n - -
-1022	fingernail	fingernail	Wangho	Wangho		pə-ʧi-jat	p ə + tʃ i + j a t				5901	p ə ʧ i j a t	p ə - ʧ i j a t
-1113	fingernail	fingernail	Bichom	Bichom		bə-sen	b ə + s e n				5901	b ə s e n	b ə - s e n - -
-1202	fingernail	fingernail	Kaspi	Kaspi		pə̌-sen	p ə̌/ə + s e n				5901	p ə̌ s e n	p ə̌ - s e n - -
-1291	fingernail	fingernail	Namphri	Namphri		pə-ʃen	p ə + ʃ e n				5901	p ə ʃ e n	p ə - ʃ e n - -
-1381	fingernail	fingernail	Bulu	Bulu		a-geʔ gə-sɨn	a + g e ʔ + g ə + s ɨ n				5901	a-geʔ gə-sɨn	- a-geʔ - gə-sɨn - - - -
-1481	fingernail	fingernail	Kojo_Rojo	Kojo Rojo		gei-ʃin	g ei + ʃ i n				5901	g ei ʃ i n	g ei - ʃ i n - -
-1581	fingernail	fingernail	Rawa	Rawa		gə-sin	g ə + s i n				5901	g ə s i n	g ə - s i n - -
-1678	fingernail	fingernail	Saria	Saria		gei-siŋ	g ei + s i ŋ				5901	g ei s i ŋ	g ei - s i ŋ - -
-1778	fingernail	fingernail	Chayangtajo	Chayangtajo		gei-siʔ	g ei + s i ʔ				5901	g ei s i ʔ	g ei - s i ʔ - -
-1878	fingernail	fingernail	Lasumpatte	Lasumpatte		gei-siʔ	g ei + s i ʔ				5901	g ei s i ʔ	g ei - s i ʔ - -
+1677	fat	fat	Saria	Saria		a-zua	a + z ua				5701	a z ua	a - z ua -
+1777	fat	fat	Chayangtajo	Chayangtajo		a-zua	a + z ua				5701	a z ua	a - z ua -
+1877	fat	fat	Lasumpatte	Lasumpatte		a-ʤua	a + dʒ ua				5701	a ʤ ua	a - ʤ ua -
+30	fingernail	fingernail	Duhumbi	Duhumbi		hut-ʦun	h u t + ts u n				5901	h u t ʦ u n	- h u t ʦ u n - -
+130	fingernail	fingernail	Khispi	Khispi		hut-ʦin	h u t + ts i n				5901	h u t ʦ i n	- h u t ʦ i n - -
+230	fingernail	fingernail	Rupa	Rupa		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- - i k ʦ i ŋ - -
+330	fingernail	fingernail	Shergaon	Shergaon		ik-ʨiŋ	i k + tɕ i ŋ				5901	i k ʨ i ŋ	- - i k ʨ i ŋ - -
+431	fingernail	fingernail	Rahung	Rahung		ik-ʨiŋ	i k + tɕ i ŋ				5901	i k ʨ i ŋ	- - i k ʨ i ŋ - -
+534	fingernail	fingernail	Khoitam	Khoitam		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- - i k ʦ i ŋ - -
+635	fingernail	fingernail	Jerigaon	Jerigaon		ik-ʨʰiŋ	i k + tɕʰ i ŋ				5901	i k ʨʰ i ŋ	- - i k ʨʰ i ŋ - -
+734	fingernail	fingernail	Khoina	Khoina		ik-ʦiŋ	i k + ts i ŋ				5901	i k ʦ i ŋ	- - i k ʦ i ŋ - -
+836	fingernail	fingernail	Dikhyang	Dikhyang		bə-sɛn	b ə + s ɛ n				5901	b ə s ɛ n	- b ə - s ɛ n - -
+933	fingernail	fingernail	Singchung	Singchung		bə-sen	b ə + s e n				5901	b ə s e n	- b ə - s e n - -
+1022	fingernail	fingernail	Wangho	Wangho		pə-ʧi-jat	p ə + tʃ i + j a t				5901	p ə ʧ i j a t	- p ə - ʧ i j a t
+1113	fingernail	fingernail	Bichom	Bichom		bə-sen	b ə + s e n				5901	b ə s e n	- b ə - s e n - -
+1202	fingernail	fingernail	Kaspi	Kaspi		pə̌-sen	p ə̌/ə + s e n				5901	p ə̌ s e n	- p ə̌ - s e n - -
+1291	fingernail	fingernail	Namphri	Namphri		pə-ʃen	p ə + ʃ e n				5901	p ə ʃ e n	- p ə - ʃ e n - -
+1381	fingernail	fingernail	Bulu	Bulu		a-geʔ gə-sɨn	a + g e ʔ + g ə + s ɨ n				5901	a-geʔ gə-sɨn	a-geʔ gə-sɨn - - - - - - -
+1481	fingernail	fingernail	Kojo_Rojo	Kojo Rojo		gei-ʃin	g ei + ʃ i n				5901	g ei ʃ i n	- g ei - ʃ i n - -
+1581	fingernail	fingernail	Rawa	Rawa		gə-sin	g ə + s i n				5901	g ə s i n	- g ə - s i n - -
+1678	fingernail	fingernail	Saria	Saria		gei-siŋ	g ei + s i ŋ				5901	g ei s i ŋ	- g ei - s i ŋ - -
+1778	fingernail	fingernail	Chayangtajo	Chayangtajo		gei-siʔ	g ei + s i ʔ				5901	g ei s i ʔ	- g ei - s i ʔ - -
+1878	fingernail	fingernail	Lasumpatte	Lasumpatte		gei-siʔ	g ei + s i ʔ				5901	g ei s i ʔ	- g ei - s i ʔ - -
 31	fire	fire	Duhumbi	Duhumbi		bɛj	b ɛ j				6101	b ɛ j	b ɛ j
 131	fire	fire	Khispi	Khispi		bej	b e j				6101	b e j	b e j
 231	fire	fire	Rupa	Rupa		ba	b a				6101	b a	b a -
@@ -605,26 +605,26 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1686	good	good	Saria	Saria		a-jɨː	a + j ɨː				7506	a j ɨː	a j ɨː
 1786	good	good	Chayangtajo	Chayangtajo		a-njaŋ	a + n j a ŋ				7505	a n j a ŋ	a n j a ŋ
 1886	good	good	Lasumpatte	Lasumpatte		a-njaŋ	a + n j a ŋ				7505	a n j a ŋ	a n j a ŋ
-39	haironhead	hair on head	Duhumbi	Duhumbi		kʰu-ɕaŋ	kʰ u + ɕ a ŋ				7701	kʰ u ɕ a ŋ	kʰ u ɕ - - a ŋ
-139	haironhead	hair on head	Khispi	Khispi		kʰu-ɕaŋ	kʰ u + ɕ a ŋ				7701	kʰ u ɕ a ŋ	kʰ u ɕ - - a ŋ
-239	haironhead	hair on head	Rupa	Rupa		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - - a ŋ
-339	haironhead	hair on head	Shergaon	Shergaon		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - - a ŋ
-440	haironhead	hair on head	Rahung	Rahung		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - - a ŋ
-543	haironhead	hair on head	Khoitam	Khoitam		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - - a ŋ
-644	haironhead	hair on head	Jerigaon	Jerigaon		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z - - a ŋ
-743	haironhead	hair on head	Khoina	Khoina		gə-ʐaŋ	g ə + ʐ a ŋ				7701	g ə ʐ a ŋ	g ə ʐ - - a ŋ
+39	haironhead	hair on head	Duhumbi	Duhumbi		kʰu-ɕaŋ	kʰ u + ɕ a ŋ				7701	kʰ u ɕ a ŋ	kʰ u ɕ a - - ŋ
+139	haironhead	hair on head	Khispi	Khispi		kʰu-ɕaŋ	kʰ u + ɕ a ŋ				7701	kʰ u ɕ a ŋ	kʰ u ɕ a - - ŋ
+239	haironhead	hair on head	Rupa	Rupa		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z a - - ŋ
+339	haironhead	hair on head	Shergaon	Shergaon		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z a - - ŋ
+440	haironhead	hair on head	Rahung	Rahung		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z a - - ŋ
+543	haironhead	hair on head	Khoitam	Khoitam		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z a - - ŋ
+644	haironhead	hair on head	Jerigaon	Jerigaon		gə-zaŋ	g ə + z a ŋ				7701	g ə z a ŋ	g ə z a - - ŋ
+743	haironhead	hair on head	Khoina	Khoina		gə-ʐaŋ	g ə + ʐ a ŋ				7701	g ə ʐ a ŋ	g ə ʐ a - - ŋ
 846	haironhead	hair on head	Dikhyang	Dikhyang		kʰa-zijɔŋ	kʰ a + z i j ɔ ŋ				7701	kʰ a z i j ɔ ŋ	kʰ a z i j ɔ ŋ
 942	haironhead	hair on head	Singchung	Singchung		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z i j a ŋ
 1031	haironhead	hair on head	Wangho	Wangho		kʰa-zijaᵘ	kʰ a + z i j aᵘ/a				7701	kʰ a z i j aᵘ	kʰ a z i j aᵘ -
 1122	haironhead	hair on head	Bichom	Bichom		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z i j a ŋ
 1211	haironhead	hair on head	Kaspi	Kaspi		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z i j a ŋ
 1300	haironhead	hair on head	Namphri	Namphri		kʰa-zijaŋ	kʰ a + z i j a ŋ				7701	kʰ a z i j a ŋ	kʰ a z i j a ŋ
-1390	haironhead	hair on head	Bulu	Bulu		kə-zaN	k ə + z a N/ɴ				7701	k ə z a N	k ə z - - a N
+1390	haironhead	hair on head	Bulu	Bulu		kə-zaN	k ə + z a N/ɴ				7701	k ə z a N	k ə z a - - N
 1490	haironhead	hair on head	Kojo_Rojo	Kojo Rojo		kə-zjaŋ	k ə + z j a ŋ				7701	k ə z j a ŋ	k ə z - j a ŋ
 1590	haironhead	hair on head	Rawa	Rawa		kə-zjaʔ	k ə + z j a ʔ				7701	k ə z j a ʔ	k ə z - j a ʔ
-1687	haironhead	hair on head	Saria	Saria		kə-zaʔ	k ə + z a ʔ				7701	k ə z a ʔ	k ə z - - a ʔ
-1787	haironhead	hair on head	Chayangtajo	Chayangtajo		kə-zak	k ə + z a k				7701	k ə z a k	k ə z - - a k
-1887	haironhead	hair on head	Lasumpatte	Lasumpatte		kə-ʤak	k ə + dʒ a k				7701	k ə ʤ a k	k ə ʤ - - a k
+1687	haironhead	hair on head	Saria	Saria		kə-zaʔ	k ə + z a ʔ				7701	k ə z a ʔ	k ə z a - - ʔ
+1787	haironhead	hair on head	Chayangtajo	Chayangtajo		kə-zak	k ə + z a k				7701	k ə z a k	k ə z a - - k
+1887	haironhead	hair on head	Lasumpatte	Lasumpatte		kə-ʤak	k ə + dʒ a k				7701	k ə ʤ a k	k ə ʤ a - - k
 40	hard	hard	Duhumbi	Duhumbi		kaktar	k a k t a r				7901	k a k t a r	k a k t a r
 140	hard	hard	Khispi	Khispi		kaktal	k a k t a l				7901	k a k t a l	k a k t a l
 240	hard	hard	Rupa	Rupa		a-ʨu	a + tɕ u				7902	a ʨ u	a ʨ u
@@ -639,26 +639,26 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1688	hard	hard	Saria	Saria		gaː	g aː				7906	g aː	- g aː
 1788	hard	hard	Chayangtajo	Chayangtajo		a-kaː	a + k aː				7906	a k aː	a k aː
 1888	hard	hard	Lasumpatte	Lasumpatte		a-kaː	a + k aː				7906	a k aː	a k aː
-41	head	head	Duhumbi	Duhumbi		kʰɔ-lɔk	kʰ ɔ + l ɔ k				8101	kʰ ɔ l ɔ k	- kʰ - ɔ - l ɔ k
-141	head	head	Khispi	Khispi		kʰɔ-lɔk	kʰ ɔ + l ɔ k				8101	kʰ ɔ l ɔ k	- kʰ - ɔ - l ɔ k
-241	head	head	Rupa	Rupa		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ r u - - - k
-341	head	head	Shergaon	Shergaon		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ r u - - - k
-442	head	head	Rahung	Rahung		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ r u - - - k
-545	head	head	Khoitam	Khoitam		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ r u - - - k
-646	head	head	Jerigaon	Jerigaon		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ r u - - - k
+41	head	head	Duhumbi	Duhumbi		kʰɔ-lɔk	kʰ ɔ + l ɔ k				8101	kʰ ɔ l ɔ k	- kʰ ɔ - l ɔ k
+141	head	head	Khispi	Khispi		kʰɔ-lɔk	kʰ ɔ + l ɔ k				8101	kʰ ɔ l ɔ k	- kʰ ɔ - l ɔ k
+241	head	head	Rupa	Rupa		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - - r u k
+341	head	head	Shergaon	Shergaon		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - - r u k
+442	head	head	Rahung	Rahung		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - - r u k
+545	head	head	Khoitam	Khoitam		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - - r u k
+646	head	head	Jerigaon	Jerigaon		kʰ-ruk	kʰ + r u k				8101	kʰ r u k	- kʰ - - r u k
 745	head	head	Khoina	Khoina		mə-tʰɛ̃n	m ə + tʰ ɛ̃ n				8102	m ə tʰ ɛ̃ n	m ə tʰ ɛ̃ n
-848	head	head	Dikhyang	Dikhyang		kʰruk	kʰ r u k				8101	kʰ r u k	- kʰ r u - - - k
-943	head	head	Singchung	Singchung		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ ɾ u - - - k
+848	head	head	Dikhyang	Dikhyang		kʰruk	kʰ r u k				8101	kʰ r u k	- kʰ - - r u k
+943	head	head	Singchung	Singchung		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - - ɾ u k
 1032	head	head	Wangho	Wangho		ki-ja-tuŋ	k i + j a + t u ŋ				8103	k i j a t u ŋ	k i j a t u ŋ
-1123	head	head	Bichom	Bichom		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ ɾ u - - - k
-1212	head	head	Kaspi	Kaspi		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ ɾ u - - - k
-1301	head	head	Namphri	Namphri		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ ɾ u - - - k
-1392	head	head	Bulu	Bulu		a-kuN	a + k u N/ɴ				8101	a k u N	a k - u N - - -
-1492	head	head	Kojo_Rojo	Kojo Rojo		a-kuŋ-bəː	a + k u ŋ + b əː				8101	a k u ŋ b əː	a k - u ŋ b əː -
-1591	head	head	Rawa	Rawa		koʔ-bəu	k o ʔ + b əu				8101	k o ʔ b əu	- k - o ʔ b əu -
-1689	head	head	Saria	Saria		a-koʔ	a + k o ʔ				8101	a k o ʔ	a k - o ʔ - - -
-1789	head	head	Chayangtajo	Chayangtajo		a-kok	a + k o k				8101	a k o k	a k - o - - - k
-1889	head	head	Lasumpatte	Lasumpatte		a-kok	a + k o k				8101	a k o k	a k - o - - - k
+1123	head	head	Bichom	Bichom		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - - ɾ u k
+1212	head	head	Kaspi	Kaspi		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - - ɾ u k
+1301	head	head	Namphri	Namphri		kʰɾuk	kʰ ɾ u k				8101	kʰ ɾ u k	- kʰ - - ɾ u k
+1392	head	head	Bulu	Bulu		a-kuN	a + k u N/ɴ				8101	a k u N	a k u N - - -
+1492	head	head	Kojo_Rojo	Kojo Rojo		a-kuŋ-bəː	a + k u ŋ + b əː				8101	a k u ŋ b əː	a k u ŋ b əː -
+1591	head	head	Rawa	Rawa		koʔ-bəu	k o ʔ + b əu				8101	k o ʔ b əu	- k o ʔ b əu -
+1689	head	head	Saria	Saria		a-koʔ	a + k o ʔ				8101	a k o ʔ	a k o ʔ - - -
+1789	head	head	Chayangtajo	Chayangtajo		a-kok	a + k o k				8101	a k o k	a k o k - - -
+1889	head	head	Lasumpatte	Lasumpatte		a-kok	a + k o k				8101	a k o k	a k o k - - -
 43	heavy	heavy	Duhumbi	Duhumbi		u-li	u + l i				8501	u l i	u l i
 143	heavy	heavy	Khispi	Khispi		u-li	u + l i				8501	u l i	u l i
 243	heavy	heavy	Rupa	Rupa		a-liː	a + l iː				8501	a l iː	a l iː
@@ -741,7 +741,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 450	knee	knee	Rahung	Rahung		la-pʰik kʰɔm	l a + pʰ i k + kʰ ɔ m				9702	la-pʰik kʰɔm	la-pʰik - - - kʰɔm
 553	knee	knee	Khoitam	Khoitam		lə-pʰik kʰɔm	l ə + pʰ i k + kʰ ɔ m				9702	lə-pʰik kʰɔm	lə-pʰik - - - kʰɔm
 655	knee	knee	Jerigaon	Jerigaon		la-pʰyk kriː	l a + pʰ y k + k r iː				9702	la-pʰyk kriː	la-pʰyk - - - kriː
-753	knee	knee	Khoina	Khoina		ja-pʰyk kraː	j a + pʰ y k + k r aː				9702	ja-pʰyk kraː	- - ja-pʰyk - kraː
+753	knee	knee	Khoina	Khoina		ja-pʰyk kraː	j a + pʰ y k + k r aː				9702	ja-pʰyk kraː	ja-pʰyk - - - kraː
 856	knee	knee	Dikhyang	Dikhyang		laː-gjuŋ	l aː + g j u ŋ				9703	l aː g j u ŋ	l aː g - j u ŋ
 949	knee	knee	Singchung	Singchung		lə-spau	l ə + s p au				9704	l ə s p au	l ə s p au
 1038	knee	knee	Wangho	Wangho		la-kijuŋ	l a + k i j u ŋ				9703	l a k i j u ŋ	l a k i j u ŋ
@@ -919,25 +919,25 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1708	navel	navel	Saria	Saria		rue-ri	r ue + r i				11901	r ue r i	- - - r ue - r i - -
 1808	navel	navel	Chayangtajo	Chayangtajo		rue-rei	r ue + r ei				11901	r ue r ei	- - - r ue - r ei - -
 1908	navel	navel	Lasumpatte	Lasumpatte		rue-rei	r ue + r ei				11901	r ue r ei	- - - r ue - r ei - -
-61	neck	neck	Duhumbi	Duhumbi		hɛn-tʰɔŋ	h ɛ n + tʰ ɔ ŋ				12101	h ɛ n tʰ ɔ ŋ	h ɛ n tʰ - ɔ - - - ŋ -
-161	neck	neck	Khispi	Khispi		hɛn-tʰɔŋ	h ɛ n + tʰ ɔ ŋ				12101	h ɛ n tʰ ɔ ŋ	h ɛ n tʰ - ɔ - - - ŋ -
-261	neck	neck	Rupa	Rupa		tʰuŋ-ʦɛ̃ː	tʰ u ŋ + ts ɛ̃ː				12101	tʰ u ŋ ʦ ɛ̃ː	- - - tʰ - u ŋ ʦ ɛ̃ː - -
+61	neck	neck	Duhumbi	Duhumbi		hɛn-tʰɔŋ	h ɛ n + tʰ ɔ ŋ				12101	h ɛ n tʰ ɔ ŋ	h ɛ n tʰ ɔ - - - ŋ
+161	neck	neck	Khispi	Khispi		hɛn-tʰɔŋ	h ɛ n + tʰ ɔ ŋ				12101	h ɛ n tʰ ɔ ŋ	h ɛ n tʰ ɔ - - - ŋ
+261	neck	neck	Rupa	Rupa		tʰuŋ-ʦɛ̃ː	tʰ u ŋ + ts ɛ̃ː				12101	tʰ u ŋ ʦ ɛ̃ː	- - - tʰ u ŋ ʦ ɛ̃ː -
 361	neck	neck	Shergaon	Shergaon		takraː	t a k r aː				12102	t a k r aː	t a k r aː
-462	neck	neck	Rahung	Rahung		pʰ-tʰuŋ	pʰ + tʰ u ŋ				12101	pʰ tʰ u ŋ	pʰ - - tʰ - u - - - ŋ -
-565	neck	neck	Khoitam	Khoitam		nə-tʰuŋ	n ə + tʰ u ŋ				12101	n ə tʰ u ŋ	n ə - tʰ - u - - - ŋ -
-765	neck	neck	Khoina	Khoina		nə-tu-xĩː	n ə + t u + x ĩː				12101	n ə t u x ĩː	n ə - t - u - - - x ĩː
-867	neck	neck	Dikhyang	Dikhyang		raguŋ ju-ŋã	r a g u ŋ + j u + ŋ ã				12103	raguŋ ju-ŋã	raguŋ - ju-ŋã - - -
-958	neck	neck	Singchung	Singchung		e-jua	e + j ua				12103	e j ua	- e j ua - -
+462	neck	neck	Rahung	Rahung		pʰ-tʰuŋ	pʰ + tʰ u ŋ				12101	pʰ tʰ u ŋ	pʰ - - tʰ u ŋ - - -
+565	neck	neck	Khoitam	Khoitam		nə-tʰuŋ	n ə + tʰ u ŋ				12101	n ə tʰ u ŋ	n ə - tʰ u - - - ŋ
+765	neck	neck	Khoina	Khoina		nə-tu-xĩː	n ə + t u + x ĩː				12101	n ə t u x ĩː	n ə - t u - x ĩː -
+867	neck	neck	Dikhyang	Dikhyang		raguŋ ju-ŋã	r a g u ŋ + j u + ŋ ã				12103	raguŋ ju-ŋã	- raguŋ ju-ŋã - - -
+958	neck	neck	Singchung	Singchung		e-jua	e + j ua				12103	e j ua	e - j ua - -
 1047	neck	neck	Wangho	Wangho		ja-pu	j a + p u				12103	j a p u	- - j a p u
-1138	neck	neck	Bichom	Bichom		e-jua	e + j ua				12103	e j ua	- e j ua - -
+1138	neck	neck	Bichom	Bichom		e-jua	e + j ua				12103	e j ua	e - j ua - -
 1227	neck	neck	Kaspi	Kaspi		jua	j ua				12103	j ua	- - j ua - -
 1316	neck	neck	Namphri	Namphri		jua	j ua				12103	j ua	- - j ua - -
-1412	neck	neck	Bulu	Bulu		kə-tuN-rin	k ə + t u N/ɴ + r i n				12101	k ə t u N r i n	k ə - t - u N r i n -
-1512	neck	neck	Kojo_Rojo	Kojo Rojo		tuŋ-rin	t u ŋ + r i n				12101	t u ŋ r i n	- - - t - u ŋ r i n -
-1610	neck	neck	Rawa	Rawa		tõ-rɨn	t õ + r ɨ n				12101	t õ r ɨ n	- - - t - õ - r ɨ n -
-1709	neck	neck	Saria	Saria		kə-tjuŋ	k ə + t j u ŋ				12101	k ə t j u ŋ	k ə - t j u - - - ŋ -
-1809	neck	neck	Chayangtajo	Chayangtajo		kə-tuŋ	k ə + t u ŋ				12101	k ə t u ŋ	k ə - t - u - - - ŋ -
-1909	neck	neck	Lasumpatte	Lasumpatte		kə-tjuŋ	k ə + t j u ŋ				12101	k ə t j u ŋ	k ə - t j u - - - ŋ -
+1412	neck	neck	Bulu	Bulu		kə-tuN-rin	k ə + t u N/ɴ + r i n				12101	k ə t u N r i n	k ə - t u N r i n
+1512	neck	neck	Kojo_Rojo	Kojo Rojo		tuŋ-rin	t u ŋ + r i n				12101	t u ŋ r i n	- - - t u ŋ r i n
+1610	neck	neck	Rawa	Rawa		tõ-rɨn	t õ + r ɨ n				12101	t õ r ɨ n	t õ - - - - r ɨ n
+1709	neck	neck	Saria	Saria		kə-tjuŋ	k ə + t j u ŋ				12101	k ə t j u ŋ	k ə - t - - j u ŋ
+1809	neck	neck	Chayangtajo	Chayangtajo		kə-tuŋ	k ə + t u ŋ				12101	k ə t u ŋ	k ə - t u - - - ŋ
+1909	neck	neck	Lasumpatte	Lasumpatte		kə-tjuŋ	k ə + t j u ŋ				12101	k ə t j u ŋ	k ə - t - - j u ŋ
 62	new	new	Duhumbi	Duhumbi		ɔ-kʰɔn	ɔ + kʰ ɔ n				12301	ɔ kʰ ɔ n	ɔ kʰ ɔ n
 162	new	new	Khispi	Khispi		ɔ-han	ɔ + h a n				12301	ɔ h a n	ɔ h a n
 262	new	new	Rupa	Rupa		a-fan	a + f a n				12301	a f a n	a f a n
@@ -946,12 +946,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 566	new	new	Khoitam	Khoitam		a-fan	a + f a n				12301	a f a n	a f a n
 668	new	new	Jerigaon	Jerigaon		ə-hɛn	ə + h ɛ n				12301	ə h ɛ n	ə h ɛ n
 766	new	new	Khoina	Khoina		a-fɛn	a + f ɛ n				12301	a f ɛ n	a f ɛ n
-868	new	new	Dikhyang	Dikhyang		ə-vɔ̃	ə + v ɔ̃				12302	ə v ɔ̃	- ə v ɔ̃ -
-959	new	new	Singchung	Singchung		o-voᵘ	o + v oᵘ/o				12302	o v oᵘ	- o v oᵘ -
-1048	new	new	Wangho	Wangho		e-voŋ	e + v o ŋ				12302	e v o ŋ	- e v o ŋ
-1139	new	new	Bichom	Bichom		e-wã	e + w ã				12302	e w ã	- e w ã -
-1228	new	new	Kaspi	Kaspi		m-vəo	m + v əo				12302	m v əo	m - v əo -
-1317	new	new	Namphri	Namphri		e-vo	e + v o				12302	e v o	- e v o -
+868	new	new	Dikhyang	Dikhyang		ə-vɔ̃	ə + v ɔ̃				12302	ə v ɔ̃	ə - v ɔ̃ -
+959	new	new	Singchung	Singchung		o-voᵘ	o + v oᵘ/o				12302	o v oᵘ	o - v oᵘ -
+1048	new	new	Wangho	Wangho		e-voŋ	e + v o ŋ				12302	e v o ŋ	e - v o ŋ
+1139	new	new	Bichom	Bichom		e-wã	e + w ã				12302	e w ã	e - w ã -
+1228	new	new	Kaspi	Kaspi		m-vəo	m + v əo				12302	m v əo	- m v əo -
+1317	new	new	Namphri	Namphri		e-vo	e + v o				12302	e v o	e - v o -
 1413	new	new	Bulu	Bulu		a-fɛN	a + f ɛ N/ɴ				12301	a f ɛ N	a f ɛ N
 1513	new	new	Kojo_Rojo	Kojo Rojo		a-fan	a + f a n				12301	a f a n	a f a n
 1611	new	new	Rawa	Rawa		a-faʲt	a + f aʲ/a t				12301	a f aʲ t	a f aʲ t
@@ -1060,7 +1060,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 572	rain	rain	Khoitam	Khoitam		nə-ʨʰu	n ə + tɕʰ u				13502	n ə ʨʰ u	n ə ʨʰ u
 674	rain	rain	Jerigaon	Jerigaon		nə-ʨʰu	n ə + tɕʰ u				13502	n ə ʨʰ u	n ə ʨʰ u
 772	rain	rain	Khoina	Khoina		naː-ʦʰu	n aː + tsʰ u				13502	n aː ʦʰ u	n aː ʦʰ u
-873	rain	rain	Dikhyang	Dikhyang		haː-pʰiɛ	h aː + pʰ iɛ				13503	h aː pʰ iɛ	h aː - pʰ iɛ - -
+873	rain	rain	Dikhyang	Dikhyang		haː-pʰiɛ	h aː + pʰ iɛ				13503	h aː pʰ iɛ	h aː - pʰ - - iɛ
 964	rain	rain	Singchung	Singchung		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
 1053	rain	rain	Wangho	Wangho		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
 1144	rain	rain	Bichom	Bichom		ha-pʰije	h a + pʰ i j e				13503	h a pʰ i j e	h a - pʰ i j e
@@ -1384,7 +1384,7 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1466	toburnit	to burn (it.)	Kojo_Rojo	Kojo Rojo		ʤəu	dʒ əu				2904	ʤ əu	ʤ əu - - - -
 1566	toburnit	to burn (it.)	Rawa	Rawa		ʤəu	dʒ əu				2904	ʤ əu	ʤ əu - - - -
 1663	toburnit	to burn (it.)	Saria	Saria		ʤɨː	dʒ ɨː				2904	ʤ ɨː	ʤ ɨː - - - -
-1763	toburnit	to burn (it.)	Chayangtajo	Chayangtajo		jɨː	j ɨː				2904	j ɨː	j ɨː - - - -
+1763	toburnit	to burn (it.)	Chayangtajo	Chayangtajo		jɨː	j ɨː				2904	j ɨː	- - j ɨː - -
 1863	toburnit	to burn (it.)	Lasumpatte	Lasumpatte		ʤɨː	dʒ ɨː				2904	ʤ ɨː	ʤ ɨː - - - -
 16	tocarryonback	to carry (on back)	Duhumbi	Duhumbi		bu	b u				3101	b u	b u
 116	tocarryonback	to carry (on back)	Khispi	Khispi		bu	b u				3101	b u	b u
@@ -1401,8 +1401,8 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1664	tocarryonback	to carry (on back)	Saria	Saria		eiʔ	e i ʔ				3105	ei ʔ	ei ʔ
 1764	tocarryonback	to carry (on back)	Chayangtajo	Chayangtajo		eiʔ	e i ʔ				3105	ei ʔ	ei ʔ
 1864	tocarryonback	to carry (on back)	Lasumpatte	Lasumpatte		ek	e k				3105	e k	e k
-18	tocryweep	to cry/weep	Duhumbi	Duhumbi		kʰip	kʰ i p				3501	kʰ i p	- kʰ - i p - - -
-118	tocryweep	to cry/weep	Khispi	Khispi		kʰip	kʰ i p				3501	kʰ i p	- kʰ - i p - - -
+18	tocryweep	to cry/weep	Duhumbi	Duhumbi		kʰip	kʰ i p				3501	kʰ i p	- kʰ - i - - p -
+118	tocryweep	to cry/weep	Khispi	Khispi		kʰip	kʰ i p				3501	kʰ i p	- kʰ - i - - p -
 218	tocryweep	to cry/weep	Rupa	Rupa		kʰe	kʰ e				3501	kʰ e	- kʰ - e - - - -
 318	tocryweep	to cry/weep	Shergaon	Shergaon		kʰe	kʰ e				3501	kʰ e	- kʰ - e - - - -
 418	tocryweep	to cry/weep	Rahung	Rahung		ʨʰe	tɕʰ e				3501	ʨʰ e	- ʨʰ - e - - - -
@@ -1412,15 +1412,15 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 823	tocryweep	to cry/weep	Dikhyang	Dikhyang		ʨõ	tɕ õ				3501	ʨ õ	- ʨ - õ - - - -
 921	tocryweep	to cry/weep	Singchung	Singchung		ʧo-ma-ge	tʃ o + m a + g e				3501	ʧ o m a g e	- ʧ - o m a g e
 1010	tocryweep	to cry/weep	Wangho	Wangho		ʧo	tʃ o				3501	ʧ o	- ʧ - o - - - -
-1101	tocryweep	to cry/weep	Bichom	Bichom		ʧoa-pʰa	tʃ oa + pʰ a				3501	ʧ oa pʰ a	- ʧ - oa pʰ a - -
-1190	tocryweep	to cry/weep	Kaspi	Kaspi		ʧoa-pʰa	tʃ oa + pʰ a				3501	ʧ oa pʰ a	- ʧ - oa pʰ a - -
+1101	tocryweep	to cry/weep	Bichom	Bichom		ʧoa-pʰa	tʃ oa + pʰ a				3501	ʧ oa pʰ a	- ʧ - oa - - pʰ a
+1190	tocryweep	to cry/weep	Kaspi	Kaspi		ʧoa-pʰa	tʃ oa + pʰ a				3501	ʧ oa pʰ a	- ʧ - oa - - pʰ a
 1279	tocryweep	to cry/weep	Namphri	Namphri		ʧo	tʃ o				3501	ʧ o	- ʧ - o - - - -
-1369	tocryweep	to cry/weep	Bulu	Bulu		ʧɛʔ	tʃ ɛ ʔ				3501	ʧ ɛ ʔ	- ʧ - ɛ ʔ - - -
-1469	tocryweep	to cry/weep	Kojo_Rojo	Kojo Rojo		ʧap	tʃ a p				3501	ʧ a p	- ʧ - a p - - -
-1569	tocryweep	to cry/weep	Rawa	Rawa		ʧap	tʃ a p				3501	ʧ a p	- ʧ - a p - - -
-1666	tocryweep	to cry/weep	Saria	Saria		kjaʔ	k j a ʔ				3501	k j a ʔ	- k j a ʔ - - -
-1766	tocryweep	to cry/weep	Chayangtajo	Chayangtajo		ʧap	tʃ a p				3501	ʧ a p	- ʧ - a p - - -
-1866	tocryweep	to cry/weep	Lasumpatte	Lasumpatte		ʧjap	tʃ j a p				3501	ʧ j a p	- ʧ j a p - - -
+1369	tocryweep	to cry/weep	Bulu	Bulu		ʧɛʔ	tʃ ɛ ʔ				3501	ʧ ɛ ʔ	- ʧ - ɛ - - ʔ -
+1469	tocryweep	to cry/weep	Kojo_Rojo	Kojo Rojo		ʧap	tʃ a p				3501	ʧ a p	- ʧ - a - - p -
+1569	tocryweep	to cry/weep	Rawa	Rawa		ʧap	tʃ a p				3501	ʧ a p	- ʧ - a - - p -
+1666	tocryweep	to cry/weep	Saria	Saria		kjaʔ	k j a ʔ				3501	k j a ʔ	- k j a - - ʔ -
+1766	tocryweep	to cry/weep	Chayangtajo	Chayangtajo		ʧap	tʃ a p				3501	ʧ a p	- ʧ - a - - p -
+1866	tocryweep	to cry/weep	Lasumpatte	Lasumpatte		ʧjap	tʃ j a p				3501	ʧ j a p	- ʧ j a - - p -
 19	todie	to die	Duhumbi	Duhumbi		i	i				3701	i	i - - -
 119	todie	to die	Khispi	Khispi		i	i				3701	i	i - - -
 219	todie	to die	Rupa	Rupa		iː	iː				3701	iː	iː - - -
@@ -1441,21 +1441,21 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1667	todie	to die	Saria	Saria		iː	iː				3701	iː	iː - - -
 1767	todie	to die	Chayangtajo	Chayangtajo		iː	iː				3701	iː	iː - - -
 1867	todie	to die	Lasumpatte	Lasumpatte		iː	iː				3701	iː	iː - - -
-20	todomake	to do/make	Duhumbi	Duhumbi		le	l e				3901	l e	l - e - - - - -
-120	todomake	to do/make	Khispi	Khispi		li	l i				3901	l i	l - i - - - - -
-220	todomake	to do/make	Rupa	Rupa		ra	r a				3901	r a	r - a - - - - -
-320	todomake	to do/make	Shergaon	Shergaon		ra	r a				3901	r a	r - a - - - - -
-420	todomake	to do/make	Rahung	Rahung		rɛ ~ ra	r ɛ				3901	rɛ ~ ra	rɛ ~ - ra - - - -
-421	todomake	to do/make	Rahung	Rahung		rɛ ~ ra	r a				3901	rɛ ~ ra	rɛ ~ - ra - - - -
-524	todomake	to do/make	Khoitam	Khoitam		rɛ	r ɛ				3901	r ɛ	r - ɛ - - - - -
-625	todomake	to do/make	Jerigaon	Jerigaon		ra	r a				3901	r a	r - a - - - - -
-724	todomake	to do/make	Khoina	Khoina		ra	r a				3901	r a	r - a - - - - -
-825	todomake	to do/make	Dikhyang	Dikhyang		rjɛt	r j ɛ t				3901	r j ɛ t	r j ɛ t - - - -
-923	todomake	to do/make	Singchung	Singchung		ret-ma-ge	r e t + m a + g e				3901	r e t m a g e	r - e t m a g e
-1012	todomake	to do/make	Wangho	Wangho		ret	r e t				3901	r e t	r - e t - - - -
-1103	todomake	to do/make	Bichom	Bichom		reʔ-pʰa	r e ʔ + pʰ a				3901	r e ʔ pʰ a	r - e ʔ pʰ a - -
-1192	todomake	to do/make	Kaspi	Kaspi		reⁱ-pʰa	r eⁱ/e + pʰ a				3901	r eⁱ pʰ a	r - eⁱ - pʰ a - -
-1281	todomake	to do/make	Namphri	Namphri		ɾap-pʰa	ɾ a p + pʰ a				3901	ɾ a p pʰ a	ɾ - a p pʰ a - -
+20	todomake	to do/make	Duhumbi	Duhumbi		le	l e				3901	l e	l - e - - - - - -
+120	todomake	to do/make	Khispi	Khispi		li	l i				3901	l i	l - i - - - - - -
+220	todomake	to do/make	Rupa	Rupa		ra	r a				3901	r a	r - a - - - - - -
+320	todomake	to do/make	Shergaon	Shergaon		ra	r a				3901	r a	r - a - - - - - -
+420	todomake	to do/make	Rahung	Rahung		rɛ ~ ra	r ɛ				3901	rɛ ~ ra	rɛ - ~ - ra - - - -
+421	todomake	to do/make	Rahung	Rahung		rɛ ~ ra	r a				3901	rɛ ~ ra	rɛ - ~ - ra - - - -
+524	todomake	to do/make	Khoitam	Khoitam		rɛ	r ɛ				3901	r ɛ	r - ɛ - - - - - -
+625	todomake	to do/make	Jerigaon	Jerigaon		ra	r a				3901	r a	r - a - - - - - -
+724	todomake	to do/make	Khoina	Khoina		ra	r a				3901	r a	r - a - - - - - -
+825	todomake	to do/make	Dikhyang	Dikhyang		rjɛt	r j ɛ t				3901	r j ɛ t	r j ɛ - t - - - -
+923	todomake	to do/make	Singchung	Singchung		ret-ma-ge	r e t + m a + g e				3901	r e t m a g e	r - e - t m a g e
+1012	todomake	to do/make	Wangho	Wangho		ret	r e t				3901	r e t	r - e - t - - - -
+1103	todomake	to do/make	Bichom	Bichom		reʔ-pʰa	r e ʔ + pʰ a				3901	r e ʔ pʰ a	r - e ʔ pʰ - a - -
+1192	todomake	to do/make	Kaspi	Kaspi		reⁱ-pʰa	r eⁱ/e + pʰ a				3901	r eⁱ pʰ a	r - eⁱ - pʰ - a - -
+1281	todomake	to do/make	Namphri	Namphri		ɾap-pʰa	ɾ a p + pʰ a				3901	ɾ a p pʰ a	ɾ - a p pʰ - a - -
 1371	todomake	to do/make	Bulu	Bulu		ʦaʔ	ts a ʔ				3902	ʦ a ʔ	ʦ a ʔ
 1471	todomake	to do/make	Kojo_Rojo	Kojo Rojo		ʒou	ʒ ou				3903	ʒ ou	ʒ ou
 1571	todomake	to do/make	Rawa	Rawa		kat	k a t				3904	k a t	k a t
@@ -1502,26 +1502,26 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 1684	togive	to give	Saria	Saria		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
 1784	togive	to give	Chayangtajo	Chayangtajo		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
 1884	togive	to give	Lasumpatte	Lasumpatte		taŋ	t a ŋ				7102	t a ŋ	t a ŋ
-37	togo	to go	Duhumbi	Duhumbi		wa	w a				7301	w a	- - w a
-137	togo	to go	Khispi	Khispi		wa	w a				7301	w a	- - w a
+37	togo	to go	Duhumbi	Duhumbi		wa	w a				7301	w a	- - w a - -
+137	togo	to go	Khispi	Khispi		wa	w a				7301	w a	- - w a - -
 237	togo	to go	Rupa	Rupa		rɔ	r ɔ				7302	r ɔ	r ɔ
 337	togo	to go	Shergaon	Shergaon		ro	r o				7302	r o	r o
 438	togo	to go	Rahung	Rahung		rɔ	r ɔ				7302	r ɔ	r ɔ
 541	togo	to go	Khoitam	Khoitam		rɔ	r ɔ				7302	r ɔ	r ɔ
 642	togo	to go	Jerigaon	Jerigaon		rɔ	r ɔ				7302	r ɔ	r ɔ
 741	togo	to go	Khoina	Khoina		rɔ	r ɔ				7302	r ɔ	r ɔ
-844	togo	to go	Dikhyang	Dikhyang		wuə	w uə				7301	w uə	- - w uə
+844	togo	to go	Dikhyang	Dikhyang		wuə	w uə				7301	w uə	- - w uə - -
 940	togo	to go	Singchung	Singchung		lua	l ua				7303	l ua	l ua
-1029	togo	to go	Wangho	Wangho		və-wa	v ə + w a				7301	v ə w a	v ə w a
-1120	togo	to go	Bichom	Bichom		tʰe-vəə	tʰ e + v əː				7301	tʰ e v əə	tʰ e v əə
+1029	togo	to go	Wangho	Wangho		və-wa	v ə + w a				7301	v ə w a	v ə w a - -
+1120	togo	to go	Bichom	Bichom		tʰe-vəə	tʰ e + v əː				7301	tʰ e v əə	tʰ e v əə - -
 1209	togo	to go	Kaspi	Kaspi		dun	d u n				7304	d u n	d u n
-1298	togo	to go	Namphri	Namphri		vəo-pʰa	v əo + pʰ a				7301	v əo pʰ a	v əo pʰ a
-1388	togo	to go	Bulu	Bulu		vuː	v uː				7301	v uː	v uː - -
-1488	togo	to go	Kojo_Rojo	Kojo Rojo		wuː	w uː				7301	w uː	- - w uː
-1588	togo	to go	Rawa	Rawa		woː	w oː				7301	w oː	- - w oː
-1685	togo	to go	Saria	Saria		uː	uː				7301	uː	- uː - -
-1785	togo	to go	Chayangtajo	Chayangtajo		uː	uː				7301	uː	- uː - -
-1885	togo	to go	Lasumpatte	Lasumpatte		uː	uː				7301	uː	- uː - -
+1298	togo	to go	Namphri	Namphri		vəo-pʰa	v əo + pʰ a				7301	v əo pʰ a	- - v əo pʰ a
+1388	togo	to go	Bulu	Bulu		vuː	v uː				7301	v uː	- - v uː - -
+1488	togo	to go	Kojo_Rojo	Kojo Rojo		wuː	w uː				7301	w uː	- - w uː - -
+1588	togo	to go	Rawa	Rawa		woː	w oː				7301	w oː	- - w oː - -
+1685	togo	to go	Saria	Saria		uː	uː				7301	uː	- - - uː - -
+1785	togo	to go	Chayangtajo	Chayangtajo		uː	uː				7301	uː	- - - uː - -
+1885	togo	to go	Lasumpatte	Lasumpatte		uː	uː				7301	uː	- - - uː - -
 42	tohear	to hear	Duhumbi	Duhumbi		ʥas	dʑ a s				8301	ʥ a s	ʥ a s
 142	tohear	to hear	Khispi	Khispi		kʰa la	kʰ a + l a				8302	kʰa la	kʰa la
 242	tohear	to hear	Rupa	Rupa		jɔ	j ɔ				8303	j ɔ	j ɔ - -
@@ -1605,12 +1605,12 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 555	tolaugh	to laugh	Khoitam	Khoitam		zɛː	z ɛː				10101	z ɛː	z - ɛː -
 657	tolaugh	to laugh	Jerigaon	Jerigaon		zɛː	z ɛː				10101	z ɛː	z - ɛː -
 755	tolaugh	to laugh	Khoina	Khoina		ʐaː	ʐ aː				10101	ʐ aː	ʐ - aː -
-858	tolaugh	to laugh	Dikhyang	Dikhyang		sjɔk	s j ɔ k				10102	s j ɔ k	s - j ɔ k - -
-951	tolaugh	to laugh	Singchung	Singchung		ʧijo	tʃ i j o				10102	ʧ i j o	ʧ i j o - - -
-1040	tolaugh	to laugh	Wangho	Wangho		ʧijo	tʃ i j o				10102	ʧ i j o	ʧ i j o - - -
-1131	tolaugh	to laugh	Bichom	Bichom		ʃijaʔ	ʃ i j a ʔ				10102	ʃ i j a ʔ	ʃ i j a ʔ - -
-1220	tolaugh	to laugh	Kaspi	Kaspi		seʔ	s e ʔ				10102	s e ʔ	s - - e ʔ - -
-1309	tolaugh	to laugh	Namphri	Namphri		ʃeʔ-pʰa	ʃ e ʔ + pʰ a				10102	ʃ e ʔ pʰ a	ʃ - - e ʔ pʰ a
+858	tolaugh	to laugh	Dikhyang	Dikhyang		sjɔk	s j ɔ k				10102	s j ɔ k	s - - j ɔ k
+951	tolaugh	to laugh	Singchung	Singchung		ʧijo	tʃ i j o				10102	ʧ i j o	ʧ i - j o -
+1040	tolaugh	to laugh	Wangho	Wangho		ʧijo	tʃ i j o				10102	ʧ i j o	ʧ i - j o -
+1131	tolaugh	to laugh	Bichom	Bichom		ʃijaʔ	ʃ i j a ʔ				10102	ʃ i j a ʔ	ʃ i - j a ʔ
+1220	tolaugh	to laugh	Kaspi	Kaspi		seʔ	s e ʔ				10102	s e ʔ	s e - - - ʔ
+1309	tolaugh	to laugh	Namphri	Namphri		ʃeʔ-pʰa	ʃ e ʔ + pʰ a				10102	ʃ e ʔ pʰ a	ʃ e ʔ pʰ a -
 1402	tolaugh	to laugh	Bulu	Bulu		zɛː	z ɛː				10101	z ɛː	z - ɛː -
 1502	tolaugh	to laugh	Kojo_Rojo	Kojo Rojo		zjei	z j ei				10101	z j ei	z j ei -
 1600	tolaugh	to laugh	Rawa	Rawa		zei	z ei				10101	z ei	z - ei -
@@ -1719,18 +1719,18 @@ ID	PARAMETER_ID	CONCEPT	DOCULECT	LANGUAGE_NAME	VALUE	FORM	TOKENS	GLOTTOLOG	CONCE
 591	totake	to take	Khoitam	Khoitam		tʰĩː	tʰ ĩː				17301	tʰ ĩː	tʰ ĩː - - -
 692	totake	to take	Jerigaon	Jerigaon		tʰøː(n)	tʰ øː				17301	tʰ øː ( n )	tʰ øː ( n )
 791	totake	to take	Khoina	Khoina		tʰøː	tʰ øː				17301	tʰ øː	tʰ øː - - -
-892	totake	to take	Dikhyang	Dikhyang		rijə	r i j ə				17302	r i j ə	- - r - - i j ə - -
+892	totake	to take	Dikhyang	Dikhyang		rijə	r i j ə				17302	r i j ə	- - r i j ə - - - -
 982	totake	to take	Singchung	Singchung		tʰa-rija-ma-ge	tʰ a + r i j a + m a + g e				17302	tʰ a r i j a m a g e	tʰ a r i j a m a g e
-1071	totake	to take	Wangho	Wangho		ɹije	ɹ i j e				17302	ɹ i j e	- - ɹ - - i j e - -
-1162	totake	to take	Bichom	Bichom		ɹeⁱ-pʰa	ɹ eⁱ/e + pʰ a				17302	ɹ eⁱ pʰ a	- - ɹ - - eⁱ pʰ a - -
-1251	totake	to take	Kaspi	Kaspi		je-pʰa	j e + pʰ a				17302	j e pʰ a	- - - - j e pʰ a - -
-1340	totake	to take	Namphri	Namphri		lije	l i j e				17302	l i j e	- - l - - i j e - -
-1438	totake	to take	Bulu	Bulu		leː	l eː				17302	l eː	- - l - - eː - - - -
-1538	totake	to take	Kojo_Rojo	Kojo Rojo		lei	l ei				17302	l ei	- - l - - ei - - - -
-1636	totake	to take	Rawa	Rawa		lei	l ei				17302	l ei	- - l - - ei - - - -
-1735	totake	to take	Saria	Saria		rei	r ei				17302	r ei	- - r - - ei - - - -
-1835	totake	to take	Chayangtajo	Chayangtajo		rei	r ei				17302	r ei	- - r - - ei - - - -
-1935	totake	to take	Lasumpatte	Lasumpatte		rei	r ei				17302	r ei	- - r - - ei - - - -
+1071	totake	to take	Wangho	Wangho		ɹije	ɹ i j e				17302	ɹ i j e	- - ɹ i j e - - - -
+1162	totake	to take	Bichom	Bichom		ɹeⁱ-pʰa	ɹ eⁱ/e + pʰ a				17302	ɹ eⁱ pʰ a	- - ɹ eⁱ pʰ a - - - -
+1251	totake	to take	Kaspi	Kaspi		je-pʰa	j e + pʰ a				17302	j e pʰ a	- - j e pʰ a - - - -
+1340	totake	to take	Namphri	Namphri		lije	l i j e				17302	l i j e	- - l i j e - - - -
+1438	totake	to take	Bulu	Bulu		leː	l eː				17302	l eː	- - l eː - - - - - -
+1538	totake	to take	Kojo_Rojo	Kojo Rojo		lei	l ei				17302	l ei	- - l ei - - - - - -
+1636	totake	to take	Rawa	Rawa		lei	l ei				17302	l ei	- - l ei - - - - - -
+1735	totake	to take	Saria	Saria		rei	r ei				17302	r ei	- - r ei - - - - - -
+1835	totake	to take	Chayangtajo	Chayangtajo		rei	r ei				17302	r ei	- - r ei - - - - - -
+1935	totake	to take	Lasumpatte	Lasumpatte		rei	r ei				17302	r ei	- - r ei - - - - - -
 90	tongue	tongue	Duhumbi	Duhumbi		lɔj	l ɔ j				17901	l ɔ j	- l ɔ j -
 190	tongue	tongue	Khispi	Khispi		luj	l u j				17901	l u j	- l u j -
 290	tongue	tongue	Rupa	Rupa		laː-pʰɔ̃	l aː + pʰ ɔ̃				17901	l aː pʰ ɔ̃	- l aː pʰ ɔ̃

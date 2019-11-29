@@ -1,16 +1,16 @@
 # Tutorial accompanying the chapter "Managing historical linguistic data for computational phylogenetics and computer-assisted language comparison"
  
-# Tresoldi, Tiago; Rzymski, Christoph; Forkel, Robert; Greenhill, Simon J.; List, Johann-Mattis
+# Tresoldi, Tiago; Rzymski, Christoph; Forkel, Robert; Greenhill, Simon J.; List, Johann-Mattis; Gray, Russell D.
 
-This tutorial supplements the aforementioned chapter, intentionally following a similar progression of analysis. The aim is to facilitate understanding of the more theoretical topics of the chapter while allowing readers to see step-by-step examples of the input, intermediate, and output files of a common phylogenetic analysis.
+This tutorial supplements the aforementioned chapter and intentionally follows a similar progression of analysis. The aim is to facilitate the understanding of the more theoretical topics of the chapter while allowing readers to see step-by-step examples of the input, intermediate, and output files of a common phylogenetic analysis.
 
-The workflow uses the Python programming language and a number of libraries developed at the Max-Planck-Institute for the Science of Human History (MPI-SHH), in particular the `lingpy` library. All these libraries are free and open source. For more information on LingPy, we recommend readers see the tutorial published as [supplementary material](https://github.com/lingpy/lingpy-tutorial) to "[Sequence comparison in computational historical linguistics](https://academic.oup.com/jole/article/3/2/130/5050100)" by List et al. (2018). 
+The workflow uses the Python programming language and several libraries developed at the Max Planck Institute for the Science of Human History (MPI-SHH), in particular the `lingpy` library. All these libraries are free and open source. For more information on LingPy, we recommend readers see the tutorial published as [supplementary material](https://github.com/lingpy/lingpy-tutorial) to "[Sequence comparison in computational historical linguistics](https://academic.oup.com/jole/article/3/2/130/5050100)" by List et al. (2018). 
 
 ## 1 Getting Started
 
 We assume readers are familiar with the essentials of command-line operation on either Unix-like systems (such as Linux and MacOS) or Windows systems. Likewise, we assume that the system is updated and that [Python](https://www.python.org/) is installed, along with its package manager `pip` and the `wheel` package. The latter might be necessary for installing the supporting libraries and, in those situations, it must be available *before* installing them.
 
-We strongly recommend using virtual environments for reproducing the steps outlined here. Virtual environments are a practical solution for creating independent configurations for testing and experimenting, with no interference on the system-wide installation. More information on virtual environments can be found on the [Python documentation](https://docs.python.org/3/tutorial/venv.html). In most systems, a virtual environment can be created by calling `python -m venv env`. Once created, the environment can be activated with `source env/bin/activate` and deactivated with the `deactivate` command.
+We strongly recommend using virtual environments for reproducing the steps outlined here. Virtual environments are a practical solution for creating independent configurations for testing and experimenting, that do not interfere with any other Python programs installed on the system. More information on virtual environments can be found on the [Python documentation](https://docs.python.org/3/tutorial/venv.html). In most systems, a virtual environment can be created by calling `python -m venv env`. Once created, the environment can be activated with `source env/bin/activate` and deactivated with the `deactivate` command.
 
 After all the dependencies have been installed, a virtual environment with the libraries required by this tutorial can be installed with:
  
@@ -21,7 +21,7 @@ pip install --upgrade wheel
 pip install -r pip-requirements.txt
 ```
 
-All the code snippets below assume that the necessary libraries have already been imported in Python. The full list of imports, which can be executed upon initialization and for testing that all libraries were properly installed, is:
+All the code snippets below must be executed from inside Python (either by calling `python` from the command line, entering them one by one, or by placing them in a Python script) and assume that the necessary libraries have already been imported in Python. The full list of imports, which can be executed upon initialization and for testing that all libraries were properly installed, is:
 
 ```python
 import lingpy
@@ -38,9 +38,9 @@ As this tutorial is intended to illustrate the management of data for phylogenet
 
 #### 2.1.1 Creating and Curating Data in CLDF
 
-While the details and advantages of CLDF have been discussed and presented in Forkel et al. (2018), we would like to briefly highlight the benefits of using CLDF as a basis for datasets in historical linguistics and, by extension, phylogenetic analyses. While, at a first glance, CLDF and the outer appearance of a dataset (e.g. information split across multiple files), might seem daunting or even plainly unnecessary, it gives researchers a powerful toolset via the expressiveness of relational data structures in well-supported serialization formats, namely CSV and JSON. The format allows for the creation of truly linked data (see for example the embedded information concerning languoids and concepts in the Kho-Bwa sample dataset), which at the same time exists independently of any other software stack, given that all the information are stored in plain (but structured) text files. The fact that multiple files are 'glued' together by a JSON file, which specifies how files are related as well as metadata information for every file and column, allows for unique identifiers for every record, and guarantees maximum flexibility with regards to research designs and experimental setups.
+While the details and advantages of CLDF have been discussed and presented in Forkel et al. (2018), we would like to highlight the benefits for historical linguistics and, by extension, phylogenetic analyses. While at first glance CLDF might seem daunting or unnecessary, it has many benefits. First, the structure is easily importable into standard statistical and analytic tools in many programming languages or analysis packages. Second, CLDF gives researchers a powerful toolset to express relational data structures in well-supported open formats, namely CSV and JSON. Third, the metadata contained within CLDF describes the data structure for enabling permanent documentation of the data structure, and facilitating the re-use of the data. Further, the metadata allows known types of columns to be validated and checked for incorrect content ensuring that the data is correct. Fourth, CLDF is linked data which means that any type of extra information can be easily added to the dataset by linking it to the relevant identifier (see for example the embedded information concerning languoids and concepts in the Kho-Bwa sample dataset). These data exist independently of any other software stack as all they can be stored in plain (but structured) text files. The fact that multiple files are 'glued' together by a JSON file, which specifies how files are related as well as metadata information for every file and column, allows for unique identifiers for every record, and guarantees maximum flexibility regarding research designs and experimental setups.
 
-We support the creation as well as the conversion of CLDF-compatible data from a [variety of source materials](https://github.com/cldf/cookbook/tree/master/recipes) and CLDF can even be easily created from [within spreadsheet software like Microsoft Excel](https://github.com/cldf/cookbook/tree/master/recipes/excel). For the more systematic creation of CLDF datasets from different sources, we have created [`pylexibank`](https://github.com/lexibank/pylexibank/), a Python toolchain employed in the [Lexibank project](https://github.com/lexibank/). `pylexibank` makes it easy to programmatically create and curate CLDF datasets.
+We support the creation as well as the conversion of CLDF-compatible data from a [variety of source materials](https://github.com/cldf/cookbook/tree/master/recipes) and CLDF can even be easily created from [within spreadsheet software like Microsoft Excel](https://github.com/cldf/cookbook/tree/master/recipes/excel). For the more systematic creation of CLDF datasets from different sources, we have created [`pylexibank`](https://github.com/lexibank/pylexibank/), a Python toolchain employed in the [Lexibank project](https://github.com/lexibank/). `pylexibank` makes it easy to create and curate CLDF datasets.
 
 A first impression regarding the status of the data can be gained with the help of the Python `pycldf` package, which also makes a `cldf` command-line utility available. To validate the data, and to operate with CLDF datasets in general, we only need to refer to its JSON metadata file, as in: 
  
@@ -109,7 +109,7 @@ ant  ant  Duhumbi  Duhumbi    kʰin-ʨʰɔk  kʰ i n + tɕʰ ɔ k          701
 ---  ---  -------  -------    ---------  ----------------          ---
 ```
 
-The statistics reported by the command-line `cldf` utility can be confirmed by inspecting the in-memory wordlist. Besides confirming the number of languages, concepts, and forms, we can extract more advanced statistics such as minimal and mutual average coverage of concepts across the languages in the dataset [@List2018f]. These statistics provide useful information that can help us ascertain if we have an acceptable amount of comparable material for a phylogenetic analysis.
+The statistics reported by the command-line `cldf` utility can be confirmed by inspecting the in-memory wordlist. Besides confirming the number of languages, concepts, and forms, we can extract more advanced statistics such as minimal and mutual average coverage of concepts across the languages in the dataset. These statistics provide useful information that can help us ascertain if we have an acceptable amount of comparable material for a phylogenetic analysis.
 
 Basic statistics can be obtained by querying directly the wordlist object:
 
@@ -205,7 +205,7 @@ Please remember that the dataset distributed along with this tutorial is derived
 
 Our dataset provides cognate sets coded by experts, but no information on sequence alignment. Sequence alignment is a necessary step for many methods of automatic cognate detection, and can be used to support other tasks of comparative linguistics such as identification of sound correspondences.
 
-LingPy can be used to automatically align all forms belonging to same cognate set:
+LingPy can be used to align all forms belonging to same cognate set:
 
 ```python
 alms = lingpy.Alignments(wl, transcription='form', ref="cogid", segments="segments")
@@ -244,7 +244,7 @@ e       -       j       u       -
 e       -       j       u       -
 ```
 
-The alignment object is a wordlist which carries information from its source, and can written to disk as a single-table or CLDF dataset. The alignment can therefore be easily exported into other tools, for example Edictor (mentioned in #3.4), which is designed for exploration and manipulation of this kind of data. A tab-separated output, for example, can be generated with:
+The alignment object is a wordlist which carries information from its source, and can be written to disk as a single-table or CLDF dataset. The alignment can therefore be easily exported into other tools, for example Edictor (mentioned in #3.4), which is designed for exploration and manipulation of this kind of data. A tab-separated output, for example, can be generated with:
 
 ```python
 alms.output('tsv', filename='khobwa-aligned', ignore="all", prettify=False)
@@ -305,7 +305,7 @@ LingPy also allows for the detection of partial cognates, which can be used to c
 
 ### 2.2.3 Manual Exploration and Manipulation 
 
-Data can be explored and manipulated with the [EDICTOR tool](http://edictor.digling.org), a web-based interface for the creation and curation of etymological dictionaries. EDICTOR essentially supports to edit and correct cognate judgments manually, and also allows to inspect and correct phonetic alignments. In addition, one can use EDICTOR to inspect cognate set distributions, phoneme inventories, and morphological structures (full and partial colexifications), also allowing to export the data to Nexus format.
+Data can be explored and manipulated with the [EDICTOR tool](http://edictor.digling.org), a web-based interface for the creation and curation of etymological dictionaries. EDICTOR essentially supports to edit and correct cognate judgments manually and also allows to inspect and correct phonetic alignments. In addition, one can use EDICTOR to inspect cognate set distributions, phoneme inventories, and morphological structures (full and partial colexifications), also allowing to export the data to Nexus format.
 
 ![Edictor](edictor.png)
 
@@ -332,7 +332,7 @@ Bulu    0.5506  0.0000  0.3300  0.5567  0.5600  0.5204  0.5730  0.5400  0.5354  
 
 #### 2.3.2 Distance-Based Phylogenetic Trees
 
-Distance matrices can be used for additional methods of data exploration, such as bulding distance-based trees with algorithms like Neighbor joining (NJ) and Unweighted Pair Group Method with Arithmetic-mean (UPGMA). Many software packages, including _SplitsTree_, can use such matrices, with LingPy already providing methods for easy computation and display of such trees:
+Distance matrices can be used for additional methods of data exploration, such as building distance-based trees with algorithms like Neighbor joining (NJ) and Unweighted Pair Group Method with Arithmetic-mean (UPGMA). Many software packages, including _SplitsTree_, can use such matrices, with LingPy already providing methods for easy computation and display of such trees:
 
 ```python
 tree = lingpy.Tree(wl.get_tree(ref='cogid', tree_calc='upgma', force=True))
@@ -392,10 +392,10 @@ to_cldf(wl, path='cldf-new')
 
 ### 2.5 Data Sharing (Stage 5)
 
-Being able to export wordlists, with any additional information such as cognate sets coming from automatic cognate judgment, allows users to easily export, deploy, and share datasets. Both wordlists and CLDF datasets can be either provided as-is to users or, preferably, made available via on-line services such as GitHub and Zenodo. For CLICS, the Database of Cross-Linguistic Colexifcations, we make heavy use of this and automatically publish all curated datasets from GitHub to the [CLICS Zenodo Community](https://zenodo.org/communities/clics/).
+Being able to export wordlists, with any additional information such as cognate sets coming from automatic cognate judgment, allows users to export, deploy, and share datasets easily. Both wordlists and CLDF datasets can be either provided as-is to users or, preferably, made available via on-line services such as GitHub and Zenodo. For CLICS, the Database of Cross-Linguistic Colexifications, we make heavy use of this and automatically publish all curated datasets from GitHub to the [CLICS Zenodo Community](https://zenodo.org/communities/clics/).
 
-An interesting possibility is to rely on the infrastucture of `lexibank`, to deploy datasets as Python packages that can then be conveniently installed from the command line, and [`clld`](https://clld.org), to deploy them as online services. This makes publishing and serving curated data straightforward, and also has the advantage of facilitating anonymous sharing of data for review purposes, deploying it as a Python package on GitHub and using it by means of on-line services such as the Open Science Framework.
+An interesting possibility is to rely on the infrastructure of `lexibank`, to deploy datasets as Python packages that can then be conveniently installed from the command line, and [`clld`](https://clld.org), to deploy them as online services. This makes publishing and serving curated data straightforward, and also has the advantage of facilitating anonymous sharing of data for review purposes, deploying it as a Python package on GitHub and using it by means of on-line services such as the Open Science Framework.
 
 ## 3 Conclusion
 
-Given the complexity of the topic, the current tutorial can only provide an incomplete introduction to the fascinating world of data managment in computational phylogenetics and computer-assisted language comparison. We hope, however, to have shown enough to ease the the entry for readers with little experience in data managment and phylogenetic analysis.  If you have questions on the management of linguistic data for phylogenetic analyses or CLDF, don't hesitate to contact us at <lexibank@shh.mpg.de>. Questions about LingPy can be posted either as an issue on its [GitHub repository](https://github.com/lingpy/lingpy) or sent to <info@lingpy.org>.
+Given the complexity of the topic, the current tutorial can only provide an incomplete introduction to the world of data management in computational phylogenetics and computer-assisted language comparison. We hope, however, to have shown enough to ease the entry for readers with little experience in data managment and phylogenetic analysis.  If you have questions on the management of linguistic data for phylogenetic analyses or CLDF, don't hesitate to contact us at <lexibank@shh.mpg.de>. Questions about LingPy can be posted either as an issue on its [GitHub repository](https://github.com/lingpy/lingpy) or sent to <info@lingpy.org>.

@@ -1,21 +1,23 @@
-ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code
-Khispi,Khispi,,,,,
-Dikhyang,Dikhyang,,,,,
-Saria,Saria,,,,,
-Kaspi,Kaspi,,,,,
-Chayangtajo,Chayangtajo,,,,,
-Singchung,Singchung,,,,,
-Rawa,Rawa,,,,,
-Kojo_Rojo,Kojo Rojo,,,,,
-Bulu,Bulu,,,,,
-Shergaon,Shergaon,,,,,
-Rahung,Rahung,,,,,
-Namphri,Namphri,,,,,
-Bichom,Bichom,,,,,
-Wangho,Wangho,,,,,
-Lasumpatte,Lasumpatte,,,,,
-Khoina,Khoina,,,,,
-Khoitam,Khoitam,,,,,
-Rupa,Rupa,,,,,
-Duhumbi,Duhumbi,,,,,
-Jerigaon,Jerigaon,,,,,
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,Source,Source_Name
+Bichom,Bichom,bich1234,Bichom,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Bichom
+Bulu,Bulu,bulu1255,Bulu,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Bulu
+Chayangtajo,Chayangtajo,bugu1245,Chayangtajo,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Chayangtajo
+Dikhyang,Dikhyang,dikh1234,Dikhyang,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Dikhyang
+Duhumbi,Duhumbi,chug1252,Chug,cvg,Eurasia,27.4177713,92.2255891,Sino-Tibetan,Lieberherr2017,Duhumbi
+Jerigaon,Jerigaon,jeri1243,Jerigaon,,Eurasia,27.3376444,92.4685696,Sino-Tibetan,Lieberherr2017,Jerigaon
+Kaspi,Kaspi,kasp1234,Kaspi,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Kaspi
+Khispi,Khispi,lish1235,Lish,lsh,Eurasia,27.3688993,92.2394672,Sino-Tibetan,Lieberherr2017,Khispi
+Khoina,Khoina,khoi1253,Khoina,,Eurasia,27.3429306,92.5104585,Sino-Tibetan,Lieberherr2017,Khoina
+Khoitam,Khoitam,khoi1252,Khoitam,,Eurasia,27.3293889,92.4360113,Sino-Tibetan,Lieberherr2017,Khoitam
+Kojo_Rojo,Kojo Rojo,kojo1234,Kojo Rojo,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Kojo Rojo
+Lasumpatte,Lasumpatte,lasu1234,Lasumpatte,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Lasumpatte
+Namphri,Namphri,namp1239,Namphri,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Namphri
+Rahung,Rahung,rahu1234,Rahung,,Eurasia,27.375914,92.409383,Sino-Tibetan,Lieberherr2017,Rahung
+Rawa,Rawa,rawa1269,Rawa (Puroik),,Eurasia,,,Sino-Tibetan,Lieberherr2017,Rawa
+Rupa,Rupa,rupa1234,Rupa,,Eurasia,27.2029222,92.3970446,Sino-Tibetan,Lieberherr2017,Rupa
+Saria,Saria,sari1249,Sario Saria,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Saria
+Shergaon,Shergaon,sher1261,Shergaon,,Eurasia,27.1285861,92.2578307,Sino-Tibetan,Lieberherr2017,Shergaon
+Singchung,Singchung,sing1271,Singchung,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Singchung
+Wangho,Wangho,wang1301,Wangho,,Eurasia,,,Sino-Tibetan,Lieberherr2017,Wangho
+Eastern_Puroik_Sun,Eastern Puroik (Sun),sulu1241,Eastern Puroik,suv,Eurasia,27.3153778,92.3840919,Sino-Tibetan,Sun1991,ZMYYC
+Eastern_Puroik_Li,Eastern Puroik (Li),sulu1241,Eastern Puroik,suv,Eurasia,27.3153778,92.3840919,Sino-Tibetan,Li2004,Li Daqin

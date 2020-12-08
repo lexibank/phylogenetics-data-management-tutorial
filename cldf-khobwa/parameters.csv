@@ -1,101 +1,101 @@
-ID,Name,Description,Concepticon_ID
-wing,wing,,
-blood,blood,,
-black,black,,
-navel,navel,,
-louse,louse,,
-liver,liver,,
-long,long,,
-fingernail,fingernail,,
-fleshmeat,flesh/meat,,
-tocarryonback,to carry (on back),,
-tolaugh,to laugh,,
-big,big,,
-tocryweep,to cry/weep,,
-toknow,to know,,
-eat,eat,,
-tongue,tongue,,
-todie,to die,,
-wind,wind,,
-smoke,smoke,,
-house,house,,
-tail,tail,,
-mouth,mouth,,
-armhand,arm/hand,,
-3sg,3SG,,
-red,red,,
-what,what?,,
-name,name,,
-heavy,heavy,,
-tokill,to kill,,
-head,head,,
-root,root,,
-tofly,to fly,,
-togive,to give,,
-tosee,to see,,
-skinhide,skin/hide,,
-tosleep,to sleep,,
-fire,fire,,
-breast,breast,,
-moon,moon,,
-one,one,,
-toburnit,to burn (it.),,
-cloud,cloud,,
-tosit,to sit,,
-ant,ant,,
-egg,egg,,
-2sg,2SG,,
-haironhead,hair on head,,
-drink,drink,,
-wood,wood,,
-eye,eye,,
-todomake,to do/make,,
-togo,to go,,
-ash,ash,,
-in,in,,
-tosay,to say,,
-torun,to run,,
-sweet,sweet,,
-stand,stand,,
-who,who?,,
-woman,woman,,
-sand,sand,,
-far,far,,
-fish,fish,,
-ear,ear,,
-neck,neck,,
-horn,horn,,
-nose,nose,,
-yesterday,yesterday,,
-white,white,,
-good,good,,
-legfoot,leg/foot,,
-this,this,,
-sun,sun,,
-bird,bird,,
-fat,fat,,
-thick,thick,,
-1sg,1SG,,
-not,not,,
-dog,dog,,
-bitter,bitter,,
-tohear,to hear,,
-small,small,,
-tooth,tooth,,
-stonerock,stone/rock,,
-hard,hard,,
-star,star,,
-salt,salt,,
-rain,rain,,
-oldofthings,old of things,,
-leaf,leaf,,
-water,water,,
-dry,dry,,
-totake,to take,,
-full,full,,
-new,new,,
-tohide,to hide,,
-bite,bite,,
-bone,bone,,
-path,path,,
-knee,knee,,
+ID,Name,Concepticon_ID,Concepticon_Gloss
+1_1sg,1SG,1209,I
+2_2sg,2SG,1215,THOU
+3_3sg,3SG,2642,HE OR SHE
+4_ant,ant,587,ANT
+5_armhand,arm/hand,2121,ARM OR HAND
+6_ash,ash,646,ASH
+7_big,big,1202,BIG
+8_bird,bird,937,BIRD
+9_bite,bite,1403,BITE
+10_bitter,bitter,887,BITTER
+11_black,black,163,BLACK
+12_blood,blood,946,BLOOD
+13_bone,bone,1394,BONE
+14_breast,breast,1402,BREAST
+15_toburnit,to burn (it.),1428,BURNING
+16_tocarryonback,to carry (on back),465,CARRY ON BACK
+17_cloud,cloud,1489,CLOUD
+18_tocryweep,to cry/weep,1839,CRY
+19_todie,to die,1494,DIE
+20_todomake,to do/make,2575,DO OR MAKE
+21_dog,dog,2009,DOG
+22_drink,drink,1401,DRINK
+23_dry,dry,1398,DRY
+24_ear,ear,1247,EAR
+25_eat,eat,1336,EAT
+26_egg,egg,744,EGG
+27_eye,eye,1248,EYE
+28_far,far,1406,FAR
+29_fat,fat,323,FAT (ORGANIC SUBSTANCE)
+30_fingernail,fingernail,1258,FINGERNAIL
+31_fire,fire,221,FIRE
+32_fish,fish,227,FISH
+33_fleshmeat,flesh/meat,2615,FLESH OR MEAT
+34_tofly,to fly,1441,FLY (MOVE THROUGH AIR)
+35_full,full,1429,FULL
+36_togive,to give,1447,GIVE
+37_togo,to go,695,GO
+38_good,good,1035,GOOD
+39_haironhead,hair on head,2648,HAIR (HEAD)
+40_hard,hard,1884,HARD
+41_head,head,1256,HEAD
+42_tohear,to hear,1408,HEAR
+43_heavy,heavy,1210,HEAVY
+44_tohide,to hide,2486,HIDE
+45_tokill,to kill,1417,KILL
+46_horn,horn,1393,HORN (ANATOMY)
+47_house,house,1252,HOUSE
+48_in,in,1460,IN
+49_knee,knee,1371,KNEE
+50_toknow,to know,1410,KNOW (SOMETHING)
+51_tolaugh,to laugh,1355,LAUGH
+52_leaf,leaf,628,LEAF
+53_legfoot,leg/foot,2098,FOOT OR LEG
+54_liver,liver,1224,LIVER
+55_long,long,1203,LONG
+56_louse,louse,1392,LOUSE
+57_moon,moon,1313,MOON
+58_mouth,mouth,674,MOUTH
+59_name,name,1405,NAME
+60_navel,navel,1838,NAVEL
+61_neck,neck,1333,NECK
+62_new,new,1231,NEW
+63_nose,nose,1221,NOSE
+64_not,not,1240,NOT
+65_oldofthings,old of things,2113,OLD (USED)
+66_one,one,1493,ONE
+67_path,path,2252,PATH
+68_rain,rain,2108,RAINING OR RAIN
+69_red,red,156,RED
+70_root,root,670,ROOT
+71_torun,to run,1519,RUN
+72_salt,salt,1274,SALT
+73_sand,sand,671,SAND
+74_tosay,to say,1458,SAY
+75_tosee,to see,1409,SEE
+76_tosit,to sit,1416,SIT
+77_skinhide,skin/hide,763,SKIN
+78_tosleep,to sleep,1585,SLEEP
+79_small,small,1246,SMALL
+80_smoke,smoke,778,SMOKE (EXHAUST)
+81_stand,stand,1442,STAND
+82_star,star,1430,STAR
+83_stonerock,stone/rock,2125,STONE OR ROCK
+84_sun,sun,1343,SUN
+85_sweet,sweet,717,SWEET
+86_tail,tail,1220,TAIL
+87_totake,to take,1749,TAKE
+88_thick,thick,1244,THICK
+89_this,this,1214,THIS
+90_tongue,tongue,1205,TONGUE
+91_tooth,tooth,1380,TOOTH
+92_water,water,948,WATER
+93_what,what?,1236,WHAT
+94_white,white,1335,WHITE
+95_who,who?,1235,WHO
+96_wind,wind,960,WIND
+97_wing,wing,1257,WING
+98_woman,woman,962,WOMAN
+99_wood,wood,1803,WOOD
+100_yesterday,yesterday,1174,YESTERDAY

@@ -32,7 +32,7 @@ from tabulate import tabulate
 ```
 ## 2 Illustration of the Phylogenetic Data Life-Cycle
 
-### 2.1 Data Handling (Stage 1)
+### 2.1 Data Collection (stage 1)
 
 As this tutorial is intended to illustrate the management of data for phylogenetic analyses, we will not discuss common operations of data collection, normalization, etc. A data set for Kho-Bwa languages derived from Lieberherr and Bodt (2017) is distributed along with this document, and mirrors the final stage of data preparation that is expected. While `lingpy` can load directly from single-table wordlists, such as those produced with a spreadsheet program, we recommend converting data to a common format, [CLDF](https://cldf.clld.org/), before adapting this tutorial to other needs. More detailed explanations are given in `lingpy` and `CLDF` documentation, and the single-table wordlist that served as a source the CLDF data, which can be compared to the CLDF data set, can be found as a supplementary material to Lieberherr and Bodt (2017).
 
@@ -198,7 +198,7 @@ wl_lexibank = lingpy.Wordlist.from_cldf(cldf_metadata,
              'cogid_cognateset_id'))
 ```
 
-### 2.2 Computer-Assisted Language Comparison (Stage 2)
+### 2.2 Computer-Assisted Language Comparison (stage 2)
 
 #### 2.2.1 Sequence Alignment
 
@@ -308,7 +308,7 @@ Data can be explored and manipulated with the [EDICTOR tool](http://edictor.digl
 
 ![Edictor](edictor.png)
 
-### 2.3 Exploratory Data Analysis (Stage 3)
+### 2.3 Exploratory Data Analysis (stage 3)
 
 #### 2.3.1 Distance Measures
 
@@ -370,7 +370,7 @@ The tree itself can be saved in standard Newick format for use in tree visualisa
 tree.writeToFile("lieberherrkhobwa-upgma.trees")
 ```
 
-### 2.4 Bayesian Phylogenetic Analysis (Stage 4)
+### 2.4 Phylogenetic Analysis (stage 4)
 
 Data can also be exported to perform Bayesian analysis with tools such as `BEAST2`, `MrBayes`, `RevBayes`, `APE`, etc., whose usage will not be discussed here. From the point of view of data-management, almost all software for phylogenetic analysis use data in some dialect of the NEXUS format, which can be generated from a wordlist with LingPy:
 
@@ -389,7 +389,7 @@ from lingpy.convert.cldf import to_cldf
 to_cldf(wl, path='cldf-new')
 ```
 
-### 2.5 Data Sharing (Stage 5)
+### 2.5 Data Sharing and Deployment (stage 5)
 
 Being able to export wordlists, with any additional information such as cognate sets coming from automatic cognate judgment, allows users to export, deploy, and share data sets easily. Both wordlists and CLDF data sets can be either provided as-is to users or, preferably, made available via on-line services such as GitHub and Zenodo. For CLICS, the Database of Cross-Linguistic Colexifications, we make heavy use of this and automatically publish all curated data sets from GitHub to the [CLICS Zenodo Community](https://zenodo.org/communities/clics/).
 

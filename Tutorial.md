@@ -21,7 +21,7 @@ pip install --upgrade wheel
 pip install -r pip-requirements.txt
 ```
 
-All the code snippets below assume that the necessary libraries have already been imported in Python. The full list of imports, which can be executed upon initialization and for testing that all libraries were properly installed, is:
+All the code snippets below must be executed from inside Python (either by calling `python` from the command line, entering them one by one, or by placing them in a Python script) and assume that the necessary libraries have already been imported in Python. The full list of imports, which can be executed upon initialization and for testing that all libraries were properly installed, is:
 
 ```python
 import lingpy
@@ -304,7 +304,7 @@ LingPy also allows for the detection of partial cognates, which can be used to c
 
 ### 2.2.3 Manual Exploration and Manipulation
 
-Data can be explored and manipulated with the [EDICTOR tool](http://edictor.digling.org), a web-based interface for the creation and curation of etymological dictionaries. EDICTOR essentially supports to edit and correct cognate judgments manually and also allows to inspect and correct phonetic alignments. In addition, one can use EDICTOR to inspect cognate set distributions, phoneme inventories, and morphological structures (full and partial colexifications), also allowing to export the data to Nexus format.
+Data can be explored and manipulated with the [EDICTOR tool](http://edictor.digling.org), a web-based interface for the creation and curation of etymological dictionaries. EDICTOR essentially supports to edit and correct cognate judgments manually, and also allows to inspect and correct phonetic alignments. In addition, one can use EDICTOR to inspect cognate set distributions, phoneme inventories, and morphological structures (full and partial colexifications), also allowing to export the data to Nexus format.
 
 ![Edictor](edictor.png)
 

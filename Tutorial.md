@@ -397,5 +397,5 @@ An interesting possibility is to rely on the infrastructure of `lexibank`, to de
 
 ## 3 Conclusion
 
-Given the complexity of the topic, the current tutorial can only provide an incomplete introduction to the world of data management in computational phylogenetics and computer-assisted language comparison. We hope, however, to have shown enough to ease the entry for readers with little experience in data managment and phylogenetic analysis.  If you have questions on the management of linguistic data for phylogenetic analyses or CLDF, don't hesitate to contact us at <lexibank@shh.mpg.de>. Questions about LingPy can be posted either as an issue on its [GitHub repository](https://github.com/lingpy/lingpy) or sent to <info@lingpy.org>.
+Given the complexity of the topic, the current tutorial can only provide an incomplete introduction to the world of data management in computational phylogenetics and computer-assisted language comparison. We hope, however, to have shown enough to ease the entry for readers with little experience in data managment and phylogenetic analysis.  If you have questions on the management of linguistic data for phylogenetic analyses or CLDF, don't hesitate to contact us. Questions about LingPy can be posted either as an issue on its [GitHub repository](https://github.com/lingpy/lingpy) or sent to <info@lingpy.org>.
 
